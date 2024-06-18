@@ -1,0 +1,1001 @@
+Patient_ID,Visit Date,Clinic ID,Clinic Name,District,Age,Gender,Pregnant,Covid_Vaccine,Medical Aid,Job Type,Mode of Transport,Patient Age,Patient Gender,Symptoms,Diagnosis,Treatment Given,Quarter,Follow-up Required
+3160da88-a230-40dc-9f55-0a46429f842f,2023-12-25,17,Moeti,Ghanzi District,51,Female,Yes,Sputnik V,No,farm worker,shared private car,8,Female,fatigue,flu,rest,Q1,No
+cbf707c0-35ea-404c-b4ed-b6ad3b0d4c5c,2024-02-10,17,Gaborone west,South-East District,46,Female,Yes,Sputnik V,Yes,office worker,private car,40,Female,cough,respiratory infection,fluids,Q2,No
+069bb526-1dde-4524-8904-2fe9aed221f2,2024-06-04,23,Shoshong,Central District,65,Female,No,Covaxin,No,office worker,public transport,81,Female,headache,common cold,rest,Q3,Yes
+4a62be36-5c65-48b3-9eb5-059112495fcb,2023-11-06,31,Phuthadikobo,Central District,8,Female,Yes,AstraZeneca,Yes,construction worker,private car,51,Male,sore throat,respiratory infection,medication,Q1,Yes
+df565560-63a6-4e82-b012-e90a1edafce4,2024-03-03,41,Tonota,Central District,8,Male,No,Moderna,No,farm worker,shared private car,99,Male,headache,common cold,rest,Q2,No
+1bb1e62a-91cd-4e71-951b-86364553e910,2024-01-05,23,Sesame,Central District,1,Male,Yes,Sinopharm,No,farm worker,public transport,15,Female,fatigue,common cold,medication,Q2,Yes
+ef6d1fb8-7b0f-4e61-bd96-c61053115e16,2024-05-19,31,Gerald,North-East District,23,Female,No,Sinopharm,Yes,construction worker,private car,5,Male,cough,respiratory infection,medication,Q3,No
+ab9fe36f-68f6-4eac-b5a4-18c2d127f785,2023-07-19,31,Phuthadikobo,Central District,77,Female,No,Sinopharm,No,construction worker,private car,44,Female,fever,respiratory infection,fluids,Q4,No
+0249d41a-b056-4f5d-b016-8cf3be0fc163,2023-10-23,42,Broadhurst 3 (BH3),South-East District,8,Female,No,Sinopharm,Yes,office worker,public transport,63,Male,headache,flu,fluids,Q1,No
+455ff0d5-476b-4fb4-9b49-f4791680503a,2024-02-25,9,Jubilee,South-East District,5,Female,No,Covaxin,No,farm worker,public transport,37,Female,fever,respiratory infection,fluids,Q2,No
+610239cb-e9dc-42d8-9bb4-5aef4e96f088,2023-07-28,4,Mopipi,Ghanzi District,19,Female,Yes,Sputnik V,Yes,farm worker,shared private car,67,Female,fever,flu,medication,Q4,No
+3d8145bd-b317-45d3-b5a3-43a5d49a23e4,2024-05-24,37,Ditsweletse,Kweneng District,23,Male,No,Sinopharm,Yes,construction worker,private car,46,Male,fever,respiratory infection,rest,Q3,Yes
+58a887b6-c197-472f-8adc-498ca7defd4f,2023-07-08,24,Maun General Clinic,North-West District,15,Male,Yes,Moderna,No,construction worker,private car,40,Male,sore throat,flu,fluids,Q4,No
+e2ab06b9-8da0-4866-914c-313ca46e902e,2023-07-13,35,Mabutsane,Southern District,7,Male,No,Sputnik V,Yes,farm worker,private car,39,Male,cough,common cold,fluids,Q4,Yes
+f94ae5b3-d7a3-4c5b-a126-a80fb45faf41,2023-07-09,39,Boseja II,Central District,81,Female,Yes,AstraZeneca,Yes,construction worker,public transport,43,Male,cough,respiratory infection,fluids,Q4,No
+91adc77b-6809-45f7-bba6-bc6f1acafbaa,2023-07-25,34,Mabutsane,Southern District,84,Male,No,Sinovac,No,office worker,public transport,57,Male,fever,flu,rest,Q4,Yes
+ebae086a-5183-49de-87d4-a46fd4347cf7,2024-05-02,15,Kachikau,North-West District,10,Male,No,Pfizer-BioNTech,Yes,office worker,public transport,41,Male,sore throat,common cold,rest,Q3,No
+21100ca0-e3e4-46a5-b0a4-0003e4a18213,2023-09-14,18,Ditsweletse,Kweneng District,4,Male,No,Pfizer-BioNTech,Yes,farm worker,private car,84,Male,headache,respiratory infection,medication,Q4,Yes
+1e376dd6-9c34-4a59-bd7c-1c031025be24,2023-07-07,21,Shakawe,North-West District,2,Female,Yes,Sputnik V,No,office worker,private car,26,Female,fatigue,flu,rest,Q4,Yes
+94a1b3b2-d05a-42d5-95f1-7f34bb22367a,2024-02-03,38,Mabutsane,Southern District,13,Male,Yes,Sinopharm,No,health worker,shared private car,68,Male,cough,common cold,rest,Q2,No
+8ff74498-4374-4936-9c25-13520627ccff,2023-08-30,23,Letlhakeng,Kweneng District,54,Female,No,AstraZeneca,Yes,construction worker,private car,70,Female,fatigue,common cold,medication,Q4,Yes
+3e46701b-f0a6-4daa-a70f-87b7c64f8a0e,2024-03-12,3,Phuthadikobo,Central District,10,Male,No,Moderna,No,construction worker,private car,73,Female,cough,flu,rest,Q2,No
+26c02771-faaa-4425-afd6-56005d0d16ef,2024-05-25,27,Nata,Central District,58,Male,Yes,Sinopharm,Yes,construction worker,shared private car,27,Male,headache,flu,rest,Q3,No
+d5e7a8ee-2289-416b-940c-5be989f9e760,2024-05-07,37,Takatokwane,Central District,27,Male,No,Sinovac,Yes,construction worker,shared private car,22,Female,cough,common cold,fluids,Q3,No
+78144566-cd18-4ffc-850a-f7a6372032a1,2024-01-13,6,Boseja II,Central District,20,Female,No,Covaxin,No,farm worker,public transport,5,Female,fatigue,flu,medication,Q2,Yes
+f95e0d6b-4bcb-49d6-838d-4a22c1d3a896,2023-09-05,12,Maun General Clinic,North-West District,24,Male,No,Sputnik V,Yes,office worker,public transport,30,Male,headache,respiratory infection,fluids,Q4,Yes
+11f068bf-f0d3-428f-8609-3cb7aa15f4db,2024-05-26,19,Broadhurst 3 (BH3),South-East District,55,Male,Yes,Covaxin,Yes,office worker,private car,87,Male,headache,common cold,fluids,Q3,No
+4a2eb58d-d006-41af-ba6a-fae1488d6da3,2023-07-07,41,Oodi,South-East District,5,Female,No,Sinopharm,No,construction worker,private car,62,Female,fever,respiratory infection,fluids,Q4,Yes
+6b923138-7318-4453-bb51-5ce85e6b3eaf,2024-03-17,37,Takatokwane,Central District,53,Female,Yes,Covaxin,No,office worker,public transport,73,Female,cough,respiratory infection,fluids,Q2,Yes
+709aa049-0561-4151-a309-35664f872036,2023-12-02,28,Mathethe,Southern District,99,Female,Yes,AstraZeneca,No,health worker,shared private car,94,Female,cough,respiratory infection,fluids,Q1,No
+7bd9c874-a9da-498a-9303-987fc875cee0,2023-10-06,21,Moeti,Ghanzi District,51,Male,No,Moderna,Yes,construction worker,public transport,70,Male,sore throat,common cold,rest,Q1,Yes
+a895f971-93fc-45ed-8088-ba969dfab1f0,2023-11-29,10,Mabutsane,Southern District,67,Male,Yes,Moderna,No,farm worker,private car,80,Male,cough,flu,fluids,Q1,Yes
+f0242b52-9356-46cb-909d-c20193bed996,2024-01-19,8,Sese,Central District,83,Female,No,Sinovac,Yes,farm worker,shared private car,76,Female,sore throat,flu,fluids,Q2,Yes
+d4cec3fd-b4b7-429d-bbaa-1047413e8090,2023-10-11,29,Khakhea,Ghanzi District,65,Male,Yes,AstraZeneca,No,health worker,public transport,66,Male,fatigue,respiratory infection,medication,Q1,No
+854f66be-97e9-40ec-a559-465163d1b6cb,2023-07-05,34,Mabutsane,Southern District,21,Female,Yes,Johnson & Johnson,Yes,health worker,shared private car,16,Male,headache,common cold,medication,Q4,No
+8d8ae671-7cbd-400c-ab17-8ef8cc094dd9,2023-08-17,40,Tapologong,Central District,43,Female,Yes,Pfizer-BioNTech,Yes,farm worker,shared private car,69,Male,fatigue,flu,medication,Q4,Yes
+4fec4395-ede4-4098-becd-d441ce04daca,2023-12-11,20,Bokaa,Central District,69,Female,No,Sinovac,No,health worker,private car,83,Male,headache,respiratory infection,medication,Q1,Yes
+348e8da8-f01f-4386-9c27-28d9a44f151f,2024-05-06,1,Mathethe,Southern District,41,Female,Yes,Johnson & Johnson,Yes,health worker,private car,77,Male,headache,flu,rest,Q3,No
+8a95a823-07ce-4c25-8840-a44d738e871e,2023-12-14,25,Kanye Main Clinic,Southern District,29,Female,Yes,Sinopharm,Yes,office worker,public transport,54,Female,cough,common cold,fluids,Q1,Yes
+2ee1a0a8-7548-4015-8702-1843e3025dbd,2023-08-23,32,Tonota,Central District,76,Male,No,AstraZeneca,No,construction worker,private car,65,Male,fever,common cold,fluids,Q4,No
+f772f2df-c7ef-45da-ae4f-bf9f91a65b82,2023-10-27,18,Gerald,North-East District,84,Male,No,Pfizer-BioNTech,Yes,office worker,shared private car,91,Female,sore throat,flu,fluids,Q1,No
+e5375855-fb0f-4508-872c-490b3ba0bfdc,2023-09-28,29,Old Naledi,South-East District,15,Male,No,Sinovac,No,health worker,shared private car,74,Male,fever,common cold,rest,Q4,No
+5169c7cb-310f-450c-b226-911768bd2dd8,2023-07-04,3,Boseja II,Central District,98,Male,Yes,Covaxin,No,office worker,private car,31,Female,sore throat,common cold,rest,Q4,Yes
+c620b762-0e31-46b2-8935-5c30ea820dad,2023-07-24,30,Kachikau,North-West District,62,Female,No,Sinopharm,Yes,office worker,shared private car,75,Male,cough,respiratory infection,fluids,Q4,No
+01126d3c-4ff1-4cf3-9b5b-b6ec982eabe4,2024-05-14,35,Oodi,South-East District,65,Female,No,Johnson & Johnson,Yes,health worker,public transport,18,Male,cough,respiratory infection,rest,Q3,Yes
+6bd1dd15-bd82-446f-9a64-1ec787dd4897,2024-03-22,38,Kgwatlheng,Kweneng District,16,Male,Yes,Johnson & Johnson,Yes,farm worker,shared private car,29,Male,fever,flu,fluids,Q2,Yes
+6a3f8358-ab46-42b7-ac5c-84fbcb88ed1a,2024-04-20,25,Bokaa,Central District,1,Male,No,Sinovac,Yes,farm worker,private car,15,Female,fatigue,flu,medication,Q3,No
+45d9d190-3c48-4094-be09-4473e8ea2327,2023-09-26,18,Sebina,Central District,18,Male,No,AstraZeneca,Yes,health worker,private car,77,Male,fatigue,respiratory infection,rest,Q4,No
+cc89701e-f4e7-4297-a92a-81243eb4645f,2024-02-19,29,Moeti,Ghanzi District,60,Female,No,Covaxin,Yes,health worker,public transport,48,Male,fever,flu,medication,Q2,Yes
+c0806e19-10e3-40ac-a3ca-0ce05e3cc887,2023-11-20,42,Broadhurst 3 (BH3),South-East District,58,Male,No,Moderna,No,construction worker,public transport,39,Female,headache,respiratory infection,medication,Q1,Yes
+60731c5c-9bef-41e5-9b46-ed6e0cad872a,2024-06-08,11,Kgwatlheng,Kweneng District,38,Male,Yes,Sinovac,Yes,health worker,private car,84,Female,headache,common cold,fluids,Q3,No
+33f2cc57-37d1-49d3-95dd-536ba68493c5,2023-08-27,22,Takatokwane,Central District,88,Male,Yes,Johnson & Johnson,No,office worker,private car,93,Male,sore throat,common cold,fluids,Q4,Yes
+f1eb6227-2a8f-47a0-b6c4-c080ce01be9d,2024-03-29,7,Ditsweletse,Kweneng District,41,Male,Yes,Moderna,Yes,health worker,public transport,1,Male,fever,respiratory infection,medication,Q2,Yes
+e5215ac3-e79f-44d4-bb8e-df17183f3a9b,2023-07-23,23,Broadhurst 3 (BH3),South-East District,52,Female,Yes,Covaxin,No,health worker,shared private car,17,Male,headache,flu,rest,Q4,No
+bdf7d5a4-80a8-4331-9d32-8efef3f6f552,2024-06-05,9,Letlhakeng,Kweneng District,45,Female,No,Covaxin,No,health worker,private car,20,Male,cough,common cold,medication,Q3,Yes
+7df5e7aa-c9ce-4452-9e86-ac99aa724ea7,2023-11-11,22,Boseja II,Central District,86,Male,No,Sputnik V,No,construction worker,private car,5,Female,fever,flu,fluids,Q1,No
+51512014-c94d-4d87-95d3-47eeaedf36ca,2024-04-11,41,Mafitlhakgosi,Central District,35,Female,Yes,Johnson & Johnson,No,construction worker,public transport,75,Male,sore throat,common cold,rest,Q3,No
+4990abd6-ab27-470a-94fc-f5c82cf07358,2023-10-28,2,Khakhea,Ghanzi District,93,Female,Yes,Sputnik V,No,office worker,shared private car,8,Female,headache,flu,rest,Q1,No
+3da41bc9-2970-44c6-b340-902474515867,2023-07-14,13,Ditsweletse,Kweneng District,99,Female,No,Pfizer-BioNTech,Yes,health worker,public transport,1,Female,headache,flu,fluids,Q4,Yes
+30efa270-3c28-44f7-8cc5-3c276a7422b4,2023-06-19,15,Charleshill,North-East District,63,Male,Yes,Johnson & Johnson,Yes,health worker,private car,51,Female,fatigue,flu,medication,Q3,Yes
+aa82973d-df1d-40ef-b2f3-3186119dbf20,2023-08-09,9,Sesame,Central District,100,Male,No,Sputnik V,No,office worker,shared private car,19,Male,headache,common cold,rest,Q4,No
+11b864d1-ee18-49c4-8c1d-220c11dc8d57,2023-10-16,6,Maun General Clinic,North-West District,63,Male,No,Moderna,Yes,construction worker,private car,90,Female,cough,flu,medication,Q1,Yes
+18e5edde-23f8-4264-8a0c-caab1c49aff9,2024-05-18,10,Sese,Central District,54,Female,No,AstraZeneca,Yes,health worker,shared private car,47,Male,headache,respiratory infection,rest,Q3,No
+90804c1d-ed7e-4e74-85fd-c3abc92ed590,2023-08-13,38,Otse,Kweneng District,81,Male,No,Sinovac,Yes,farm worker,public transport,4,Male,fatigue,flu,fluids,Q4,Yes
+3f945f1e-2a51-48e6-9223-61f9c9f6d874,2024-01-27,33,Boseja II,Central District,72,Male,Yes,Sinopharm,Yes,construction worker,shared private car,26,Female,fatigue,common cold,medication,Q2,No
+0bf3c45c-c404-49e0-a675-f89457cb9be2,2023-09-21,11,Khakhea,Ghanzi District,26,Female,No,Sinovac,No,construction worker,private car,58,Female,cough,flu,medication,Q4,No
+dc8a17e0-5470-4b77-b33c-5e46acb576e6,2023-11-21,15,Mathethe,Southern District,94,Male,No,Sinopharm,Yes,health worker,shared private car,5,Female,fever,common cold,medication,Q1,No
+8efb40de-fbaf-4045-a6cd-7e7bc1569916,2023-09-02,25,Gerald,North-East District,97,Male,Yes,Sputnik V,Yes,farm worker,private car,84,Female,fatigue,respiratory infection,medication,Q4,Yes
+6890b348-6fa1-47cc-bcc2-0723ea5113c4,2024-06-17,4,Khakhea,Ghanzi District,48,Female,No,Covaxin,No,office worker,private car,79,Male,fever,respiratory infection,fluids,Q3,No
+ca6bb5b3-e204-47eb-8e63-68fc11461825,2023-07-29,20,Lesirane,North-East District,46,Female,Yes,Sinopharm,No,farm worker,shared private car,10,Female,fatigue,common cold,medication,Q4,Yes
+9b36bf6f-88ac-41a4-8c89-ffd7cbb5745a,2023-07-18,9,Tapologong,Central District,2,Female,Yes,Sinopharm,Yes,office worker,private car,4,Male,headache,flu,rest,Q4,Yes
+2afa5d49-e82c-432d-b1c7-b328e7c616d2,2024-05-26,36,Boipelego,Kweneng District,10,Female,No,Sinovac,Yes,farm worker,private car,31,Female,cough,respiratory infection,fluids,Q3,No
+1610a49d-09be-42c2-bf9f-239f47ef3a56,2024-06-04,17,Boipelego,Kweneng District,83,Male,Yes,Covaxin,No,farm worker,shared private car,88,Male,cough,common cold,fluids,Q3,No
+795e9512-bc02-4c46-ba93-fef167fd43f4,2023-11-12,9,Tsopeng,Central District,78,Female,No,Sinopharm,Yes,office worker,shared private car,84,Male,fatigue,respiratory infection,medication,Q1,Yes
+5a7984aa-c71a-4c71-9d43-ba34cbdc11c6,2024-03-05,35,Oodi,South-East District,66,Female,No,Sputnik V,No,farm worker,private car,1,Male,sore throat,common cold,fluids,Q2,Yes
+0a7d31a1-eda7-467e-b2c2-a61ab47bc62a,2024-02-28,26,Bokaa,Central District,47,Male,Yes,Covaxin,No,office worker,shared private car,37,Female,fever,common cold,medication,Q2,Yes
+c802a449-44d2-4631-b928-f20ffe4d558c,2024-03-05,21,Gerald,North-East District,83,Male,No,Johnson & Johnson,Yes,farm worker,shared private car,6,Male,cough,flu,medication,Q2,Yes
+44f94116-f99e-438b-88da-181aa2f3592e,2024-05-26,11,Sese,Central District,20,Male,Yes,AstraZeneca,Yes,office worker,public transport,48,Female,headache,respiratory infection,fluids,Q3,Yes
+5c6bf017-18aa-441a-a3c5-b74c952eb2d9,2023-07-12,21,Sesame,Central District,80,Male,No,AstraZeneca,No,farm worker,shared private car,1,Female,fatigue,common cold,fluids,Q4,No
+642d8450-c6a5-45d8-b658-c40b9912c1e2,2023-12-11,20,Sebina,Central District,18,Male,No,Covaxin,Yes,construction worker,private car,49,Male,sore throat,common cold,fluids,Q1,Yes
+ea5c3141-d6e8-416e-bb62-7e8bd4027de8,2024-03-05,22,Sesame,Central District,94,Female,Yes,Johnson & Johnson,No,health worker,private car,64,Male,fever,common cold,rest,Q2,Yes
+e611f8dd-d190-4d00-b549-f00c98f58f9d,2023-08-27,26,Tonota,Central District,1,Male,No,Johnson & Johnson,No,office worker,private car,61,Female,fever,common cold,fluids,Q4,Yes
+d6f53d7b-b196-4c07-81ee-788cd2c02316,2024-03-04,27,Gaborone west,South-East District,42,Female,Yes,Sinovac,No,farm worker,private car,42,Male,fatigue,common cold,medication,Q2,Yes
+85f958d4-d179-4941-aac4-f7d0b282224d,2023-07-25,41,Boipelego,Kweneng District,8,Male,Yes,Sputnik V,No,farm worker,public transport,5,Male,headache,flu,medication,Q4,No
+7ecb0282-5526-47b5-935c-d0113489e3f5,2024-01-23,15,Airstrip,Central District,31,Male,Yes,AstraZeneca,No,farm worker,public transport,85,Female,fever,flu,rest,Q2,No
+768bc1c1-8105-4da1-95bb-46d644276787,2024-03-01,37,Khakhea,Ghanzi District,14,Male,Yes,Sputnik V,Yes,health worker,public transport,83,Female,sore throat,respiratory infection,rest,Q2,Yes
+c1d15c79-9790-41f8-ae30-a7fe10a5634b,2023-12-09,39,Boipelego,Kweneng District,15,Female,Yes,AstraZeneca,Yes,office worker,shared private car,57,Female,fever,common cold,fluids,Q1,Yes
+8afeec6a-5666-47c6-923e-e4c66050615d,2023-10-30,31,Mopipi,Ghanzi District,52,Female,No,Covaxin,No,office worker,shared private car,77,Male,fever,common cold,rest,Q1,No
+0d8d857c-ce9b-42a5-aa3e-17c2abd5e289,2024-01-25,11,Sese,Central District,50,Male,No,Johnson & Johnson,Yes,health worker,public transport,75,Female,sore throat,flu,rest,Q2,Yes
+2949a29c-7c70-4fd5-9ea5-813f4112402a,2023-12-06,19,Nata,Central District,68,Male,Yes,Covaxin,No,construction worker,private car,0,Male,headache,flu,fluids,Q1,No
+1edff0b3-e7b7-420e-bd67-0c3b04a81e2f,2024-01-26,22,Tonota,Central District,71,Male,Yes,Sinovac,Yes,health worker,private car,51,Male,headache,flu,rest,Q2,Yes
+7312aec4-0967-4dfd-9f1c-909f93f0c724,2023-10-18,8,Kgwatlheng,Kweneng District,99,Female,No,Sinovac,No,office worker,shared private car,89,Male,fever,common cold,rest,Q1,Yes
+261d5482-e519-4133-9409-ae4d8fd54e09,2023-11-01,43,Lesirane,North-East District,68,Male,Yes,Pfizer-BioNTech,No,health worker,shared private car,85,Female,fatigue,common cold,rest,Q1,No
+d876df80-4ff0-4a6a-8cb2-53a64e71fb8d,2024-06-11,40,Tsopeng,Central District,68,Female,No,Pfizer-BioNTech,No,office worker,private car,82,Female,fever,common cold,fluids,Q3,Yes
+bbfde2fd-b409-4c0e-b9d3-d1a6deab6765,2024-01-25,43,Sese,Central District,25,Female,No,Sinovac,No,office worker,public transport,77,Male,sore throat,respiratory infection,rest,Q2,No
+b3776eba-f7ea-42b3-ab87-0ae3ad39e4a5,2023-11-29,12,Khakhea,Ghanzi District,61,Female,Yes,Sinovac,Yes,farm worker,public transport,79,Male,cough,common cold,fluids,Q1,Yes
+66bf65be-e1ef-4acc-b939-ce9ded834ec2,2024-02-01,27,Kachikau,North-West District,43,Female,Yes,AstraZeneca,No,health worker,private car,22,Male,headache,flu,fluids,Q2,Yes
+3be4c6f2-8240-4fca-bbd6-d093fd0a9080,2023-08-03,14,Moshupa,Southern District,15,Male,No,Sinovac,Yes,construction worker,private car,80,Male,sore throat,common cold,fluids,Q4,Yes
+6b343b6a-6a91-4ace-8289-e9e426b09e61,2023-10-06,9,Gerald,North-East District,49,Male,Yes,Sinovac,Yes,farm worker,private car,8,Female,headache,respiratory infection,medication,Q1,Yes
+f244a317-44f4-4a72-a6b5-1ed57d18d0fc,2024-05-27,24,Otse,Kweneng District,49,Female,No,Sinopharm,Yes,office worker,shared private car,69,Male,headache,flu,fluids,Q3,No
+27e5d424-2d1f-44a8-8c2c-456e2de0ca12,2023-06-20,16,Khakhea,Ghanzi District,58,Male,Yes,AstraZeneca,Yes,health worker,private car,77,Male,sore throat,respiratory infection,medication,Q3,Yes
+52aff4db-a495-443d-a1bb-4bd19cdf0866,2024-04-08,42,Takatokwane,Central District,73,Male,Yes,Moderna,No,farm worker,private car,59,Male,fatigue,flu,fluids,Q3,No
+bf7e949d-194c-4e9b-8a43-eaa2ef019c2f,2023-12-01,12,Charleshill,North-East District,68,Female,No,Sinopharm,Yes,farm worker,public transport,81,Female,headache,respiratory infection,fluids,Q1,Yes
+a373539e-7313-46a0-bafd-9567bf71eeb8,2024-02-15,6,Boipelego,Kweneng District,42,Male,Yes,Covaxin,No,office worker,shared private car,95,Female,sore throat,common cold,rest,Q2,No
+b7f0cc35-9a83-4591-a4c1-d47070d07bd0,2023-10-15,29,Sebina,Central District,28,Female,Yes,Moderna,No,office worker,public transport,85,Female,fever,respiratory infection,medication,Q1,No
+d1d83cec-b46f-4e62-89be-efeee1137497,2023-07-26,32,Gaborone west,South-East District,74,Female,Yes,Sputnik V,Yes,health worker,shared private car,25,Female,fatigue,common cold,fluids,Q4,Yes
+36f0226d-cebe-4ce8-adba-b0b475738757,2023-10-25,43,Tsopeng,Central District,9,Male,No,Moderna,No,construction worker,public transport,1,Female,sore throat,respiratory infection,fluids,Q1,Yes
+98c5ca42-5ca2-46b4-924d-4169d6c3a33d,2023-08-28,26,Otse,Kweneng District,23,Male,No,Sinopharm,Yes,health worker,shared private car,26,Female,headache,common cold,medication,Q4,Yes
+f69a6562-9f6a-4036-a090-bc8fd1f61572,2024-03-19,40,Kachikau,North-West District,60,Male,No,Sputnik V,No,construction worker,public transport,0,Female,fatigue,flu,rest,Q2,Yes
+91ba5d71-b08a-4ae7-bfcf-902ab9db02e1,2024-06-05,23,Gaborone west,South-East District,97,Female,Yes,Sputnik V,Yes,construction worker,private car,12,Female,sore throat,respiratory infection,medication,Q3,No
+6b8efe67-7b50-454b-9146-f03df932f9c5,2023-11-27,36,Kachikau,North-West District,15,Male,No,AstraZeneca,Yes,health worker,private car,54,Male,sore throat,respiratory infection,fluids,Q1,Yes
+0a109c48-98be-43c9-9d96-39845a297b2b,2023-10-05,8,Old Naledi,South-East District,0,Female,No,Moderna,No,farm worker,shared private car,72,Male,fever,respiratory infection,medication,Q1,No
+e1e94941-e633-4e2e-a6ac-380cb002ef5a,2024-04-15,2,Airstrip,Central District,37,Female,No,Johnson & Johnson,Yes,farm worker,public transport,40,Female,fever,common cold,fluids,Q3,Yes
+b382a834-a836-4dc0-9471-9698e031e5be,2023-10-05,33,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,83,Female,Yes,AstraZeneca,No,office worker,private car,87,Female,fatigue,flu,medication,Q1,Yes
+e44141ef-a6ee-4ac1-8460-633f8bbd4299,2023-09-28,22,Broadhurst 3 (BH3),South-East District,71,Female,No,Johnson & Johnson,Yes,health worker,public transport,10,Female,fever,flu,fluids,Q4,Yes
+c3762329-6b10-4a84-a0c8-72a8095e8e47,2023-07-25,37,Old Naledi,South-East District,93,Male,No,Pfizer-BioNTech,No,construction worker,shared private car,64,Female,fatigue,flu,rest,Q4,Yes
+7f8e8612-9d4a-4c8e-91a8-4dd04d9ad142,2023-08-19,16,Shoshong,Central District,35,Male,Yes,Sinovac,Yes,farm worker,public transport,51,Female,fever,flu,fluids,Q4,Yes
+c64a6e4a-3217-4d1b-aec4-d5166c604836,2023-09-13,30,Mopipi,Ghanzi District,0,Male,No,Sinovac,Yes,construction worker,private car,61,Male,cough,flu,rest,Q4,No
+183ee47f-52bd-4ae7-8bf0-e7224ece9fb0,2024-06-06,11,Gerald,North-East District,61,Male,No,Sputnik V,Yes,construction worker,shared private car,77,Male,headache,respiratory infection,fluids,Q3,Yes
+bc1bd1a0-d979-4e69-b297-2d8a704b357f,2023-11-28,31,Tapologong,Central District,92,Female,Yes,Sinovac,Yes,health worker,shared private car,18,Male,sore throat,common cold,medication,Q1,Yes
+e1fafe3f-0971-4c44-b735-67f8a8ddda17,2023-10-01,29,Otse,Kweneng District,87,Female,Yes,Johnson & Johnson,No,office worker,shared private car,38,Female,cough,common cold,fluids,Q1,Yes
+bfcc7afa-09ef-4e39-8f3f-4e9d269eeef2,2024-01-24,21,Otse,Kweneng District,39,Male,Yes,Johnson & Johnson,No,farm worker,shared private car,59,Male,fatigue,flu,medication,Q2,Yes
+46815277-5c18-4a61-9bda-834c7d2a9ce8,2023-07-11,36,Old Naledi,South-East District,100,Female,No,Sinovac,No,construction worker,private car,31,Female,sore throat,common cold,rest,Q4,No
+f68d7796-139e-4d37-8ead-68af7990c993,2024-02-25,4,Khakhea,Ghanzi District,38,Female,Yes,Pfizer-BioNTech,No,office worker,shared private car,66,Male,cough,flu,medication,Q2,Yes
+51fd70eb-c5fe-4bf8-93f8-94d622844daa,2024-03-15,34,Mabutsane,Southern District,25,Male,Yes,Johnson & Johnson,No,farm worker,public transport,90,Female,cough,common cold,fluids,Q2,Yes
+bde6028d-6980-4f25-abd9-1e35b1027c66,2023-10-26,25,Lerala,Central District,17,Female,Yes,Moderna,Yes,farm worker,private car,28,Male,fever,flu,rest,Q1,No
+ed719dcf-c64f-48b9-9d38-32669403222e,2023-08-19,22,Shoshong,Central District,81,Male,Yes,Johnson & Johnson,No,farm worker,private car,22,Female,headache,flu,fluids,Q4,Yes
+c225af04-772a-46b8-8420-9b922d3ec387,2024-04-27,28,Kgwatlheng,Kweneng District,73,Female,No,Johnson & Johnson,Yes,health worker,private car,35,Female,headache,respiratory infection,rest,Q3,No
+9c5b08de-f508-4780-983a-1e1d288b7ba0,2023-06-29,1,Gaborone west,South-East District,56,Male,Yes,Pfizer-BioNTech,No,construction worker,shared private car,74,Female,headache,respiratory infection,medication,Q3,Yes
+66523ac4-60c4-43c7-b448-9bade32d6bbd,2024-03-05,14,Mafitlhakgosi,Central District,27,Male,Yes,Sinovac,Yes,office worker,public transport,16,Male,sore throat,respiratory infection,rest,Q2,No
+abf1847d-1986-4edc-80e1-9c9d8b9734f6,2023-10-30,18,Khakhea,Ghanzi District,17,Female,No,Covaxin,No,farm worker,private car,26,Female,headache,flu,fluids,Q1,Yes
+a0c405f5-783e-4190-b09d-28b2aea3b6d5,2024-01-14,34,Lesirane,North-East District,31,Male,Yes,Johnson & Johnson,No,farm worker,public transport,59,Male,sore throat,common cold,rest,Q2,Yes
+949248a2-c79f-4ea0-83a9-646c2bfb2aa4,2023-11-10,2,Mopipi,Ghanzi District,40,Male,Yes,Sinopharm,No,farm worker,public transport,39,Female,headache,common cold,medication,Q1,No
+3067a2d7-8f57-4890-b004-ef492091e71f,2023-12-01,3,Boseja II,Central District,87,Female,Yes,Sinopharm,No,health worker,private car,99,Female,headache,respiratory infection,rest,Q1,Yes
+0db66502-c245-4eaa-88a7-b78ed04c1e15,2023-06-20,16,Old Naledi,South-East District,21,Male,No,Johnson & Johnson,Yes,health worker,shared private car,40,Female,fatigue,common cold,medication,Q3,No
+e4079cf2-2b66-4d9c-890d-e7b464cec4e4,2024-03-22,7,Shoshong,Central District,60,Female,No,Sputnik V,No,health worker,private car,87,Male,fever,common cold,fluids,Q2,No
+35af5dd6-4a1c-4df1-b740-41604b91fb8f,2024-04-12,43,Peleng East,Central District,48,Male,Yes,Sputnik V,Yes,office worker,public transport,8,Male,headache,respiratory infection,rest,Q3,Yes
+c8f5df73-ebd4-43c9-bd80-9c2ecf1a5481,2023-12-16,22,Lesirane,North-East District,60,Male,No,Pfizer-BioNTech,Yes,office worker,private car,12,Female,fatigue,common cold,medication,Q1,Yes
+b4fe7961-abcc-4b6b-814f-bba0c08fb32d,2023-10-15,34,Charleshill,North-East District,86,Male,Yes,Sinopharm,No,construction worker,public transport,47,Female,cough,common cold,rest,Q1,Yes
+e2ee81be-439a-42eb-aea9-362a6166ed74,2023-07-24,13,Peleng East,Central District,89,Female,No,Pfizer-BioNTech,Yes,office worker,private car,16,Female,sore throat,respiratory infection,fluids,Q4,Yes
+3dd74813-c790-489d-b78a-592467e14c18,2023-07-29,33,Mabutsane,Southern District,88,Female,No,Sinopharm,No,farm worker,private car,71,Male,fever,flu,fluids,Q4,Yes
+954e1c09-5bb8-400f-b84b-d94ec63ba8ae,2024-05-03,6,Broadhurst 3 (BH3),South-East District,19,Male,No,Sinovac,No,farm worker,private car,17,Female,headache,respiratory infection,medication,Q3,No
+d60992a9-fe7f-4364-bac5-74efbdcabd5c,2023-08-19,20,Tapologong,Central District,4,Female,No,Moderna,No,construction worker,private car,56,Male,headache,respiratory infection,rest,Q4,No
+94b63bf1-a904-4f1c-a68b-75247561adab,2023-12-15,41,Tsopeng,Central District,47,Male,No,AstraZeneca,No,farm worker,shared private car,48,Male,headache,common cold,rest,Q1,Yes
+5d84e9dc-c7c5-4944-b898-91e060391128,2023-09-25,10,Charleshill,North-East District,93,Male,Yes,Sinopharm,No,office worker,private car,86,Female,fever,respiratory infection,fluids,Q4,Yes
+d8825ac5-6388-4483-9fc3-5b8d2bff52db,2024-04-18,3,Tsopeng,Central District,51,Female,Yes,Covaxin,Yes,farm worker,public transport,29,Male,fever,common cold,fluids,Q3,Yes
+98a17db6-56d4-4bf0-b166-93230fd55bcb,2023-12-09,22,Kachikau,North-West District,49,Female,Yes,Sinovac,No,office worker,shared private car,94,Female,fatigue,flu,fluids,Q1,No
+bb6a97f1-bcb1-4af3-a238-7fec012309b1,2023-07-14,9,Sesame,Central District,83,Male,Yes,Sinopharm,No,construction worker,private car,3,Female,sore throat,common cold,rest,Q4,No
+397d7cbc-1d67-496b-aee5-3bb29f384ca6,2024-04-25,31,Old Naledi,South-East District,97,Male,No,Moderna,No,farm worker,public transport,25,Female,fever,respiratory infection,medication,Q3,No
+6ee26f66-7c2f-4703-992c-99415384b789,2024-02-11,6,Boipelego,Kweneng District,46,Male,No,Sinopharm,Yes,office worker,shared private car,10,Male,sore throat,respiratory infection,fluids,Q2,Yes
+422fffca-94e9-4b19-848c-3870b9aa940d,2023-07-02,32,Boipelego,Kweneng District,45,Male,Yes,Pfizer-BioNTech,Yes,health worker,public transport,68,Male,headache,flu,fluids,Q4,No
+9954247a-59b6-4fbc-8f71-db35a44c5760,2023-10-05,34,Boseja II,Central District,31,Female,No,Moderna,No,office worker,shared private car,2,Female,cough,flu,medication,Q1,Yes
+4fe91ca7-d921-4424-89a1-55f458a9a42e,2024-03-07,6,Kang,Central District,16,Female,Yes,AstraZeneca,No,office worker,private car,57,Female,fatigue,flu,fluids,Q2,Yes
+d1ba58fb-fed7-457f-89d5-0cd96f57cdf9,2024-03-07,43,Oodi,South-East District,27,Female,No,Johnson & Johnson,No,construction worker,private car,95,Female,fever,respiratory infection,fluids,Q2,Yes
+5ca32b3a-6745-4ef9-8252-d4b8ca5bbab1,2023-09-14,1,Kanye Main Clinic,Southern District,36,Male,Yes,Covaxin,No,construction worker,shared private car,95,Male,fatigue,flu,rest,Q4,No
+3658fd21-15d5-49dc-a419-c3d7ae7d3da6,2023-07-11,36,Takatokwane,Central District,49,Female,No,Covaxin,Yes,construction worker,public transport,98,Male,headache,respiratory infection,fluids,Q4,Yes
+701379e1-36f8-4d50-bc6d-5135a979c72f,2023-08-05,42,Peleng East,Central District,76,Male,No,Covaxin,Yes,office worker,public transport,66,Female,fever,respiratory infection,rest,Q4,No
+567d2e6d-3c83-4523-8805-d6f5869a2ac1,2023-08-13,18,Peleng East,Central District,0,Female,Yes,Moderna,Yes,health worker,private car,2,Male,fatigue,respiratory infection,fluids,Q4,Yes
+f2b497e7-33e5-4380-a1be-d89ede0b1ae9,2024-03-10,17,Oodi,South-East District,93,Female,No,Covaxin,Yes,office worker,private car,64,Male,headache,flu,rest,Q2,Yes
+93e2ccb5-6a03-4b5c-b08b-66f6c5147569,2024-02-13,21,Lesirane,North-East District,17,Male,Yes,Sinopharm,No,construction worker,shared private car,74,Female,sore throat,flu,rest,Q2,No
+55ca9fb4-aff2-49ed-b4af-c1f35b0d8e1c,2024-04-01,10,Botshabelo,Central District,31,Male,No,Sputnik V,No,office worker,private car,62,Female,sore throat,respiratory infection,rest,Q3,No
+43fdcdc5-00fe-455c-8c27-45b9aee86342,2023-10-16,40,Ditsweletse,Kweneng District,10,Male,Yes,Johnson & Johnson,No,construction worker,public transport,23,Female,cough,flu,fluids,Q1,Yes
+8ffefc5b-f336-4ea6-b6b7-c34c05d2fd0f,2024-06-10,2,Kanye Main Clinic,Southern District,24,Male,Yes,Sinopharm,Yes,construction worker,private car,97,Female,headache,common cold,medication,Q3,Yes
+0d4e5aae-04b5-4a38-85d6-85736500d88f,2023-08-13,25,Tapologong,Central District,3,Male,No,AstraZeneca,Yes,construction worker,private car,21,Male,sore throat,flu,rest,Q4,Yes
+414daa58-88e1-440f-96a6-b0d8cb04d789,2024-05-15,6,Moeti,Ghanzi District,9,Male,Yes,Sinopharm,No,health worker,public transport,55,Female,headache,common cold,medication,Q3,Yes
+9eaec6a3-6ffd-437a-b424-4452a6f381cb,2023-10-14,13,Kgwatlheng,Kweneng District,46,Male,No,Johnson & Johnson,No,health worker,private car,62,Female,fever,respiratory infection,rest,Q1,No
+31102565-5cdb-4e2c-852f-2a1970d05025,2024-01-02,31,Tapologong,Central District,78,Female,No,Moderna,Yes,farm worker,private car,19,Female,fever,common cold,fluids,Q2,Yes
+d94a1daf-05e6-409a-b0ab-6bf771b39b6f,2024-05-28,18,Otse,Kweneng District,75,Female,Yes,Moderna,Yes,farm worker,private car,50,Male,sore throat,flu,medication,Q3,Yes
+201d2fce-2bc6-4cba-9a9d-e8646329a23f,2023-10-07,37,Charleshill,North-East District,48,Female,Yes,Pfizer-BioNTech,Yes,health worker,shared private car,40,Female,fever,flu,rest,Q1,No
+5964ca09-1b62-4c2a-bc37-41e11c5b45c6,2024-04-27,5,Kang,Central District,73,Female,No,Moderna,Yes,construction worker,shared private car,26,Male,fever,common cold,rest,Q3,No
+286e50e1-30b5-4d49-8c9e-59bae70bc3e5,2024-05-27,34,Shoshong,Central District,94,Male,Yes,AstraZeneca,No,health worker,shared private car,64,Female,fatigue,flu,medication,Q3,Yes
+0a2ad6e7-d1a3-491f-9d5a-d3df5af5c110,2024-01-30,42,Kachikau,North-West District,37,Male,No,Covaxin,Yes,construction worker,public transport,7,Female,sore throat,respiratory infection,medication,Q2,Yes
+15bc7616-ef09-4136-bd2e-9c54e77e4d08,2024-01-19,36,Mafitlhakgosi,Central District,9,Female,Yes,Covaxin,No,farm worker,private car,8,Female,fatigue,respiratory infection,fluids,Q2,No
+ad418c28-8fa0-4422-bbbf-571d78278c6f,2023-07-03,23,Shakawe,North-West District,58,Female,Yes,Sputnik V,No,construction worker,public transport,54,Female,fever,respiratory infection,rest,Q4,No
+04a9adf0-9e97-4990-aeb5-a4d0f4e85a7a,2023-10-15,18,Takatokwane,Central District,38,Male,No,Sinovac,Yes,construction worker,private car,42,Male,fever,respiratory infection,rest,Q1,Yes
+b1386b51-7dad-479f-9cf7-879da11248be,2023-12-22,32,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,9,Female,No,Sinovac,Yes,office worker,private car,18,Male,headache,common cold,fluids,Q1,No
+647d71b1-9861-424c-95a1-d96a2846589a,2023-12-24,14,Broadhurst 3 (BH3),South-East District,58,Female,Yes,Sputnik V,No,office worker,public transport,85,Female,cough,common cold,rest,Q1,Yes
+06b6da67-bba4-42a4-8aea-c4a358824366,2024-03-12,34,Botshabelo,Central District,97,Male,No,Pfizer-BioNTech,No,farm worker,private car,52,Female,fatigue,respiratory infection,medication,Q2,No
+a23cd96b-a98e-484a-88de-afbbea633470,2024-04-05,13,Lerala,Central District,96,Female,No,Pfizer-BioNTech,No,farm worker,shared private car,36,Female,headache,flu,rest,Q3,Yes
+0212b087-ccb5-4bf1-99f9-5af438b6b462,2023-08-18,23,Mopipi,Ghanzi District,92,Male,No,AstraZeneca,No,office worker,shared private car,18,Female,fatigue,respiratory infection,fluids,Q4,No
+752079fb-f2cd-43f7-ab4c-29de5636e1b2,2023-07-07,18,Moshupa,Southern District,54,Male,No,Covaxin,Yes,health worker,public transport,10,Female,sore throat,flu,rest,Q4,No
+c7e04e38-ef48-4e91-87a8-1fffa293f8e5,2023-08-14,35,Shoshong,Central District,49,Male,No,Pfizer-BioNTech,No,farm worker,public transport,81,Female,fatigue,respiratory infection,rest,Q4,No
+1c67dff7-206c-434e-9327-621189c2c569,2023-10-24,25,Old Naledi,South-East District,21,Female,Yes,Johnson & Johnson,Yes,construction worker,shared private car,59,Female,headache,common cold,rest,Q1,No
+4303f49b-a38f-4c73-b61a-dab223e9532f,2023-12-26,28,Otse,Kweneng District,45,Male,No,Pfizer-BioNTech,Yes,construction worker,public transport,17,Female,cough,respiratory infection,medication,Q1,No
+faad8302-4553-4e37-ad36-047ce802c1cd,2023-11-23,25,Phuthadikobo,Central District,51,Male,Yes,AstraZeneca,Yes,construction worker,public transport,30,Male,cough,common cold,fluids,Q1,Yes
+94009548-22ed-4084-beb0-852ad885d1e0,2023-09-19,35,Boipelego,Kweneng District,27,Male,Yes,Covaxin,No,farm worker,private car,16,Male,sore throat,common cold,rest,Q4,No
+44bb6dfa-4bfe-4a6e-9394-43edbf91a78d,2024-03-05,13,Sese,Central District,39,Male,No,Moderna,No,farm worker,shared private car,43,Female,fever,respiratory infection,medication,Q2,No
+16da9a37-468e-4388-81bb-719377b2c913,2023-10-17,4,Kgwatlheng,Kweneng District,69,Male,Yes,Sinopharm,Yes,office worker,public transport,20,Male,fever,flu,rest,Q1,No
+15a9789f-8a1d-4567-8fd7-f5ac6da2c56e,2023-11-19,4,Phuthadikobo,Central District,81,Male,No,Covaxin,No,office worker,private car,70,Male,headache,flu,medication,Q1,No
+3391cc49-2e3c-4cee-b542-79cfdc4088c9,2023-11-26,22,Takatokwane,Central District,49,Male,No,Pfizer-BioNTech,No,construction worker,shared private car,15,Male,headache,respiratory infection,fluids,Q1,Yes
+cea96748-30e6-4d08-9661-0c9f917ccc1d,2024-02-02,18,Sese,Central District,83,Female,No,Moderna,Yes,farm worker,shared private car,83,Female,sore throat,respiratory infection,fluids,Q2,No
+b2a6f51b-c108-452d-8a79-6bf44106b7f1,2023-10-21,36,Boseja II,Central District,15,Male,Yes,Sinopharm,No,health worker,private car,42,Male,fatigue,flu,rest,Q1,No
+803d5662-773f-4cc2-b79e-271232b2b56b,2023-07-29,31,Boseja II,Central District,23,Female,Yes,Sinopharm,Yes,office worker,private car,48,Male,fatigue,flu,rest,Q4,Yes
+f1c59ec1-b920-4e70-b006-49becfe5bca1,2023-11-17,43,Gerald,North-East District,64,Female,No,Johnson & Johnson,No,construction worker,shared private car,17,Female,sore throat,respiratory infection,medication,Q1,Yes
+3a14173c-d9e4-4ff4-ae63-0486849dec07,2024-05-04,1,Moeti,Ghanzi District,88,Female,Yes,Sputnik V,Yes,health worker,public transport,89,Male,headache,respiratory infection,rest,Q3,No
+b2d86be7-58a0-43fe-92a4-bf1be1bb02d5,2024-04-27,17,Letlhakeng,Kweneng District,39,Female,No,Sinopharm,Yes,farm worker,shared private car,91,Male,fatigue,respiratory infection,medication,Q3,No
+541c557d-8622-4a85-b5fd-152257b80621,2023-11-22,14,Tsopeng,Central District,7,Male,Yes,Sinovac,Yes,health worker,public transport,26,Female,fatigue,respiratory infection,rest,Q1,Yes
+83007fdb-b1d8-4f9c-bf42-36c5fa366e2b,2024-03-24,38,Shoshong,Central District,27,Female,Yes,Moderna,Yes,health worker,shared private car,59,Male,fever,respiratory infection,fluids,Q2,Yes
+198d3bc2-3571-4cc7-a4ec-8abd9887fa32,2024-06-14,3,Mathethe,Southern District,98,Male,Yes,Sinovac,Yes,health worker,private car,58,Male,sore throat,respiratory infection,fluids,Q3,No
+3e2a7507-14de-4ca0-8e12-58604358f0f6,2024-01-06,29,Airstrip,Central District,98,Male,Yes,AstraZeneca,No,health worker,private car,74,Male,fatigue,common cold,rest,Q2,Yes
+83c5c567-5e36-46a4-9a20-68db845d5c45,2023-12-16,22,Bokaa,Central District,32,Female,No,AstraZeneca,No,farm worker,public transport,74,Female,headache,flu,rest,Q1,Yes
+623d5357-a8eb-4a7e-a3ef-9c09aced9d52,2024-02-09,22,Gaborone west,South-East District,6,Male,No,Moderna,Yes,construction worker,public transport,8,Female,fatigue,respiratory infection,fluids,Q2,No
+b7a0c951-edc5-4bf6-a0c0-49e25e61905a,2023-08-28,12,Kanye Main Clinic,Southern District,18,Male,Yes,AstraZeneca,Yes,construction worker,shared private car,53,Male,fever,respiratory infection,medication,Q4,Yes
+fa177e05-6204-4aec-9d3c-4a003bcbad79,2023-09-02,26,Kanye Main Clinic,Southern District,51,Female,Yes,Moderna,Yes,health worker,shared private car,94,Male,cough,common cold,fluids,Q4,No
+7b8b8f47-2e33-4e39-81b6-e6ac20d19628,2024-03-15,18,Sese,Central District,79,Male,Yes,Pfizer-BioNTech,Yes,construction worker,private car,94,Male,sore throat,common cold,medication,Q2,No
+6c7d8f7e-cb33-4373-9b83-3f98375be61d,2024-03-18,12,Shoshong,Central District,27,Male,No,Covaxin,Yes,health worker,shared private car,73,Female,cough,common cold,rest,Q2,No
+545c3e0b-f8cc-4d84-b3aa-37a4c3588fc3,2024-05-04,42,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,9,Male,No,Johnson & Johnson,No,construction worker,shared private car,86,Male,headache,respiratory infection,fluids,Q3,No
+6573c4e1-f699-4f3b-9750-d82454e87f2e,2024-06-14,4,Gaborone west,South-East District,76,Male,Yes,Covaxin,No,construction worker,shared private car,58,Male,fever,respiratory infection,medication,Q3,No
+8a012bce-95b1-4864-a80b-8d9264aa3652,2023-11-30,40,Kachikau,North-West District,90,Female,Yes,AstraZeneca,Yes,construction worker,shared private car,96,Male,fever,flu,rest,Q1,No
+e17fc364-1401-4b58-8830-1a39a5749672,2024-04-29,27,Otse,Kweneng District,86,Female,Yes,AstraZeneca,No,construction worker,shared private car,73,Male,fatigue,common cold,medication,Q3,No
+16a69353-1ad7-430c-bb58-8c18d09a0ad3,2024-02-28,5,Mafitlhakgosi,Central District,23,Male,Yes,Covaxin,No,construction worker,shared private car,78,Male,fever,flu,rest,Q2,Yes
+7e1a2f08-b60e-483a-9612-a9fc7c282ff3,2023-10-29,15,Sesame,Central District,14,Male,No,Sinovac,Yes,construction worker,private car,22,Male,fatigue,flu,medication,Q1,Yes
+3e12c7c7-7667-4247-a7f3-a2f6f1146359,2023-08-13,2,Tonota,Central District,61,Female,No,Sinopharm,Yes,office worker,shared private car,22,Female,sore throat,flu,fluids,Q4,No
+10f6d123-6f8d-4e5f-a336-934b1dd9e9aa,2024-02-02,26,Kachikau,North-West District,84,Male,Yes,Moderna,No,office worker,shared private car,90,Female,fatigue,flu,fluids,Q2,No
+ccb4ff5b-2700-452b-9afa-8239ca2d684c,2024-02-24,33,Old Naledi,South-East District,66,Male,No,Sinovac,Yes,farm worker,public transport,4,Male,headache,respiratory infection,fluids,Q2,Yes
+69a9f225-43a6-490f-b559-6fd8359b0f9c,2024-06-09,3,Kgwatlheng,Kweneng District,80,Female,Yes,Moderna,Yes,office worker,public transport,41,Female,cough,flu,medication,Q3,No
+27c19dbf-44b3-47a6-bbb5-aca5973c8d06,2023-09-22,43,Letlhakeng,Kweneng District,79,Female,Yes,Moderna,Yes,farm worker,private car,58,Male,cough,respiratory infection,fluids,Q4,No
+e08ebc6e-d26b-43c3-86a6-b219e66ed04f,2023-12-13,25,Gerald,North-East District,49,Female,No,AstraZeneca,No,farm worker,private car,36,Male,headache,respiratory infection,fluids,Q1,No
+4591ca32-bddc-4e7e-a3c3-5917888ce5ce,2024-01-17,32,Kachikau,North-West District,67,Male,No,Sinopharm,Yes,office worker,shared private car,39,Female,fever,flu,rest,Q2,Yes
+36c64c73-5fb9-4114-bf59-efe8cf4c2158,2024-03-22,21,Broadhurst 3 (BH3),South-East District,3,Female,Yes,AstraZeneca,Yes,office worker,private car,62,Female,cough,respiratory infection,fluids,Q2,Yes
+754f3b13-98f8-4b7e-ad7e-80ba68dc8d80,2024-06-09,35,Gerald,North-East District,56,Female,No,Sinovac,Yes,farm worker,private car,93,Female,fatigue,respiratory infection,medication,Q3,Yes
+a54caa48-d63c-44d4-825e-ffd9ebbc175a,2023-10-30,16,Ditsweletse,Kweneng District,89,Female,No,Sinovac,No,office worker,public transport,20,Male,cough,common cold,medication,Q1,No
+1a1ebbbe-988c-4283-af28-61f3618a583d,2023-07-16,43,Tati Siding,North-East District,35,Male,Yes,Johnson & Johnson,No,health worker,public transport,79,Male,cough,common cold,medication,Q4,Yes
+b7956a4e-ac62-4ec0-b2d7-d3782e69fb2c,2024-04-24,34,Maun General Clinic,North-West District,4,Female,No,Sinovac,No,office worker,shared private car,30,Male,sore throat,respiratory infection,fluids,Q3,Yes
+b50d848c-f5be-4e6d-8faa-d8520b8390bd,2023-08-16,6,Broadhurst 3 (BH3),South-East District,23,Female,Yes,AstraZeneca,Yes,office worker,shared private car,44,Female,fatigue,respiratory infection,medication,Q4,No
+f8fcd274-f098-403b-8d39-8779103f3e7e,2023-09-19,33,Botshabelo,Central District,7,Female,No,Sinopharm,No,office worker,public transport,23,Male,headache,flu,medication,Q4,No
+d0ad6414-202d-400a-b345-9e2445f349e3,2023-10-09,29,Phuthadikobo,Central District,95,Male,No,Covaxin,Yes,farm worker,public transport,37,Female,cough,common cold,medication,Q1,No
+d4a93e11-fb79-4756-945f-6429db5402ed,2024-03-08,12,Jubilee,South-East District,21,Female,No,Pfizer-BioNTech,No,office worker,shared private car,82,Male,headache,respiratory infection,medication,Q2,No
+ef5d178c-1081-41c8-8dfd-a71e558c869f,2024-01-24,10,Nata,Central District,16,Female,Yes,Covaxin,No,construction worker,shared private car,63,Female,cough,common cold,fluids,Q2,Yes
+e6ddd609-ed37-499f-99c9-6ca5c25d8bab,2023-07-20,35,Mopipi,Ghanzi District,21,Female,Yes,AstraZeneca,Yes,office worker,shared private car,46,Male,headache,common cold,medication,Q4,No
+c16aef80-2ec7-4d9a-a55d-f0cfe6bdffef,2024-03-12,7,Boipelego,Kweneng District,23,Female,Yes,AstraZeneca,No,farm worker,public transport,41,Female,fatigue,respiratory infection,rest,Q2,No
+6de43e05-c34d-4d5f-9cab-425403912705,2023-09-07,29,Sese,Central District,50,Female,No,Sinopharm,Yes,health worker,shared private car,99,Male,fever,flu,fluids,Q4,No
+01d38eb6-201e-4135-a155-9a63f348cb10,2024-06-12,6,Peleng East,Central District,58,Female,No,Pfizer-BioNTech,No,construction worker,private car,90,Male,fatigue,common cold,medication,Q3,No
+db5e9991-fb8e-4310-9b3d-056d694fda47,2023-07-08,15,Oodi,South-East District,89,Male,No,Pfizer-BioNTech,Yes,farm worker,shared private car,44,Female,sore throat,common cold,rest,Q4,No
+b2bced5d-c32a-49c6-a74d-308678077a86,2024-05-18,38,Sesame,Central District,16,Female,No,Pfizer-BioNTech,No,health worker,public transport,23,Female,headache,flu,medication,Q3,No
+d81d903c-7f54-445c-a147-01490de5877b,2024-02-14,3,Broadhurst 3 (BH3),South-East District,51,Male,Yes,Moderna,Yes,farm worker,shared private car,53,Female,fatigue,respiratory infection,medication,Q2,No
+8ec9be14-e5d4-4c54-b1e4-cbcf2a8442c2,2023-08-30,37,Gaborone west,South-East District,23,Female,No,AstraZeneca,Yes,office worker,shared private car,7,Male,fever,flu,medication,Q4,No
+2b8ab8f0-0793-44f2-9b81-815fd79f9dc5,2024-06-01,32,Airstrip,Central District,78,Male,Yes,Pfizer-BioNTech,No,health worker,public transport,91,Female,sore throat,common cold,fluids,Q3,Yes
+34bf2149-1a7e-49f5-ac7b-86ec3da038c6,2024-03-26,15,Kachikau,North-West District,26,Male,Yes,Moderna,No,construction worker,private car,77,Female,headache,respiratory infection,medication,Q2,Yes
+c6655dae-9a6e-4f69-8e38-4edd9cf8825f,2023-09-17,29,Tati Siding,North-East District,4,Male,No,Pfizer-BioNTech,Yes,farm worker,shared private car,75,Male,fever,respiratory infection,fluids,Q4,Yes
+fe6f8bd8-89e0-44bb-bd06-3ae60cfda7e8,2023-10-28,39,Kgwatlheng,Kweneng District,27,Female,No,Moderna,No,construction worker,private car,59,Female,sore throat,common cold,fluids,Q1,Yes
+278f0513-5a02-4dd8-addb-42e5fed81812,2024-03-26,9,Mathethe,Southern District,31,Female,Yes,Sinopharm,Yes,office worker,shared private car,82,Male,sore throat,common cold,medication,Q2,No
+5324050d-467c-43d8-a600-36b170512162,2024-05-09,21,Phuthadikobo,Central District,69,Male,Yes,Sinopharm,Yes,farm worker,shared private car,85,Male,fever,flu,fluids,Q3,Yes
+2f6f261a-1d5b-49a8-b618-f1f8dcbcfd0a,2024-04-06,23,Sese,Central District,34,Male,No,Sinopharm,No,office worker,shared private car,69,Female,headache,flu,medication,Q3,Yes
+54f2fa8d-eaf6-46ba-a59c-3e4431371256,2023-07-20,14,Mabutsane,Southern District,49,Female,No,Moderna,Yes,office worker,public transport,71,Female,fever,respiratory infection,fluids,Q4,Yes
+bb0fffd8-39c9-4329-93a2-36652147cd8a,2024-04-12,41,Tapologong,Central District,49,Female,No,Sputnik V,Yes,construction worker,private car,94,Female,fever,flu,medication,Q3,Yes
+2f80e64e-efd8-4490-83a2-77f1c8a672ce,2023-09-24,6,Old Naledi,South-East District,45,Male,Yes,Moderna,No,office worker,private car,9,Male,fever,flu,medication,Q4,Yes
+095cbb50-bd88-4280-a659-fb3cbbc3185b,2024-05-17,29,Oodi,South-East District,74,Male,No,AstraZeneca,No,health worker,shared private car,47,Female,sore throat,flu,medication,Q3,Yes
+243bb5c8-51ab-421a-babb-5abbc40ef40e,2024-02-03,31,Gerald,North-East District,65,Female,No,Sputnik V,No,construction worker,private car,69,Male,fatigue,flu,fluids,Q2,Yes
+6d492dad-9391-4307-8f27-dec622b0e7d5,2024-05-26,32,Khakhea,Ghanzi District,45,Male,No,AstraZeneca,No,health worker,private car,74,Male,headache,common cold,medication,Q3,No
+c4cc966f-ee49-4fa3-8e25-da372bbe2170,2024-04-17,18,Peleng East,Central District,68,Female,No,Sinopharm,No,construction worker,shared private car,67,Female,fatigue,respiratory infection,fluids,Q3,Yes
+45052ce2-ec6e-4a51-be2c-f4ab32688305,2024-03-11,12,Shakawe,North-West District,68,Female,No,Covaxin,No,construction worker,shared private car,71,Female,fever,common cold,fluids,Q2,Yes
+5ae72217-5b09-4bdb-8335-84c9466c5e80,2023-07-28,29,Letlhakeng,Kweneng District,80,Male,Yes,Moderna,No,health worker,private car,100,Male,fatigue,common cold,fluids,Q4,No
+16674f99-3213-4d72-ad54-3375a4e567d7,2023-12-21,1,Sesame,Central District,45,Female,Yes,Pfizer-BioNTech,Yes,farm worker,public transport,7,Female,headache,respiratory infection,rest,Q1,No
+004dd75d-cdfb-4576-81f8-73219dea7605,2024-02-08,3,Jubilee,South-East District,4,Female,Yes,Sinopharm,No,construction worker,public transport,60,Male,fatigue,flu,rest,Q2,Yes
+c44f3c4f-7863-48b3-9cef-b78e37b251d6,2024-02-24,3,Old Naledi,South-East District,86,Male,Yes,Moderna,No,construction worker,public transport,3,Female,fatigue,respiratory infection,medication,Q2,Yes
+40335bff-94cf-4410-9b1d-6c2ea39aac39,2023-09-21,43,Moeti,Ghanzi District,75,Male,Yes,Moderna,Yes,construction worker,private car,73,Female,headache,common cold,medication,Q4,Yes
+682c2655-fd2e-46e5-87d5-df19cb00988c,2024-03-04,42,Kanye Main Clinic,Southern District,5,Male,No,Sinovac,No,farm worker,private car,16,Male,cough,common cold,fluids,Q2,No
+d17fdf66-0960-44a1-8bf0-4b95a33874a5,2023-10-28,1,Sese,Central District,7,Male,Yes,Sinovac,Yes,farm worker,private car,35,Female,sore throat,respiratory infection,rest,Q1,No
+7182f519-85c3-48e8-bd40-76acc63f34f8,2024-05-30,9,Sesame,Central District,19,Male,No,Moderna,Yes,farm worker,shared private car,41,Female,fatigue,flu,medication,Q3,No
+a539d0b2-ae60-4ef5-ab76-e8214266cb76,2024-05-10,11,Botshabelo,Central District,66,Male,No,Sinopharm,No,health worker,shared private car,4,Female,fatigue,respiratory infection,medication,Q3,Yes
+2187db26-ad86-4f40-98a0-f661736431d1,2023-12-12,32,Kang,Central District,74,Male,Yes,Sputnik V,No,office worker,public transport,76,Male,sore throat,flu,medication,Q1,No
+152fa511-5023-43c1-86bf-367355882d77,2023-08-15,4,Lerala,Central District,99,Male,Yes,Sinovac,Yes,construction worker,private car,46,Male,cough,common cold,medication,Q4,No
+44ca0a61-62c7-4c1d-8da7-b85984e8e409,2023-08-25,19,Lerala,Central District,5,Female,No,Covaxin,No,health worker,private car,82,Male,headache,common cold,fluids,Q4,No
+f1a88099-979d-4538-94bd-4d44d650baf1,2024-01-27,33,Sese,Central District,19,Female,No,Moderna,Yes,construction worker,shared private car,35,Male,sore throat,respiratory infection,fluids,Q2,No
+b87db2b4-b813-4e05-8b45-7dfb766229a4,2023-11-07,10,Ditsweletse,Kweneng District,71,Female,Yes,AstraZeneca,Yes,office worker,private car,43,Female,fever,respiratory infection,medication,Q1,Yes
+2e231ea4-61a6-4559-81c6-b6263eb5b1e7,2024-01-13,11,Peleng East,Central District,16,Female,Yes,Moderna,Yes,office worker,private car,9,Male,fever,respiratory infection,medication,Q2,No
+dbd53321-cdb5-4bf1-85fe-0afcbdae77dc,2024-01-13,32,Shakawe,North-West District,22,Female,No,Pfizer-BioNTech,No,office worker,public transport,6,Female,sore throat,common cold,fluids,Q2,Yes
+6242c5d5-27aa-4d39-9340-a771182de360,2023-10-17,1,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,27,Male,No,Johnson & Johnson,Yes,office worker,public transport,31,Male,cough,flu,rest,Q1,No
+4f5a50b1-c3d1-4a94-88cd-e74b07d2223c,2023-12-22,32,Kang,Central District,23,Female,No,Sinopharm,No,health worker,private car,24,Female,cough,respiratory infection,medication,Q1,Yes
+9a2c3e44-b4a9-498b-a891-97eccd4fa806,2024-05-09,32,Lerala,Central District,63,Male,Yes,Johnson & Johnson,No,health worker,shared private car,59,Male,sore throat,common cold,rest,Q3,No
+43ef7a13-02ba-4822-8e90-df6fe66f6198,2023-07-28,18,Kgwatlheng,Kweneng District,68,Male,No,Covaxin,No,construction worker,shared private car,10,Male,fever,common cold,medication,Q4,Yes
+faca2325-d077-49a3-8b33-2e8d7de32dab,2023-09-03,22,Mabutsane,Southern District,13,Male,No,Sputnik V,No,construction worker,shared private car,5,Male,headache,common cold,medication,Q4,Yes
+ed6c6107-00d5-4adf-81ca-36fe9684f97a,2024-04-04,24,Sese,Central District,97,Female,No,Johnson & Johnson,No,farm worker,private car,100,Female,headache,common cold,fluids,Q3,Yes
+3eadf0f9-7b2d-47be-98b8-db1ab81b9ad9,2023-12-12,9,Nata,Central District,89,Female,No,Sinopharm,Yes,office worker,private car,1,Male,fever,flu,fluids,Q1,Yes
+2e853c73-905f-4992-bc88-72b948c667c8,2024-05-13,24,Old Naledi,South-East District,83,Female,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,13,Female,sore throat,flu,rest,Q3,No
+b0a1683c-4893-4086-933f-0939b4cc7557,2024-04-18,36,Bokaa,Central District,57,Female,No,Pfizer-BioNTech,Yes,farm worker,shared private car,10,Female,fever,respiratory infection,medication,Q3,No
+9b66f774-0ea1-4f2c-92d5-ef5420a0a4ad,2023-08-17,16,Sese,Central District,81,Male,No,Johnson & Johnson,Yes,health worker,shared private car,77,Male,fatigue,flu,fluids,Q4,No
+33177aa1-ac79-4c2e-8f7b-15f6e06ff908,2024-04-13,40,Botshabelo,Central District,72,Male,Yes,Pfizer-BioNTech,No,health worker,shared private car,7,Male,fever,flu,fluids,Q3,Yes
+f1fc5bc5-775f-48b4-b7e5-61b1acf270ce,2024-02-07,1,Khakhea,Ghanzi District,32,Male,No,Sinopharm,Yes,office worker,public transport,58,Female,headache,respiratory infection,medication,Q2,No
+43dba338-8646-4170-805e-614c1a944c35,2023-12-21,23,Lerala,Central District,64,Male,Yes,Moderna,Yes,health worker,shared private car,23,Female,headache,respiratory infection,rest,Q1,No
+f9f7ce1b-f1d6-4b09-9dd0-0add8eb1bffc,2023-07-30,8,Tapologong,Central District,39,Female,No,Moderna,Yes,office worker,shared private car,72,Female,sore throat,flu,medication,Q4,Yes
+d8ee3ac0-be97-412e-a87d-721760adfe88,2023-09-09,29,Charleshill,North-East District,33,Female,No,Pfizer-BioNTech,Yes,office worker,shared private car,89,Female,sore throat,flu,fluids,Q4,Yes
+d96e0f6b-b823-45f8-80c1-0c41a50bf27a,2024-04-16,25,Nata,Central District,51,Male,Yes,Sinopharm,No,farm worker,public transport,46,Female,fatigue,common cold,fluids,Q3,No
+1d476096-02a1-493e-9087-f048fd9c6e90,2023-07-05,29,Botshabelo,Central District,9,Male,Yes,Moderna,Yes,farm worker,shared private car,20,Female,sore throat,flu,rest,Q4,Yes
+fcddfe8b-106f-48a1-ba0b-96584a031d37,2023-10-03,14,Shakawe,North-West District,45,Female,No,Moderna,No,construction worker,private car,63,Male,headache,respiratory infection,rest,Q1,No
+9f5b5268-fe27-4737-98f4-30b8d4b2b8e9,2023-11-16,20,Tsopeng,Central District,71,Male,Yes,Johnson & Johnson,Yes,farm worker,shared private car,3,Male,headache,flu,rest,Q1,No
+bd3f594a-4bac-4f9a-9ba0-3f85063e771d,2023-11-29,10,Jubilee,South-East District,9,Female,Yes,Sputnik V,Yes,office worker,shared private car,45,Female,fatigue,common cold,medication,Q1,Yes
+5b667a46-ca4e-40ac-9c69-04f50b811914,2024-02-25,27,Nata,Central District,26,Female,No,Sputnik V,No,farm worker,public transport,2,Female,fever,common cold,medication,Q2,No
+df2ae35d-26ac-44c7-a7b9-d977cd67b0cb,2024-01-12,38,Khakhea,Ghanzi District,23,Male,No,Sinovac,Yes,construction worker,shared private car,77,Female,sore throat,flu,rest,Q2,No
+f0b76381-f1d3-4c8c-ad5d-0830aea7ab18,2024-01-06,7,Airstrip,Central District,71,Male,No,Sinopharm,Yes,construction worker,private car,64,Male,cough,flu,rest,Q2,Yes
+9a4f2ee4-f17b-4395-a108-0bac229e86c9,2024-03-11,24,Botshabelo,Central District,90,Female,No,Sputnik V,Yes,farm worker,shared private car,16,Male,fever,flu,fluids,Q2,No
+c55fee1e-867f-42ba-8282-d45bd95ef05e,2023-12-25,35,Sesame,Central District,1,Male,No,Sputnik V,Yes,health worker,private car,39,Female,fatigue,respiratory infection,medication,Q1,No
+d5391d6b-8bc8-4873-b301-087fc845fd80,2024-03-02,23,Mabutsane,Southern District,93,Female,Yes,Johnson & Johnson,Yes,construction worker,shared private car,97,Female,headache,respiratory infection,fluids,Q2,Yes
+e1ba1c16-41bf-489b-b041-65ca7be0287e,2023-12-07,12,Boipelego,Kweneng District,10,Female,No,Sputnik V,No,health worker,private car,34,Female,cough,flu,medication,Q1,No
+97205259-47ec-4516-8495-b3406c156037,2023-10-23,29,Kang,Central District,93,Male,No,Johnson & Johnson,No,construction worker,shared private car,94,Male,headache,flu,medication,Q1,No
+f6d5c8bb-cdc0-403d-8ba0-8be64583ba99,2023-11-27,17,Tati Siding,North-East District,42,Male,Yes,Sinopharm,Yes,office worker,shared private car,37,Female,cough,respiratory infection,medication,Q1,No
+494ba028-430e-4cad-a60c-3c705e0951c2,2024-02-11,33,Gerald,North-East District,53,Male,No,Sputnik V,No,office worker,shared private car,92,Male,headache,common cold,rest,Q2,No
+b632010a-df64-4535-b0e3-b5ddb1e6ed45,2023-11-18,28,Mafitlhakgosi,Central District,82,Female,Yes,Pfizer-BioNTech,No,construction worker,private car,29,Male,sore throat,respiratory infection,medication,Q1,No
+f774efa2-84c0-4a9a-966c-457bdaa6be5b,2023-07-23,19,Maun General Clinic,North-West District,27,Male,Yes,Moderna,No,construction worker,private car,40,Female,fever,respiratory infection,rest,Q4,Yes
+a653929d-f42d-479d-b6be-da4bfd07d55c,2024-06-13,31,Shoshong,Central District,44,Female,Yes,Johnson & Johnson,Yes,construction worker,shared private car,41,Male,fever,flu,medication,Q3,No
+21fa6c3a-419f-45ad-9c28-ad7d346d440f,2024-01-28,35,Sese,Central District,4,Male,No,Moderna,Yes,construction worker,shared private car,22,Male,headache,flu,medication,Q2,Yes
+ce0e7e91-5738-4c9a-b00f-e27316f73c0d,2023-09-18,21,Kang,Central District,81,Female,Yes,Sinopharm,Yes,construction worker,private car,42,Male,fatigue,flu,rest,Q4,Yes
+bed2a1e2-b258-4024-9edd-3ffee8e61e11,2024-02-29,7,Kang,Central District,13,Female,No,AstraZeneca,No,farm worker,shared private car,5,Female,fever,respiratory infection,fluids,Q2,Yes
+0feccf42-b805-43fe-b9cd-d008eb7360b3,2023-12-13,25,Lesirane,North-East District,94,Female,Yes,Sputnik V,Yes,health worker,shared private car,46,Male,fatigue,common cold,rest,Q1,No
+3d9684ef-02a7-4380-80b9-7f1329d8942f,2023-10-19,11,Kanye Main Clinic,Southern District,42,Male,No,Covaxin,No,construction worker,shared private car,96,Male,headache,common cold,medication,Q1,No
+0749fcfd-fef4-4ea2-a838-3f75e737bcab,2024-03-25,31,Botshabelo,Central District,31,Female,No,Pfizer-BioNTech,No,health worker,public transport,72,Female,fever,respiratory infection,medication,Q2,No
+d21d631a-5e37-4806-80ab-f9fabb8f0b69,2024-01-20,8,Phuthadikobo,Central District,46,Male,No,Sinopharm,No,farm worker,private car,84,Female,fatigue,common cold,rest,Q2,Yes
+cfe94bbe-2079-421a-97c7-7c8d6d46cbf6,2024-03-17,20,Ditsweletse,Kweneng District,72,Female,Yes,AstraZeneca,No,construction worker,private car,3,Male,sore throat,respiratory infection,medication,Q2,No
+aaac5cdf-0512-43a9-9307-89741873c107,2024-03-10,28,Otse,Kweneng District,90,Male,No,Sinovac,Yes,construction worker,private car,17,Male,headache,common cold,rest,Q2,Yes
+dac8c091-cb67-4719-9b16-91ee5b5ba8a9,2024-06-12,41,Boseja II,Central District,21,Male,No,AstraZeneca,Yes,office worker,public transport,62,Male,sore throat,common cold,rest,Q3,No
+7ab71d26-fda3-48f4-9a0b-f69ee07d6f21,2023-10-23,32,Botshabelo,Central District,34,Female,Yes,Moderna,Yes,farm worker,private car,81,Female,fever,respiratory infection,medication,Q1,Yes
+490ceaef-5aff-4051-be5e-90cb058a1740,2023-07-20,2,Shakawe,North-West District,22,Male,No,Moderna,No,office worker,shared private car,41,Female,fever,common cold,medication,Q4,No
+04d7450c-35ec-42b8-8354-7437c08d50f9,2023-11-16,20,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,30,Male,Yes,Johnson & Johnson,Yes,health worker,shared private car,74,Female,fever,respiratory infection,rest,Q1,Yes
+93ab5397-4a83-4e92-b365-5bc2fc969df1,2024-02-25,1,Kgwatlheng,Kweneng District,5,Male,No,Sinovac,No,office worker,private car,60,Male,fatigue,flu,fluids,Q2,Yes
+4a611b09-e2ba-43b8-bf4b-618c3412cc07,2023-09-21,41,Nata,Central District,92,Female,Yes,AstraZeneca,No,health worker,private car,51,Female,headache,common cold,medication,Q4,No
+31ab1ab0-ae23-435b-828e-4473aa99a136,2024-02-23,22,Mabutsane,Southern District,94,Female,Yes,AstraZeneca,Yes,farm worker,public transport,6,Female,fever,flu,fluids,Q2,Yes
+89f498c1-a5b9-428f-8dff-94635a569e78,2024-03-01,27,Mathethe,Southern District,91,Male,No,Moderna,No,office worker,private car,19,Male,cough,respiratory infection,fluids,Q2,No
+8a512ba6-ea64-4a45-a87a-d283f7f6d7cd,2023-12-12,34,Moeti,Ghanzi District,90,Female,Yes,Johnson & Johnson,No,construction worker,shared private car,15,Male,fatigue,common cold,fluids,Q1,Yes
+d55ad2c1-6e3f-4a6b-b846-59128d2aba5c,2023-08-02,31,Shakawe,North-West District,72,Male,Yes,Sinovac,Yes,farm worker,private car,47,Female,headache,common cold,rest,Q4,Yes
+aa499945-c789-423d-bee2-95cf1bd75e74,2024-04-01,32,Khakhea,Ghanzi District,39,Male,Yes,Moderna,No,health worker,private car,31,Female,sore throat,respiratory infection,rest,Q3,No
+339befdb-804f-4c64-b270-09419be906fc,2023-10-16,38,Botshabelo,Central District,13,Male,Yes,Johnson & Johnson,No,health worker,public transport,78,Female,cough,common cold,medication,Q1,Yes
+dc03ff42-8be7-4282-aeb0-9ba0578b6ea8,2023-06-23,12,Khakhea,Ghanzi District,0,Male,No,Covaxin,No,office worker,shared private car,98,Male,fever,respiratory infection,fluids,Q3,Yes
+63aa552e-2021-459a-b202-bcc89a2e6e72,2023-09-20,24,Old Naledi,South-East District,10,Male,No,Covaxin,Yes,office worker,public transport,67,Male,sore throat,flu,medication,Q4,No
+caac42a8-7dfb-490e-989e-ed5eb87d0774,2024-06-06,37,Peleng East,Central District,14,Male,No,Johnson & Johnson,Yes,farm worker,shared private car,55,Male,sore throat,flu,medication,Q3,No
+afb4dcf6-86c6-46dc-894a-4a314af00f6b,2024-06-13,35,Nata,Central District,28,Male,Yes,Pfizer-BioNTech,Yes,health worker,private car,17,Male,sore throat,flu,fluids,Q3,Yes
+eebbd724-381c-49d4-baaa-f57815aa2555,2023-07-09,17,Otse,Kweneng District,27,Male,Yes,Sputnik V,No,office worker,public transport,93,Female,fever,flu,rest,Q4,Yes
+38baaccf-3a07-4071-a597-f6bf0d3301c9,2023-11-25,27,Gaborone west,South-East District,78,Male,No,Covaxin,Yes,construction worker,public transport,79,Female,headache,flu,fluids,Q1,No
+0c11e164-c7a2-4bb5-aa09-0a74406505d4,2023-09-18,39,Kgwatlheng,Kweneng District,64,Male,No,Covaxin,Yes,health worker,private car,68,Male,fatigue,respiratory infection,medication,Q4,No
+f07f562d-a3d9-4f94-8a58-a1049c02e338,2024-03-08,15,Boipelego,Kweneng District,74,Female,No,Covaxin,No,construction worker,shared private car,76,Male,fever,flu,medication,Q2,Yes
+93e94991-7f66-4768-9d31-cffcfba7b29b,2023-09-14,18,Otse,Kweneng District,73,Female,No,Pfizer-BioNTech,No,farm worker,shared private car,47,Female,fatigue,common cold,medication,Q4,No
+30828515-adeb-472e-89fc-0a70bb5b03b2,2024-03-08,7,Gaborone west,South-East District,94,Male,No,Sinovac,No,farm worker,private car,25,Male,cough,common cold,medication,Q2,Yes
+225c2bd0-7b4f-419f-b6fd-5a59dbbd40bc,2023-11-22,36,Kang,Central District,49,Female,No,Sputnik V,No,farm worker,private car,63,Female,headache,respiratory infection,medication,Q1,Yes
+25b4cfd5-dc30-4e7d-8c42-26d45bee7c41,2024-03-21,33,Mathethe,Southern District,9,Female,No,AstraZeneca,Yes,farm worker,public transport,51,Female,fatigue,respiratory infection,medication,Q2,Yes
+fbc79305-53e6-41ef-b271-a405a1b61903,2024-01-26,4,Moeti,Ghanzi District,76,Male,No,Covaxin,Yes,construction worker,public transport,74,Female,sore throat,flu,rest,Q2,Yes
+239bd182-8671-4a70-852c-b715e97a57fa,2023-08-14,8,Airstrip,Central District,79,Male,Yes,Pfizer-BioNTech,No,health worker,private car,36,Male,headache,common cold,fluids,Q4,Yes
+efea7c43-4318-49e5-b63a-c64fd052089a,2023-12-16,19,Mabutsane,Southern District,94,Male,Yes,AstraZeneca,No,construction worker,shared private car,26,Female,fever,respiratory infection,rest,Q1,No
+e5f4b2e1-a99e-4300-9782-e760629d7bb6,2024-04-27,5,Tati Siding,North-East District,80,Female,No,Moderna,No,farm worker,private car,39,Male,headache,flu,medication,Q3,Yes
+4e660d90-5098-44fe-a760-9b070a785512,2024-01-06,16,Mathethe,Southern District,93,Female,Yes,Covaxin,Yes,health worker,private car,13,Female,cough,common cold,fluids,Q2,Yes
+090e2094-d01c-4b58-8a5b-e71cadcd4de1,2024-01-14,31,Jubilee,South-East District,20,Male,Yes,Covaxin,Yes,health worker,private car,52,Male,cough,common cold,medication,Q2,Yes
+34ceff64-65a5-4384-81f7-59b598c47998,2023-07-31,33,Lesirane,North-East District,24,Male,No,Pfizer-BioNTech,Yes,health worker,private car,41,Male,headache,respiratory infection,rest,Q4,Yes
+dbf9c53d-1067-4bfa-ae0f-5e83d684950b,2024-06-11,15,Shakawe,North-West District,58,Female,Yes,Moderna,Yes,health worker,public transport,51,Female,sore throat,respiratory infection,fluids,Q3,Yes
+a0bed255-1927-4c9f-ad0e-c7f107d9eaa8,2024-01-14,14,Charleshill,North-East District,4,Male,Yes,Sinovac,Yes,construction worker,public transport,91,Female,headache,respiratory infection,fluids,Q2,No
+5d8bda3a-35b4-4753-a527-c56b799cdd5c,2023-06-26,38,Gaborone west,South-East District,27,Male,No,Sputnik V,No,health worker,public transport,49,Female,cough,respiratory infection,rest,Q3,No
+c1a72031-6c43-4be6-892d-3183bee7c1b8,2024-04-17,32,Airstrip,Central District,8,Female,Yes,Sputnik V,No,farm worker,public transport,29,Male,sore throat,flu,fluids,Q3,No
+83abc7d9-45bf-44e6-82d7-cc338baae3c3,2023-08-01,9,Tonota,Central District,23,Female,No,Pfizer-BioNTech,No,health worker,private car,100,Female,cough,respiratory infection,fluids,Q4,Yes
+49277869-0c81-400f-8b6b-a36ecd4ddbc0,2024-04-07,24,Lerala,Central District,19,Female,Yes,Sinopharm,No,health worker,public transport,52,Female,fever,common cold,medication,Q3,No
+769b4ba2-8b2a-4d3f-88b9-94e8cc3bcc5c,2024-05-04,17,Moshupa,Southern District,19,Female,Yes,Sinovac,No,health worker,public transport,72,Male,fatigue,respiratory infection,rest,Q3,Yes
+858a74c7-32cf-43fb-86f2-6af8d2ffca22,2023-10-10,2,Old Naledi,South-East District,51,Male,Yes,Moderna,Yes,office worker,shared private car,71,Male,headache,common cold,rest,Q1,No
+c0ae8463-b0a1-4e39-99e3-3141b2748779,2023-10-23,33,Lesirane,North-East District,73,Female,Yes,Pfizer-BioNTech,Yes,office worker,private car,50,Female,headache,respiratory infection,fluids,Q1,No
+6d4c6901-c58a-4c92-8211-7f83b4f7d38d,2024-02-03,26,Tapologong,Central District,80,Female,No,Sputnik V,Yes,health worker,public transport,18,Male,fever,respiratory infection,medication,Q2,Yes
+7aa03dbd-94da-46a6-b93d-a499474d6950,2024-04-11,9,Tapologong,Central District,94,Female,Yes,Pfizer-BioNTech,Yes,office worker,private car,75,Female,sore throat,common cold,medication,Q3,Yes
+07e67e9a-a37a-43f2-bc76-af3637ebd3b8,2023-08-01,9,Shakawe,North-West District,23,Female,Yes,Pfizer-BioNTech,Yes,office worker,private car,98,Male,fatigue,common cold,medication,Q4,No
+42ac9c22-8713-4f87-b274-4ea55309214f,2023-07-30,39,Boseja II,Central District,48,Male,No,Moderna,No,health worker,shared private car,27,Male,fever,respiratory infection,rest,Q4,Yes
+e6ed55de-4530-40ef-9455-f83f312321f8,2023-08-18,32,Maun General Clinic,North-West District,14,Female,Yes,Moderna,No,health worker,public transport,33,Female,fatigue,respiratory infection,medication,Q4,Yes
+7ede7d6c-db03-4309-b1e4-0f9e1a49db85,2023-08-10,9,Tati Siding,North-East District,11,Female,Yes,Pfizer-BioNTech,Yes,construction worker,shared private car,38,Male,cough,flu,medication,Q4,No
+39410739-49d3-4740-bffc-d9c8c03a5307,2024-04-05,36,Mafitlhakgosi,Central District,27,Female,No,Pfizer-BioNTech,No,health worker,public transport,14,Male,fever,common cold,rest,Q3,No
+730de6b6-7e6b-457f-866e-9766a69d18ba,2024-04-06,8,Kanye Main Clinic,Southern District,0,Female,No,Johnson & Johnson,Yes,construction worker,public transport,80,Female,headache,common cold,medication,Q3,No
+9e4d5a6f-3736-4795-848b-5022982ce015,2023-10-12,41,Sesame,Central District,40,Female,No,Sputnik V,Yes,office worker,private car,45,Male,cough,common cold,medication,Q1,No
+e8a9d40c-483a-4a15-9294-80ce09d2ab63,2023-06-29,22,Kanye Main Clinic,Southern District,41,Female,No,Moderna,No,construction worker,private car,2,Female,fatigue,flu,fluids,Q3,No
+8204dfcb-319e-43a3-87fc-dad7d39e5f8e,2024-05-01,21,Broadhurst 3 (BH3),South-East District,54,Male,No,Sinovac,No,health worker,shared private car,53,Female,sore throat,flu,medication,Q3,No
+09d473af-a6e2-4771-b669-257a061df209,2023-08-06,29,Ditsweletse,Kweneng District,11,Male,Yes,Moderna,Yes,office worker,private car,26,Male,headache,flu,rest,Q4,No
+445ca47b-eabf-41ab-ad3b-39350b30e49f,2023-08-11,2,Mopipi,Ghanzi District,10,Male,No,AstraZeneca,Yes,health worker,private car,70,Male,cough,flu,rest,Q4,Yes
+51c3af0f-c367-4e68-8285-2db00409cbc8,2023-10-28,17,Otse,Kweneng District,44,Male,Yes,AstraZeneca,No,health worker,shared private car,5,Female,headache,respiratory infection,fluids,Q1,Yes
+f8180dbf-01c9-4781-9e62-abde70a5bf78,2023-09-13,15,Moshupa,Southern District,91,Male,Yes,AstraZeneca,Yes,health worker,public transport,81,Male,fever,common cold,fluids,Q4,Yes
+1f0e17ab-e827-4659-80d8-3457f2c07c96,2024-04-30,4,Broadhurst 3 (BH3),South-East District,5,Female,Yes,Sinopharm,Yes,construction worker,private car,37,Female,fever,common cold,fluids,Q3,No
+7063a65b-c1bc-44af-9662-9ca0c1f2fd2e,2023-10-21,30,Mafitlhakgosi,Central District,40,Male,Yes,Johnson & Johnson,No,farm worker,public transport,98,Female,fatigue,respiratory infection,medication,Q1,No
+1777ed24-82ab-4a07-b0fc-2f638c2e1355,2024-04-11,9,Moshupa,Southern District,69,Male,No,Sinopharm,No,health worker,public transport,95,Female,headache,respiratory infection,medication,Q3,No
+e1f63978-7854-497f-9fd0-074e5f186adf,2023-06-23,29,Kachikau,North-West District,74,Female,Yes,Johnson & Johnson,Yes,farm worker,private car,29,Male,headache,common cold,rest,Q3,Yes
+537f1def-5b1d-442d-b383-e899bf1694da,2023-09-16,4,Takatokwane,Central District,97,Male,Yes,Moderna,Yes,office worker,shared private car,20,Female,sore throat,respiratory infection,rest,Q4,No
+c738fbae-8465-4bd2-92a1-e097f27fdeb7,2023-12-20,34,Lerala,Central District,77,Female,No,Moderna,No,construction worker,public transport,43,Male,sore throat,flu,fluids,Q1,Yes
+161955e8-3514-4fdf-938b-eda390a0fbf4,2024-05-06,12,Sese,Central District,27,Female,Yes,Sinovac,Yes,office worker,public transport,65,Male,fatigue,respiratory infection,fluids,Q3,No
+97b67ade-c2f0-42ca-a78c-1479e6b196d6,2023-10-13,14,Lesirane,North-East District,62,Male,Yes,Pfizer-BioNTech,No,farm worker,public transport,67,Female,sore throat,flu,fluids,Q1,Yes
+3201bedb-71c2-4c85-b4aa-fa1526de85f6,2024-03-23,12,Gaborone west,South-East District,40,Female,No,Pfizer-BioNTech,No,office worker,shared private car,6,Female,cough,respiratory infection,rest,Q2,No
+aaaf1c57-acdc-4ce9-935f-27f2da70a5fa,2024-03-30,14,Kachikau,North-West District,6,Female,No,Sinopharm,Yes,construction worker,shared private car,80,Male,cough,common cold,medication,Q2,Yes
+269e43e3-e8d2-4367-b063-1670e83cd244,2023-10-12,25,Kang,Central District,100,Female,Yes,AstraZeneca,No,construction worker,shared private car,20,Female,headache,common cold,medication,Q1,Yes
+6ab9ccfc-06ea-4044-8551-8610e07a4baf,2024-05-03,36,Gaborone west,South-East District,16,Male,Yes,Sinovac,No,farm worker,public transport,98,Male,sore throat,flu,medication,Q3,Yes
+0c7ee3bf-c89b-44bc-a04c-92e81e36a3dd,2024-05-16,10,Gerald,North-East District,15,Female,Yes,Pfizer-BioNTech,Yes,farm worker,public transport,27,Female,fever,flu,medication,Q3,Yes
+58fab8af-d32a-452b-a1a6-43075de223f9,2023-12-10,13,Shoshong,Central District,5,Female,Yes,Sinovac,No,health worker,public transport,64,Female,sore throat,flu,fluids,Q1,No
+acc54aef-a1b9-4b39-b462-b38f2e483d38,2023-08-31,6,Mabutsane,Southern District,80,Male,Yes,Pfizer-BioNTech,No,farm worker,private car,58,Female,sore throat,common cold,rest,Q4,No
+70f4942e-74f0-4096-a70e-5d505151a5c0,2024-06-01,30,Tonota,Central District,8,Male,Yes,Moderna,Yes,farm worker,private car,12,Female,headache,flu,fluids,Q3,Yes
+7cf6ab65-8f27-4066-8580-b45eeae0fb53,2024-03-08,43,Sebina,Central District,46,Female,No,Covaxin,No,office worker,shared private car,50,Female,cough,flu,rest,Q2,No
+9c93c44e-ed30-4cc1-8efa-58932d7a724e,2024-05-27,2,Old Naledi,South-East District,13,Male,Yes,Johnson & Johnson,Yes,health worker,shared private car,69,Female,headache,common cold,medication,Q3,Yes
+2577ea6f-e2b9-4d79-833d-de91c6c7fa35,2023-12-05,21,Airstrip,Central District,1,Male,Yes,Johnson & Johnson,No,construction worker,shared private car,30,Male,sore throat,common cold,rest,Q1,No
+586c9348-e0dd-4d72-b9e8-b737dc592abc,2023-10-14,31,Oodi,South-East District,27,Female,Yes,Sinovac,No,office worker,private car,97,Female,cough,common cold,medication,Q1,No
+f0640b01-7aaf-43dd-967a-f763d9928e39,2023-07-17,39,Mabutsane,Southern District,20,Female,No,AstraZeneca,Yes,farm worker,private car,85,Male,headache,common cold,fluids,Q4,No
+884f65d1-5093-4032-ac4a-afa5bb67d8ce,2023-08-14,26,Moeti,Ghanzi District,84,Male,Yes,Moderna,Yes,office worker,public transport,4,Male,cough,flu,medication,Q4,No
+b6bf0baa-6f81-4c7c-8f44-d9efceb11c23,2024-03-29,17,Kanye Main Clinic,Southern District,75,Male,No,Pfizer-BioNTech,No,health worker,shared private car,77,Female,cough,flu,medication,Q2,No
+5038521e-c326-4b54-bd8d-ae679aac1776,2023-07-03,27,Moeti,Ghanzi District,21,Male,Yes,AstraZeneca,Yes,construction worker,private car,9,Female,headache,respiratory infection,fluids,Q4,No
+ee14e2bc-7d18-4a22-84f9-e902348c66dd,2023-09-12,2,Phuthadikobo,Central District,31,Male,Yes,Johnson & Johnson,Yes,health worker,shared private car,35,Male,headache,common cold,medication,Q4,Yes
+ccbb1588-6931-45c4-b5a9-d4d4716c2d3c,2024-01-16,20,Letlhakeng,Kweneng District,15,Female,No,Pfizer-BioNTech,No,farm worker,public transport,51,Female,sore throat,respiratory infection,rest,Q2,No
+267278c9-e32a-4faa-9976-46cf955c5d42,2024-06-12,40,Charleshill,North-East District,46,Male,No,Johnson & Johnson,Yes,farm worker,public transport,67,Female,fatigue,flu,medication,Q3,No
+0de8362c-3933-4532-8583-a85c6c93b321,2023-10-06,11,Old Naledi,South-East District,37,Male,Yes,Sputnik V,No,health worker,private car,96,Female,sore throat,respiratory infection,rest,Q1,No
+ffa3fbe7-f4cb-4702-ae14-95ad60bf65f1,2023-07-14,5,Letlhakeng,Kweneng District,0,Female,No,Sputnik V,No,office worker,private car,11,Male,headache,common cold,medication,Q4,No
+f03c4173-c1ff-4119-9b63-788a36f6b80d,2023-07-13,29,Mathethe,Southern District,16,Male,No,Sputnik V,Yes,office worker,private car,52,Male,headache,common cold,rest,Q4,No
+50616068-5b84-467a-9bf6-0315d132c4fa,2024-04-24,35,Mathethe,Southern District,14,Male,No,AstraZeneca,Yes,office worker,private car,76,Female,fever,flu,rest,Q3,Yes
+4b91379f-a7c1-41c6-aa13-f3332d399dd7,2023-10-09,37,Boseja II,Central District,41,Female,Yes,Sputnik V,Yes,health worker,private car,14,Male,cough,flu,rest,Q1,No
+ddeb54eb-fdb7-4742-84ad-ef23aaec837a,2024-06-08,24,Oodi,South-East District,38,Male,No,Sputnik V,Yes,farm worker,shared private car,13,Female,cough,respiratory infection,medication,Q3,Yes
+b9ac8967-37cd-429b-b230-6b8cda19305e,2024-04-11,17,Gaborone west,South-East District,61,Male,Yes,Sputnik V,Yes,construction worker,public transport,73,Male,fatigue,respiratory infection,rest,Q3,Yes
+64d971c0-15a3-49b2-a3e2-2d9832ea6efe,2023-07-26,8,Ditsweletse,Kweneng District,90,Male,Yes,Covaxin,Yes,construction worker,public transport,47,Male,fever,respiratory infection,rest,Q4,Yes
+2e0f86e6-0e64-4559-a6a3-f11c6a2660b3,2024-01-05,19,Shakawe,North-West District,63,Female,No,Sputnik V,Yes,office worker,private car,80,Female,sore throat,common cold,fluids,Q2,Yes
+a400d19a-5053-4d48-a676-5e4f3d5d1c99,2024-03-30,3,Tapologong,Central District,78,Female,No,Moderna,Yes,construction worker,private car,73,Female,sore throat,common cold,fluids,Q2,No
+e7db97b9-3a20-46ec-8738-ba74081d5404,2024-05-24,30,Khakhea,Ghanzi District,18,Female,No,AstraZeneca,No,farm worker,shared private car,94,Female,fatigue,respiratory infection,rest,Q3,No
+a602005d-0b65-40f3-af37-c69361075020,2024-02-14,32,Letlhakeng,Kweneng District,15,Male,No,Sinovac,No,construction worker,private car,72,Female,fever,respiratory infection,rest,Q2,No
+b789d883-b155-45b2-ab73-e2119bf6f238,2024-02-23,11,Takatokwane,Central District,84,Female,Yes,Covaxin,No,office worker,shared private car,86,Male,fatigue,common cold,rest,Q2,Yes
+e0d31696-08d4-4466-917f-a026fa8afaa1,2024-04-26,10,Tsopeng,Central District,91,Female,Yes,Sputnik V,No,farm worker,private car,92,Male,fever,flu,medication,Q3,No
+498ceedc-287a-4db1-8181-9c299bb6a88b,2023-07-06,25,Lerala,Central District,3,Male,Yes,Johnson & Johnson,No,health worker,shared private car,66,Male,cough,common cold,rest,Q4,No
+bfa2c16f-4d33-4246-b7ca-556e55a29ab6,2023-12-30,13,Letlhakeng,Kweneng District,17,Male,No,Sputnik V,Yes,office worker,public transport,60,Male,sore throat,flu,medication,Q1,No
+c065a5e5-1f22-470a-8b78-cb8257865435,2024-02-25,36,Shakawe,North-West District,65,Female,No,Johnson & Johnson,No,office worker,public transport,38,Male,fatigue,respiratory infection,rest,Q2,No
+34316dfe-0c47-4972-ae29-2094fedeab8c,2023-07-24,22,Kachikau,North-West District,78,Female,Yes,Sinopharm,No,farm worker,shared private car,52,Female,cough,respiratory infection,rest,Q4,Yes
+06b3dbc8-946c-46fc-8cf9-fb3015cd2b24,2024-02-01,29,Mafitlhakgosi,Central District,8,Female,No,Sputnik V,No,health worker,shared private car,73,Female,cough,respiratory infection,fluids,Q2,No
+12418e28-7945-419a-9046-ab6e6d30d635,2023-08-07,32,Gaborone west,South-East District,77,Male,No,Sinovac,No,farm worker,public transport,95,Female,sore throat,common cold,rest,Q4,Yes
+5f0ee5a5-0da6-4dc2-b484-50b9a1cf7be9,2023-07-12,36,Moeti,Ghanzi District,42,Male,Yes,Sinopharm,No,office worker,shared private car,39,Female,headache,flu,fluids,Q4,Yes
+ed4b1cba-f487-4aae-82b7-38ce5f82d2e8,2024-04-30,6,Sese,Central District,33,Male,No,Moderna,Yes,farm worker,public transport,52,Male,sore throat,common cold,fluids,Q3,No
+6e79f7b2-4e83-4540-9d70-97cc170b0a82,2024-05-12,27,Mafitlhakgosi,Central District,73,Male,No,AstraZeneca,Yes,health worker,public transport,26,Female,sore throat,common cold,rest,Q3,No
+913ab96e-1222-4188-adfe-34a25e93c213,2023-07-16,16,Kgwatlheng,Kweneng District,91,Male,Yes,Johnson & Johnson,Yes,construction worker,public transport,41,Female,sore throat,common cold,rest,Q4,Yes
+d72e0826-1e3a-4856-ae3b-10631baaeeff,2023-09-08,37,Letlhakeng,Kweneng District,24,Female,Yes,AstraZeneca,Yes,construction worker,shared private car,25,Male,fatigue,common cold,rest,Q4,Yes
+e3cef237-57b1-478c-8642-e14d4c1b7d03,2023-08-09,4,Takatokwane,Central District,87,Male,Yes,Moderna,Yes,farm worker,private car,8,Male,fatigue,flu,medication,Q4,Yes
+ef20d3c2-83af-459c-a563-ac35d71c2e80,2023-10-10,21,Kanye Main Clinic,Southern District,61,Female,No,AstraZeneca,Yes,construction worker,private car,47,Male,cough,flu,fluids,Q1,No
+6a8d3bd2-6770-4090-936d-4c895dd969dc,2023-11-17,29,Gerald,North-East District,60,Male,No,AstraZeneca,Yes,farm worker,public transport,30,Female,fever,respiratory infection,medication,Q1,Yes
+aa8e4ba5-02ce-4c3c-80fc-8b21d999a782,2023-09-27,1,Broadhurst 3 (BH3),South-East District,42,Male,No,AstraZeneca,No,health worker,shared private car,90,Male,headache,flu,medication,Q4,Yes
+50674ed3-676c-4cf7-b1d7-168f10924777,2024-01-26,30,Shoshong,Central District,83,Female,Yes,Sinopharm,Yes,farm worker,private car,58,Female,fatigue,flu,medication,Q2,No
+614d21d3-6996-499b-98fd-9dbef3c67e7b,2023-10-30,1,Tsopeng,Central District,9,Male,Yes,Johnson & Johnson,No,office worker,public transport,31,Female,headache,common cold,rest,Q1,Yes
+8ecf4cd1-b6bc-4006-a861-1f96f277f0a4,2024-05-21,39,Gerald,North-East District,22,Male,Yes,Sinopharm,Yes,farm worker,public transport,41,Male,cough,common cold,fluids,Q3,No
+794102ad-f362-4e8a-95aa-696e03cbf777,2024-05-15,24,Mopipi,Ghanzi District,47,Male,Yes,Sputnik V,No,farm worker,shared private car,50,Female,cough,respiratory infection,fluids,Q3,Yes
+1d91d1d8-6a9a-43d0-9ea6-ddf36d1d7808,2023-12-10,7,Gerald,North-East District,76,Male,No,Sputnik V,Yes,health worker,shared private car,20,Male,headache,respiratory infection,medication,Q1,Yes
+7b15a565-b99d-4fb9-8f71-932695d17fe9,2023-06-21,13,Shakawe,North-West District,25,Male,No,Sinopharm,Yes,health worker,private car,14,Male,fatigue,respiratory infection,fluids,Q3,No
+902aa336-4df2-4121-99ab-81e76924759a,2024-06-07,35,Lesirane,North-East District,58,Female,Yes,Pfizer-BioNTech,No,construction worker,public transport,86,Male,headache,flu,rest,Q3,Yes
+5a321612-0c93-4841-8e47-9f1d3d806841,2023-06-18,21,Tati Siding,North-East District,57,Male,No,Pfizer-BioNTech,No,health worker,public transport,93,Female,headache,common cold,medication,Q3,No
+e91e79a9-2a17-4d98-b17f-8e95ead81d6a,2023-10-09,10,Botshabelo,Central District,40,Male,Yes,Johnson & Johnson,No,farm worker,shared private car,20,Female,fatigue,common cold,rest,Q1,No
+32302c1f-e5b6-4556-ba7b-2791b75e3c3b,2023-11-02,19,Kgwatlheng,Kweneng District,17,Female,No,Johnson & Johnson,Yes,construction worker,public transport,61,Male,sore throat,common cold,rest,Q1,No
+7c49c26b-3206-405d-8258-10cab3fa989f,2024-02-07,31,Tati Siding,North-East District,88,Male,Yes,Pfizer-BioNTech,No,construction worker,private car,83,Female,fever,respiratory infection,fluids,Q2,No
+57b6e417-2cdb-4678-a6fc-0474290be351,2023-12-02,32,Mopipi,Ghanzi District,80,Male,Yes,Covaxin,Yes,health worker,private car,35,Female,sore throat,respiratory infection,rest,Q1,Yes
+cbed12e2-2d0c-49ce-8c99-059a502916fe,2024-03-14,35,Tsopeng,Central District,82,Male,No,Covaxin,Yes,health worker,public transport,78,Female,fever,common cold,rest,Q2,Yes
+4aeaa20b-006c-4289-8c2c-974086eecd1d,2023-08-27,29,Mopipi,Ghanzi District,41,Female,Yes,Pfizer-BioNTech,Yes,farm worker,private car,32,Female,cough,respiratory infection,fluids,Q4,No
+e1240fab-9e68-4656-9f5d-2447d146f11b,2023-07-01,33,Maun General Clinic,North-West District,5,Female,Yes,Johnson & Johnson,Yes,farm worker,shared private car,16,Female,fatigue,respiratory infection,medication,Q4,No
+a5b09799-68f9-4387-819d-96495881dcda,2024-04-27,20,Mafitlhakgosi,Central District,15,Male,Yes,Covaxin,No,construction worker,private car,25,Male,cough,common cold,medication,Q3,Yes
+53e62e83-b761-4131-8c09-8d5f4bcc38f4,2024-03-23,1,Tati Siding,North-East District,14,Female,Yes,Sputnik V,Yes,farm worker,shared private car,97,Female,cough,common cold,fluids,Q2,Yes
+31d601b0-5f67-493c-a721-e8ab10ac0d11,2023-10-30,7,Sese,Central District,1,Female,Yes,AstraZeneca,Yes,health worker,shared private car,77,Male,headache,common cold,fluids,Q1,No
+157cbbe0-08a2-41da-8c97-5d50e11b3c5a,2023-12-10,8,Jubilee,South-East District,82,Male,Yes,Sinovac,Yes,farm worker,public transport,70,Male,cough,respiratory infection,fluids,Q1,Yes
+36200f70-20b2-4c74-9e9e-cb3ba949e331,2024-05-21,33,Tapologong,Central District,22,Female,Yes,Covaxin,Yes,farm worker,public transport,26,Male,fatigue,flu,rest,Q3,No
+f4df4781-940f-4d8e-9ba3-e4391c3b5eae,2023-12-26,34,Kanye Main Clinic,Southern District,52,Male,No,Sinovac,No,construction worker,private car,28,Male,headache,flu,fluids,Q1,No
+890b1ed5-862c-41cc-9a43-3a3909b617db,2023-07-15,4,Airstrip,Central District,91,Female,Yes,Sinovac,No,construction worker,public transport,58,Male,fatigue,common cold,medication,Q4,No
+b446f264-f5c6-45b8-8743-ff3e6781c0a1,2024-01-09,8,Lesirane,North-East District,43,Female,No,Moderna,No,farm worker,shared private car,62,Male,headache,respiratory infection,fluids,Q2,Yes
+1fcb9366-84fb-44b4-866b-d2d9388ec163,2023-09-03,33,Khakhea,Ghanzi District,56,Female,Yes,Sinovac,No,farm worker,shared private car,64,Male,fever,respiratory infection,fluids,Q4,Yes
+7253bb72-3970-47c7-8dc4-5a130b4d67db,2024-04-07,25,Otse,Kweneng District,65,Male,No,Sinopharm,Yes,health worker,public transport,74,Female,fatigue,respiratory infection,fluids,Q3,Yes
+d3578e4c-37e4-4216-925d-858fc90e3a0c,2024-06-17,25,Kgwatlheng,Kweneng District,46,Female,Yes,Sinovac,No,farm worker,private car,99,Female,sore throat,flu,fluids,Q3,No
+bb531585-a5d4-4361-af76-f370eacb6e32,2024-05-27,36,Maun General Clinic,North-West District,95,Male,No,Sinovac,Yes,construction worker,shared private car,74,Female,fever,flu,medication,Q3,No
+faa73524-d3e8-4f02-9584-7ad313eb12d5,2024-03-27,40,Tati Siding,North-East District,98,Female,No,Pfizer-BioNTech,Yes,construction worker,private car,52,Male,sore throat,respiratory infection,medication,Q2,No
+d33e73d2-ae67-439d-b1f5-9a03e766177a,2024-01-21,20,Peleng East,Central District,69,Female,Yes,Moderna,No,office worker,private car,11,Male,sore throat,respiratory infection,fluids,Q2,No
+c43da0ef-ccfa-490d-98b3-ad66b6cda6bf,2024-01-26,16,Sebina,Central District,55,Female,Yes,Pfizer-BioNTech,No,construction worker,shared private car,36,Male,sore throat,common cold,rest,Q2,No
+bde2833b-d798-4712-8487-4e38048f424a,2024-03-25,12,Moeti,Ghanzi District,36,Male,No,Sinovac,Yes,health worker,shared private car,99,Male,fatigue,flu,rest,Q2,No
+1c2522b0-7bed-44c5-9465-356422d2e512,2023-12-29,4,Tsopeng,Central District,91,Male,Yes,AstraZeneca,No,construction worker,private car,36,Male,fatigue,flu,rest,Q1,Yes
+683d4b19-0047-459e-af2a-7102e279af10,2023-12-03,39,Sesame,Central District,13,Female,Yes,Sinovac,Yes,construction worker,private car,40,Male,headache,respiratory infection,fluids,Q1,No
+af9455c4-db01-4292-842c-7152d35f676d,2023-12-20,2,Nata,Central District,29,Female,No,Moderna,No,farm worker,public transport,58,Female,fever,common cold,rest,Q1,No
+57c6a7fb-8c73-40ef-a148-df268a2645f9,2024-03-08,34,Old Naledi,South-East District,78,Male,Yes,Pfizer-BioNTech,No,health worker,public transport,53,Female,headache,common cold,rest,Q2,Yes
+9007bfb1-f3dd-4c8c-bbea-f2ebeda3d9b3,2024-06-17,3,Otse,Kweneng District,20,Female,No,Sinovac,Yes,construction worker,private car,29,Male,cough,flu,rest,Q3,No
+e2070ede-02fc-4bb1-a8cc-e3df23c8a8bd,2024-02-08,23,Botshabelo,Central District,85,Male,Yes,Moderna,Yes,office worker,private car,20,Female,sore throat,flu,fluids,Q2,No
+dc71ae42-cd46-4c8b-aa57-ff2ad2504d37,2024-04-23,22,Gerald,North-East District,79,Female,Yes,Sinopharm,No,construction worker,private car,62,Female,fever,common cold,medication,Q3,No
+66ea1065-a75d-4533-9ee5-304defd3d963,2023-12-31,32,Sesame,Central District,78,Male,No,Moderna,Yes,farm worker,private car,99,Female,sore throat,flu,fluids,Q1,Yes
+afb3510c-f6e2-4e79-80af-cc778828d9e0,2023-09-20,1,Khakhea,Ghanzi District,99,Female,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,53,Male,sore throat,common cold,rest,Q4,Yes
+e6f0668c-5890-4600-a229-c5f0f1282e59,2023-06-27,17,Gaborone west,South-East District,24,Male,Yes,Covaxin,No,office worker,public transport,6,Female,cough,flu,medication,Q3,Yes
+c61698ef-f783-415c-8bdb-29ea34a00265,2024-06-08,37,Boseja II,Central District,23,Male,No,Sinovac,No,construction worker,public transport,12,Female,fever,flu,rest,Q3,No
+8c4f1817-c6bf-439e-8834-27ee0c5a3fb7,2024-02-23,30,Botshabelo,Central District,35,Female,Yes,Sinovac,Yes,health worker,public transport,85,Female,cough,flu,medication,Q2,Yes
+3c53c98d-9d45-44f4-8804-df093dbe9e4d,2024-04-18,9,Botshabelo,Central District,75,Female,No,Sinopharm,No,health worker,shared private car,92,Male,fatigue,respiratory infection,fluids,Q3,Yes
+391badcb-4426-42cf-9432-f5f822e3b737,2023-10-10,16,Shakawe,North-West District,79,Female,No,Johnson & Johnson,No,office worker,public transport,97,Male,fever,respiratory infection,rest,Q1,Yes
+bf3132cd-173d-46ec-8044-189297c5c0f3,2024-03-18,38,Maun General Clinic,North-West District,5,Male,No,Sinopharm,No,construction worker,shared private car,64,Female,fatigue,respiratory infection,medication,Q2,Yes
+2935c4a5-4f00-48a1-b98f-d6039e493292,2024-05-18,21,Lesirane,North-East District,34,Female,No,Covaxin,Yes,health worker,private car,12,Male,fever,respiratory infection,medication,Q3,Yes
+3f720de2-b9cc-419d-84fb-6402f4cea8e2,2023-10-26,25,Peleng East,Central District,39,Female,Yes,Johnson & Johnson,No,farm worker,private car,39,Male,sore throat,flu,medication,Q1,No
+8cc3571b-19e1-4a42-a322-1942644e567a,2023-11-04,21,Takatokwane,Central District,69,Female,Yes,Johnson & Johnson,Yes,construction worker,shared private car,41,Male,fatigue,respiratory infection,rest,Q1,Yes
+477dcb97-6f84-4fbe-b6a7-d5f61d49e87c,2024-01-25,28,Kang,Central District,33,Male,No,Moderna,No,farm worker,shared private car,6,Male,cough,respiratory infection,rest,Q2,No
+fac94acd-ac67-47bd-be9e-0405420a32bd,2024-04-09,5,Oodi,South-East District,91,Female,Yes,Johnson & Johnson,Yes,office worker,public transport,13,Male,cough,flu,rest,Q3,Yes
+b9029b63-6884-4da5-b45a-3df6578ae91e,2023-12-19,20,Tati Siding,North-East District,74,Female,Yes,Sinopharm,No,construction worker,public transport,52,Male,cough,flu,medication,Q1,No
+7b5e09ca-a25c-406d-9d43-6871acfe5b15,2024-01-23,20,Shakawe,North-West District,89,Male,No,Sputnik V,No,farm worker,public transport,93,Female,headache,flu,rest,Q2,Yes
+0cf9c43b-13a0-4635-a8b6-9d2380e889e9,2024-01-22,14,Mabutsane,Southern District,66,Female,Yes,Johnson & Johnson,No,farm worker,private car,25,Female,cough,common cold,rest,Q2,No
+4280c20a-c3c7-4bb9-a5a6-c8a5b480fb0c,2024-05-08,33,Letlhakeng,Kweneng District,12,Female,No,Sinopharm,No,farm worker,private car,2,Male,headache,flu,fluids,Q3,No
+70b3c902-a77b-41cd-b7d9-c8958f7ce63f,2024-01-10,37,Mathethe,Southern District,61,Male,Yes,Sinopharm,Yes,office worker,private car,63,Male,fever,common cold,medication,Q2,No
+f112477b-b671-450d-a289-0a9fc47e08e6,2024-03-24,35,Airstrip,Central District,65,Female,Yes,Pfizer-BioNTech,Yes,farm worker,private car,92,Female,sore throat,common cold,rest,Q2,No
+4bf8bd01-5d0b-4c60-a27b-214f43a65b15,2024-02-13,2,Jubilee,South-East District,46,Female,Yes,Pfizer-BioNTech,Yes,office worker,private car,35,Female,fatigue,common cold,fluids,Q2,No
+218cfd66-3b3b-40ac-98e0-2f8f065cd232,2024-01-25,30,Mafitlhakgosi,Central District,49,Male,No,AstraZeneca,Yes,office worker,shared private car,21,Male,fatigue,flu,medication,Q2,Yes
+cfd49f5b-c84e-40f9-b862-69c0d3803892,2024-01-25,42,Tati Siding,North-East District,49,Female,Yes,Sputnik V,No,office worker,public transport,23,Female,headache,common cold,fluids,Q2,Yes
+d682be79-ac68-4de3-82b0-28086a52bf28,2023-10-19,17,Tapologong,Central District,2,Female,No,Pfizer-BioNTech,No,health worker,private car,74,Male,fever,flu,rest,Q1,Yes
+83e9fa65-a006-4878-8bd8-7ca9c635cabe,2024-04-07,36,Kgwatlheng,Kweneng District,97,Female,No,Moderna,Yes,office worker,private car,37,Male,fever,respiratory infection,fluids,Q3,No
+dda05654-b7c8-4f62-be00-2d269a7c1508,2023-12-04,28,Khakhea,Ghanzi District,47,Male,No,Sinovac,No,health worker,shared private car,86,Male,headache,respiratory infection,fluids,Q1,Yes
+263500b0-8412-4f08-ba84-e492ec4dc42c,2023-10-31,27,Mathethe,Southern District,79,Female,No,Sinovac,Yes,office worker,public transport,27,Male,fever,flu,rest,Q1,Yes
+e57a1172-acd3-4233-8bb0-07f1853f808a,2023-11-02,30,Oodi,South-East District,32,Male,No,Moderna,Yes,farm worker,private car,64,Female,cough,common cold,medication,Q1,Yes
+9f78f980-7e3f-475d-9b2a-31cf18e154aa,2024-05-09,12,Kanye Main Clinic,Southern District,76,Female,Yes,Johnson & Johnson,Yes,office worker,private car,95,Female,fatigue,flu,medication,Q3,No
+33ffe23e-4bce-4bba-b2dc-73a67949cfd3,2024-02-11,28,Letlhakeng,Kweneng District,31,Male,No,Covaxin,No,farm worker,public transport,9,Male,headache,common cold,rest,Q2,No
+e18d1de4-1a36-4b97-ae3a-e9f4e24ffabc,2024-05-11,37,Sese,Central District,30,Female,No,Johnson & Johnson,No,health worker,public transport,87,Female,fatigue,common cold,fluids,Q3,Yes
+643b5acd-7bf7-4512-bdc5-a2c7486c4c32,2024-06-04,14,Takatokwane,Central District,46,Female,Yes,Covaxin,No,construction worker,private car,84,Male,fatigue,flu,medication,Q3,Yes
+b5674b64-2c06-45ab-89ad-92a479a7e0d9,2023-07-21,8,Letlhakeng,Kweneng District,35,Female,Yes,Covaxin,Yes,construction worker,shared private car,74,Male,fever,respiratory infection,rest,Q4,Yes
+890b0d86-5a03-46ca-85c8-325faadfd853,2023-07-07,36,Tati Siding,North-East District,91,Female,Yes,Sinovac,Yes,construction worker,private car,16,Female,sore throat,flu,rest,Q4,No
+6e54d1ee-dbfa-4bc9-88a6-a7b4d94df52a,2024-06-05,16,Mopipi,Ghanzi District,92,Female,Yes,Sinopharm,No,health worker,shared private car,75,Female,fatigue,flu,medication,Q3,Yes
+ffd15f35-caca-49c0-98ed-b2f1964b3fb5,2024-05-31,36,Mathethe,Southern District,13,Female,No,Moderna,Yes,construction worker,public transport,96,Female,fever,flu,medication,Q3,No
+df26a93a-19d0-4603-a2b6-3d61a0632fa3,2023-07-04,30,Sesame,Central District,99,Male,No,Sinopharm,Yes,farm worker,public transport,68,Male,cough,common cold,rest,Q4,No
+584b759a-60b4-4143-9c3e-d38555c45657,2024-02-26,17,Mopipi,Ghanzi District,45,Female,No,Sinopharm,No,construction worker,shared private car,1,Female,sore throat,respiratory infection,fluids,Q2,Yes
+a2c44c4e-08fe-406b-85d4-d3f80d51548c,2024-02-15,4,Botshabelo,Central District,47,Male,Yes,AstraZeneca,Yes,construction worker,public transport,94,Male,fever,flu,medication,Q2,Yes
+7fa8e665-511b-4ad6-8e6b-18f352011a9c,2024-03-01,12,Ditsweletse,Kweneng District,48,Female,No,Johnson & Johnson,No,office worker,private car,15,Male,sore throat,respiratory infection,rest,Q2,Yes
+b983e3c2-cfe9-4db8-9673-adfa4be2aaf0,2024-06-14,31,Old Naledi,South-East District,98,Male,Yes,Covaxin,Yes,construction worker,shared private car,97,Male,cough,common cold,fluids,Q3,No
+0ac7d9f9-61ef-4309-bd3e-2ade24bd2e5e,2024-05-04,36,Lesirane,North-East District,25,Female,Yes,Sinovac,No,office worker,public transport,83,Female,fever,respiratory infection,fluids,Q3,No
+f2642e44-1819-455f-9b0a-b3f0e772f39f,2023-11-08,18,Phuthadikobo,Central District,16,Female,Yes,Johnson & Johnson,Yes,farm worker,shared private car,26,Female,fatigue,common cold,fluids,Q1,No
+35b598ec-5e65-491d-94a4-b2272954fb9c,2023-08-13,14,Ditsweletse,Kweneng District,20,Female,Yes,Moderna,No,construction worker,private car,86,Female,fever,common cold,rest,Q4,Yes
+627a6eb1-32c5-430e-a4d6-45b00ce4df81,2023-11-14,26,Phuthadikobo,Central District,36,Male,No,Johnson & Johnson,No,health worker,public transport,80,Female,cough,common cold,fluids,Q1,No
+9c238986-fc83-4fbb-a151-904816cf8301,2024-01-04,15,Lerala,Central District,68,Female,Yes,Covaxin,Yes,health worker,shared private car,96,Female,sore throat,flu,fluids,Q2,Yes
+d655da01-5b2f-4e08-9129-a1fae394bcea,2024-01-10,14,Charleshill,North-East District,86,Male,Yes,Sinopharm,No,farm worker,public transport,75,Female,fever,respiratory infection,rest,Q2,No
+5d043ff3-9e50-463d-bf33-54354ce19356,2023-09-03,43,Khakhea,Ghanzi District,25,Female,No,Sinovac,No,office worker,public transport,93,Male,fatigue,respiratory infection,medication,Q4,No
+4d1124c9-5c5b-48eb-b93c-94b34fbe7bd2,2024-04-25,22,Kanye Main Clinic,Southern District,64,Female,Yes,Covaxin,No,office worker,public transport,24,Female,fatigue,respiratory infection,rest,Q3,No
+d688896a-69ef-4a18-bc3b-98f57a726d3d,2024-06-03,7,Letlhakeng,Kweneng District,7,Female,Yes,Sinopharm,No,office worker,shared private car,59,Female,fever,common cold,medication,Q3,No
+b27f1abf-a44c-4768-a6be-77cd6e4c045f,2023-09-06,39,Lesirane,North-East District,73,Male,Yes,Johnson & Johnson,Yes,farm worker,private car,53,Female,sore throat,respiratory infection,medication,Q4,Yes
+835e4d81-94ee-43cf-bf96-da3afbdcd6df,2023-10-14,6,Maun General Clinic,North-West District,82,Male,Yes,Covaxin,No,health worker,shared private car,32,Female,sore throat,flu,medication,Q1,No
+87832c58-21d7-4358-9a9f-2339a67afd43,2023-11-15,19,Mabutsane,Southern District,95,Female,No,Sinopharm,No,health worker,private car,97,Male,cough,common cold,rest,Q1,No
+eb2cd936-7e90-4161-9f10-e1328520fc6b,2023-08-26,16,Otse,Kweneng District,26,Male,Yes,Johnson & Johnson,Yes,construction worker,shared private car,88,Male,fatigue,flu,rest,Q4,Yes
+6e6fd1c7-cbe3-494f-b690-f48459d3afdb,2024-01-17,33,Moeti,Ghanzi District,42,Female,No,Moderna,Yes,office worker,private car,39,Male,sore throat,respiratory infection,rest,Q2,Yes
+3ba3c828-fdae-44a1-9d5b-bb1f28cf5d55,2024-03-26,9,Khakhea,Ghanzi District,22,Female,Yes,Johnson & Johnson,No,farm worker,private car,73,Male,headache,flu,rest,Q2,Yes
+53d18955-a699-494e-aa7e-8df45e1126e8,2023-08-06,17,Old Naledi,South-East District,71,Male,Yes,AstraZeneca,No,office worker,private car,16,Female,headache,flu,fluids,Q4,No
+f3969386-0fc1-4174-ab8d-6df479f26c7f,2024-03-14,16,Broadhurst 3 (BH3),South-East District,97,Male,No,Johnson & Johnson,Yes,office worker,private car,67,Female,fatigue,respiratory infection,fluids,Q2,Yes
+19f0b098-aa05-4932-8129-9a4c54292f6a,2023-08-21,4,Lerala,Central District,70,Female,Yes,AstraZeneca,Yes,construction worker,private car,13,Male,fatigue,flu,medication,Q4,No
+5c4397a3-db35-4040-a739-452bc236ade8,2023-12-14,25,Tonota,Central District,50,Female,No,Moderna,Yes,construction worker,private car,23,Male,cough,flu,medication,Q1,Yes
+38eed493-4c60-4ad7-a7e3-b0174fffbe31,2023-12-10,31,Nata,Central District,51,Male,Yes,Covaxin,Yes,construction worker,private car,19,Female,cough,flu,rest,Q1,No
+edab776a-269f-45fb-848e-ce870a8fd377,2023-11-10,34,Takatokwane,Central District,50,Female,No,Covaxin,Yes,farm worker,shared private car,41,Female,sore throat,flu,rest,Q1,No
+fc1852fe-c967-4cc1-80b0-006d74ee677b,2023-10-11,31,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,82,Female,No,Covaxin,Yes,health worker,private car,41,Female,fatigue,common cold,medication,Q1,Yes
+2de486df-795c-48fa-9347-18153c70d864,2023-12-29,1,Khakhea,Ghanzi District,44,Female,No,Pfizer-BioNTech,No,farm worker,public transport,84,Female,cough,respiratory infection,rest,Q1,Yes
+d31fdc6a-284f-4136-9767-29360ba5ea81,2023-10-15,7,Peleng East,Central District,30,Female,Yes,Sputnik V,No,health worker,private car,91,Male,cough,common cold,medication,Q1,No
+cbcb7d3e-a114-4d78-ba54-6ce9d2a88dce,2023-09-26,22,Charleshill,North-East District,6,Female,No,Sinovac,No,health worker,private car,79,Female,headache,common cold,medication,Q4,No
+46b2bc32-6c57-443f-a1ed-a5663313c879,2024-03-02,24,Moeti,Ghanzi District,71,Female,No,Pfizer-BioNTech,Yes,health worker,public transport,17,Female,headache,flu,rest,Q2,No
+ab5649e1-204b-42b4-b6a5-8efb14016309,2023-11-17,35,Gaborone west,South-East District,85,Female,Yes,AstraZeneca,Yes,farm worker,public transport,85,Male,fever,common cold,fluids,Q1,No
+7d1eea87-8cfa-4f6c-8a89-9b3de7880afe,2023-09-21,37,Mopipi,Ghanzi District,40,Female,Yes,Sinovac,Yes,office worker,public transport,80,Female,fever,respiratory infection,medication,Q4,Yes
+efa347a3-1320-4f37-93c5-b82aa2c84c0d,2024-02-28,13,Sese,Central District,77,Male,No,Sinovac,Yes,construction worker,shared private car,57,Female,sore throat,flu,rest,Q2,No
+24c856e7-03dc-47d1-b5f5-902b1e2e7664,2024-01-21,4,Gaborone west,South-East District,30,Male,No,Sinopharm,No,construction worker,shared private car,100,Female,fatigue,common cold,fluids,Q2,No
+4738a49e-dbe1-4b7f-a87f-5de88f75f82b,2024-03-24,4,Phuthadikobo,Central District,62,Female,Yes,Johnson & Johnson,No,farm worker,shared private car,12,Male,fatigue,respiratory infection,medication,Q2,No
+e79cd4d1-8423-4522-8a7f-a40a2575aeae,2024-04-14,26,Kang,Central District,32,Male,Yes,Sinopharm,Yes,construction worker,public transport,67,Female,sore throat,flu,fluids,Q3,Yes
+86965758-7fba-4980-b490-82d9ce0529bb,2023-09-21,29,Airstrip,Central District,66,Female,Yes,Covaxin,Yes,office worker,shared private car,79,Female,sore throat,flu,rest,Q4,Yes
+07c38238-2da8-4669-a167-266e0bb0accb,2024-01-25,10,Broadhurst 3 (BH3),South-East District,96,Female,No,Sinovac,No,health worker,shared private car,86,Female,cough,respiratory infection,fluids,Q2,No
+5ab8e01e-ef0c-46bd-ae75-490a04b99df0,2023-09-06,38,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,28,Female,No,AstraZeneca,No,health worker,shared private car,4,Female,cough,flu,rest,Q4,Yes
+5ff26fd5-90e9-4c0d-b174-247cdd1e8404,2024-04-09,12,Khakhea,Ghanzi District,58,Female,No,Johnson & Johnson,No,office worker,private car,53,Female,headache,respiratory infection,medication,Q3,No
+86e94fd5-eff7-416d-9715-5fc5bd855c3b,2024-03-22,2,Airstrip,Central District,92,Male,No,Sinovac,No,office worker,private car,87,Male,sore throat,common cold,medication,Q2,Yes
+a33fc9c1-f517-4dc0-9fae-da95229b2798,2023-09-19,18,Sebina,Central District,49,Male,No,Sinopharm,No,construction worker,private car,47,Male,fever,respiratory infection,rest,Q4,Yes
+9379f9ea-1b9c-412c-a104-12bc73c76436,2023-09-07,19,Kachikau,North-West District,27,Female,Yes,AstraZeneca,No,health worker,shared private car,11,Female,fatigue,common cold,medication,Q4,No
+ef4a916a-2f33-4920-a3f9-ec81d5d1bc4f,2023-12-10,17,Kgwatlheng,Kweneng District,73,Female,Yes,AstraZeneca,No,office worker,private car,3,Male,fatigue,flu,fluids,Q1,No
+acb52ba6-c631-4343-ad37-cc1f89ae4bd2,2024-03-05,3,Kang,Central District,41,Female,Yes,Covaxin,Yes,construction worker,public transport,81,Female,cough,respiratory infection,medication,Q2,No
+c03ba65f-0cea-446f-aa8f-53d10e58c19f,2024-01-09,35,Tonota,Central District,17,Female,No,Johnson & Johnson,Yes,health worker,private car,90,Female,fatigue,respiratory infection,medication,Q2,No
+d1614b56-1c94-44dd-a535-393392bb5fea,2023-10-16,8,Sese,Central District,2,Male,No,AstraZeneca,No,farm worker,shared private car,70,Female,fever,respiratory infection,fluids,Q1,Yes
+39455f8d-deb5-4ce0-8a7f-7c138fcf943c,2024-03-01,41,Maun General Clinic,North-West District,87,Male,Yes,Sputnik V,No,construction worker,private car,44,Male,cough,flu,rest,Q2,Yes
+023a9ca1-3521-441d-9a6d-15ce1ff75067,2023-11-13,6,Letlhakeng,Kweneng District,39,Male,Yes,Pfizer-BioNTech,Yes,farm worker,shared private car,97,Female,headache,flu,rest,Q1,No
+1b6e8c8b-cbf7-4b34-ab4d-c65d8f3bcd5d,2023-10-08,12,Jubilee,South-East District,52,Female,Yes,Covaxin,Yes,construction worker,private car,73,Female,fever,common cold,fluids,Q1,Yes
+838b1fb8-65a9-4c31-80b3-f684c079237a,2023-11-11,42,Otse,Kweneng District,97,Female,Yes,Moderna,Yes,health worker,shared private car,65,Female,fever,common cold,medication,Q1,Yes
+47912357-2008-445b-bb55-a2fea95e0ebe,2023-11-08,30,Gerald,North-East District,6,Male,No,Moderna,No,construction worker,public transport,48,Female,sore throat,flu,rest,Q1,Yes
+d12533ef-06d3-4a63-b53b-78545efab3b8,2023-06-30,22,Gaborone west,South-East District,95,Female,Yes,Pfizer-BioNTech,No,farm worker,shared private car,89,Male,headache,common cold,medication,Q3,No
+0ef50bab-072d-446d-98ea-bb0633394b34,2023-07-01,38,Kanye Main Clinic,Southern District,83,Female,Yes,Sinopharm,No,construction worker,shared private car,46,Female,cough,common cold,medication,Q4,No
+62ac3454-fafb-424b-b011-102bc6191e46,2024-04-15,17,Khakhea,Ghanzi District,54,Female,Yes,Johnson & Johnson,Yes,health worker,private car,78,Male,sore throat,respiratory infection,fluids,Q3,Yes
+78a09901-484f-4425-bf5b-30ded08a3b41,2024-05-20,41,Airstrip,Central District,23,Male,No,AstraZeneca,Yes,office worker,private car,40,Female,fatigue,flu,fluids,Q3,Yes
+d05cb83d-8f9d-4e65-b466-d1e3effd7cc7,2023-08-01,14,Jubilee,South-East District,67,Female,Yes,Pfizer-BioNTech,No,farm worker,public transport,51,Male,fever,respiratory infection,rest,Q4,No
+be257cf1-e648-412e-b623-ed7d767fb547,2023-08-26,13,Oodi,South-East District,40,Male,No,Johnson & Johnson,Yes,construction worker,private car,36,Male,fatigue,flu,fluids,Q4,No
+98ae4a12-ca1a-46b8-a1e6-77fa2a27fa49,2024-02-03,16,Bokaa,Central District,50,Female,No,Sputnik V,No,health worker,shared private car,80,Male,headache,respiratory infection,fluids,Q2,Yes
+2a9147c7-0d5f-485e-a5ef-905f6f6b7333,2023-07-21,13,Letlhakeng,Kweneng District,46,Male,No,Covaxin,No,construction worker,private car,94,Female,cough,common cold,medication,Q4,Yes
+f0e7ff9c-e61f-4897-91ce-40dccb95357a,2024-01-14,33,Moeti,Ghanzi District,22,Male,No,Sputnik V,Yes,office worker,public transport,35,Male,headache,flu,medication,Q2,No
+55a5274d-3173-48e6-b1dd-0c6569e8deb1,2024-01-03,21,Botshabelo,Central District,55,Female,Yes,Sinopharm,No,health worker,private car,58,Female,headache,common cold,rest,Q2,No
+4685bee0-a82a-401a-9eaf-a55c13d5c6ae,2023-08-22,3,Letlhakeng,Kweneng District,71,Female,No,Johnson & Johnson,Yes,office worker,shared private car,37,Male,headache,respiratory infection,medication,Q4,No
+e6ed7973-ee3c-4da0-a8d9-54c90566bf0a,2023-11-30,43,Kanye Main Clinic,Southern District,87,Male,Yes,Johnson & Johnson,No,office worker,public transport,70,Female,cough,flu,fluids,Q1,No
+ba3a0657-7d43-4d98-9f80-c483be25056a,2024-06-03,32,Mathethe,Southern District,39,Male,Yes,Sinopharm,Yes,farm worker,public transport,96,Female,cough,flu,rest,Q3,No
+f6ae2e2c-0b50-4be3-846a-84b268735726,2024-01-12,18,Peleng East,Central District,6,Female,Yes,Johnson & Johnson,No,farm worker,shared private car,14,Female,fatigue,common cold,rest,Q2,No
+b54626c5-1359-41da-8411-4e2e0b225904,2024-04-30,16,Botshabelo,Central District,57,Male,Yes,Covaxin,No,office worker,shared private car,90,Female,cough,flu,rest,Q3,Yes
+dfb86dbc-ce02-4de4-8903-ccb79fc99a6f,2024-03-17,9,Botshabelo,Central District,55,Female,No,Covaxin,Yes,farm worker,shared private car,75,Male,fever,respiratory infection,medication,Q2,Yes
+4483e222-e58c-4d24-8512-66bc86e14743,2023-08-24,4,Jubilee,South-East District,19,Female,No,Pfizer-BioNTech,No,health worker,shared private car,8,Male,fever,flu,medication,Q4,Yes
+81df5966-9ca7-4c1f-8631-ac477bb8a0bb,2024-02-19,1,Tati Siding,North-East District,94,Female,Yes,Sputnik V,Yes,farm worker,public transport,13,Male,sore throat,flu,fluids,Q2,No
+1bfa9974-529c-4b37-9412-1bc7ef7a40fa,2023-12-22,43,Tati Siding,North-East District,100,Female,No,AstraZeneca,No,office worker,public transport,29,Female,fatigue,respiratory infection,medication,Q1,No
+28ccc412-e72b-45e7-911e-7fc9539114bc,2023-07-04,13,Kanye Main Clinic,Southern District,24,Male,Yes,Moderna,Yes,health worker,public transport,41,Female,fever,respiratory infection,medication,Q4,No
+632b08a4-f02a-4da7-ba37-ba8515d4cfdd,2024-03-30,15,Peleng East,Central District,12,Male,No,Sinopharm,No,construction worker,shared private car,53,Female,fever,respiratory infection,rest,Q2,Yes
+c7a2aac3-175a-4698-852e-5552c27c94a5,2024-06-03,15,Boipelego,Kweneng District,26,Female,No,Sputnik V,No,construction worker,public transport,80,Male,fatigue,respiratory infection,rest,Q3,Yes
+7257491a-7d72-4ef4-9779-346e91114195,2023-08-02,3,Botshabelo,Central District,59,Male,No,Moderna,No,health worker,shared private car,45,Male,cough,respiratory infection,rest,Q4,Yes
+13859296-84ac-48fd-b0e0-41cb75ffd57e,2023-09-18,12,Kachikau,North-West District,61,Female,Yes,Covaxin,No,office worker,private car,2,Female,cough,flu,fluids,Q4,Yes
+ad88082b-c279-4ee6-9118-5e2e3926fb8c,2024-01-15,32,Peleng East,Central District,24,Male,No,Covaxin,Yes,farm worker,private car,43,Female,headache,flu,fluids,Q2,No
+a9af8649-113d-49d3-a47a-c87674ac6bc3,2024-06-06,25,Otse,Kweneng District,46,Male,No,Johnson & Johnson,Yes,health worker,shared private car,22,Female,cough,flu,fluids,Q3,No
+85e3c07e-0c03-44cf-85f5-33fe230222a1,2023-07-13,37,Sesame,Central District,70,Male,Yes,AstraZeneca,Yes,farm worker,public transport,21,Male,cough,respiratory infection,rest,Q4,No
+45e6fe2b-4936-4332-8188-44ddce31c49f,2024-04-09,41,Lerala,Central District,92,Male,Yes,Johnson & Johnson,No,farm worker,public transport,89,Female,sore throat,flu,fluids,Q3,No
+62cdaddc-102b-4713-81d3-d41dee0b32c4,2023-11-28,18,Tati Siding,North-East District,84,Male,No,Sputnik V,Yes,office worker,public transport,17,Female,sore throat,respiratory infection,medication,Q1,No
+7cfce55f-473d-4ccc-a81b-d1ddb997f1ce,2023-09-15,41,Ditsweletse,Kweneng District,6,Female,No,Pfizer-BioNTech,No,health worker,shared private car,2,Female,sore throat,flu,medication,Q4,No
+517bc2e3-f556-4801-aa7f-a2d8cb3a6e3b,2024-03-09,34,Boipelego,Kweneng District,92,Male,Yes,AstraZeneca,Yes,office worker,public transport,35,Female,cough,respiratory infection,rest,Q2,No
+0da7f414-8bef-46d4-9dc5-30ea7f3b8e8a,2023-11-04,31,Peleng East,Central District,22,Female,Yes,AstraZeneca,No,health worker,shared private car,42,Female,headache,flu,medication,Q1,Yes
+514bc2fd-74aa-4ab6-acbc-1bd7462ece23,2023-12-24,24,Kanye Main Clinic,Southern District,19,Female,Yes,AstraZeneca,Yes,construction worker,public transport,51,Male,fever,flu,medication,Q1,No
+4d4bc2c1-bd44-43a3-b0f6-29e0378d85d4,2023-11-27,14,Sebina,Central District,25,Male,Yes,Covaxin,No,construction worker,shared private car,10,Male,fever,common cold,rest,Q1,No
+cad6fcb2-f1e8-42f3-9e52-1ccc85df208e,2023-06-19,20,Mathethe,Southern District,74,Male,No,Pfizer-BioNTech,Yes,health worker,shared private car,54,Female,fatigue,respiratory infection,medication,Q3,No
+cbfbb782-6ece-4d57-ae5f-911776414a3f,2023-10-18,41,Lerala,Central District,9,Female,No,Pfizer-BioNTech,No,office worker,shared private car,92,Male,fever,respiratory infection,medication,Q1,Yes
+fc97d503-d2ae-4ff5-b7be-9dd3d3d527ec,2023-10-02,29,Sebina,Central District,36,Female,No,Sinovac,Yes,health worker,private car,38,Male,cough,flu,rest,Q1,No
+8e77349c-afd8-473b-bcf2-90312deaadae,2024-01-14,10,Mopipi,Ghanzi District,8,Female,No,Moderna,No,farm worker,public transport,64,Female,cough,respiratory infection,medication,Q2,No
+7e63b598-c639-4365-92cd-1012819244d7,2023-12-16,41,Tonota,Central District,76,Male,No,Covaxin,No,office worker,shared private car,92,Female,fever,flu,medication,Q1,Yes
+ae38ee0d-8044-41c8-bcdc-e86dd7067a38,2023-12-14,17,Nata,Central District,85,Female,Yes,Johnson & Johnson,No,health worker,shared private car,93,Male,sore throat,common cold,fluids,Q1,Yes
+636e92a8-cf01-4943-829f-67e32ec14542,2023-08-23,20,Botshabelo,Central District,29,Female,No,Sinopharm,Yes,farm worker,shared private car,53,Female,sore throat,respiratory infection,rest,Q4,No
+070ec6d7-311e-4b8e-8b2c-b3824484d8f9,2023-08-23,40,Broadhurst 3 (BH3),South-East District,50,Female,Yes,Sputnik V,No,office worker,private car,33,Male,cough,respiratory infection,medication,Q4,No
+a5923f20-ba29-490e-a50f-1446c2897582,2023-12-08,43,Shoshong,Central District,45,Female,Yes,Covaxin,Yes,farm worker,shared private car,76,Male,headache,common cold,rest,Q1,Yes
+63da4cd9-cdd6-4494-be5e-a720168cf898,2023-07-05,34,Charleshill,North-East District,13,Male,Yes,Covaxin,No,construction worker,private car,3,Female,sore throat,common cold,fluids,Q4,No
+998b8cc5-2087-4630-aadc-1b6675e6f890,2023-07-05,33,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,65,Male,No,AstraZeneca,No,health worker,shared private car,65,Female,fever,respiratory infection,fluids,Q4,Yes
+e7b9f75a-39a1-4774-a995-e86933ba8c79,2023-11-19,2,Broadhurst 3 (BH3),South-East District,43,Female,Yes,Sputnik V,No,office worker,public transport,32,Female,headache,respiratory infection,medication,Q1,Yes
+e648dc01-dd02-47f3-aaad-bc1a339d2bf7,2024-05-05,43,Mafitlhakgosi,Central District,17,Male,Yes,Sinovac,No,health worker,shared private car,65,Female,headache,respiratory infection,fluids,Q3,Yes
+64d91703-6331-425a-b2a4-f550366b5a5f,2024-03-06,26,Boipelego,Kweneng District,38,Female,Yes,Covaxin,No,office worker,public transport,98,Female,cough,common cold,medication,Q2,Yes
+4eff333e-ecb3-430b-a329-ca163f3d59ca,2023-08-03,31,Mabutsane,Southern District,26,Female,Yes,Sinopharm,No,farm worker,public transport,35,Female,sore throat,common cold,rest,Q4,Yes
+a3ef2e22-9406-4dbf-8fdc-ef1409f78e61,2023-10-21,15,Sese,Central District,83,Female,No,Johnson & Johnson,Yes,health worker,private car,16,Male,headache,common cold,rest,Q1,No
+9f02ee96-5c24-44ca-abd9-2dec87c2a5aa,2023-10-13,36,Lerala,Central District,75,Male,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,83,Female,fatigue,respiratory infection,medication,Q1,No
+03252be6-f494-4ce9-b674-3acfacb69d47,2023-11-12,32,Shoshong,Central District,43,Male,Yes,Pfizer-BioNTech,Yes,health worker,public transport,98,Male,fever,respiratory infection,rest,Q1,Yes
+c7958496-375e-4bb8-adf4-e414c58a4450,2023-07-24,5,Sese,Central District,74,Male,No,Sputnik V,Yes,construction worker,shared private car,28,Male,fatigue,flu,fluids,Q4,Yes
+1e12ceda-0b42-41b5-92a4-47b95bb084d8,2023-07-15,16,Mabutsane,Southern District,54,Male,No,Sinovac,No,office worker,shared private car,98,Male,fatigue,flu,rest,Q4,Yes
+ef2d1d48-0096-4006-b929-a78e09f5aac2,2024-05-28,17,Kgwatlheng,Kweneng District,65,Female,No,Sinopharm,No,construction worker,public transport,61,Female,cough,common cold,fluids,Q3,Yes
+0c9bad8f-a3ae-4ebd-9730-46a00f26b4a4,2024-02-18,39,Tonota,Central District,98,Female,No,Pfizer-BioNTech,No,construction worker,shared private car,29,Male,fever,respiratory infection,medication,Q2,Yes
+40de16e6-d139-4a5c-b4fd-316c7175e560,2023-07-17,39,Letlhakeng,Kweneng District,18,Male,Yes,Moderna,No,farm worker,shared private car,75,Male,fatigue,respiratory infection,medication,Q4,Yes
+ca686af1-a342-4eb9-b186-8303379f13a4,2024-01-07,34,Peleng East,Central District,71,Male,No,Sinovac,No,construction worker,public transport,59,Male,sore throat,respiratory infection,rest,Q2,Yes
+ea5491d3-ed70-40cd-84b5-51896ce285f2,2024-02-21,1,Mathethe,Southern District,28,Male,Yes,Sinovac,Yes,construction worker,shared private car,63,Male,cough,respiratory infection,rest,Q2,Yes
+d4d236ea-853d-4809-a1ff-681a6a3d56cc,2024-02-25,9,Kanye Main Clinic,Southern District,2,Female,No,Sputnik V,No,health worker,public transport,87,Male,sore throat,common cold,fluids,Q2,No
+7bc093d2-8d34-47cc-8321-1fcd609eece3,2023-10-13,22,Nata,Central District,98,Male,Yes,Covaxin,No,farm worker,shared private car,0,Male,cough,common cold,fluids,Q1,No
+e21a3a19-266a-4b2c-a324-45d406495016,2024-04-07,20,Charleshill,North-East District,96,Female,Yes,AstraZeneca,Yes,health worker,private car,73,Female,fatigue,flu,rest,Q3,Yes
+73642944-3d66-412a-b215-7a772514e4d4,2023-09-09,8,Gerald,North-East District,60,Female,Yes,Moderna,Yes,health worker,private car,99,Male,fatigue,flu,fluids,Q4,No
+9fe420a8-d36e-4fb2-bfce-c564a56397fe,2024-06-11,14,Khakhea,Ghanzi District,93,Male,Yes,Sinopharm,Yes,health worker,public transport,55,Female,headache,respiratory infection,fluids,Q3,Yes
+7e98fd94-e105-49ee-832d-9bb2ebe9402d,2024-05-24,24,Mopipi,Ghanzi District,86,Female,No,Johnson & Johnson,Yes,construction worker,shared private car,90,Male,cough,flu,medication,Q3,Yes
+6b75bff1-4a7a-40e3-81a5-3d84b10ad7ec,2024-01-14,32,Kanye Main Clinic,Southern District,64,Male,Yes,Covaxin,No,construction worker,shared private car,23,Female,fever,respiratory infection,rest,Q2,Yes
+c78787ab-dee4-4e3b-9956-1ee8042fd1a6,2024-04-18,24,Boseja II,Central District,32,Male,No,Covaxin,Yes,farm worker,public transport,49,Male,fever,respiratory infection,rest,Q3,No
+52cd8b22-94d2-435a-8bf8-decaa5cee1d2,2023-12-21,11,Lerala,Central District,58,Male,Yes,Covaxin,No,construction worker,public transport,15,Female,fatigue,flu,fluids,Q1,Yes
+9c7b0888-7d7f-4eb8-950e-81572a9e9aa2,2023-08-11,35,Tonota,Central District,45,Female,Yes,Pfizer-BioNTech,No,office worker,shared private car,69,Male,headache,respiratory infection,rest,Q4,No
+ec248eb3-a849-47bb-841d-672670fff93b,2023-11-07,9,Botshabelo,Central District,70,Female,No,Pfizer-BioNTech,Yes,office worker,shared private car,22,Female,headache,respiratory infection,fluids,Q1,No
+39612372-a6c8-49ad-b329-a4efb79fdf3b,2024-05-23,40,Lesirane,North-East District,56,Female,Yes,Sputnik V,No,office worker,shared private car,94,Male,headache,common cold,rest,Q3,No
+92468f1c-0b38-4026-a437-175f5f7ba07a,2024-05-23,42,Sese,Central District,26,Male,Yes,Pfizer-BioNTech,No,health worker,shared private car,93,Female,headache,respiratory infection,fluids,Q3,Yes
+7bd6781f-a51c-4f97-965e-ebe25c79bbd8,2023-10-25,39,Kanye Main Clinic,Southern District,21,Male,Yes,Sputnik V,No,construction worker,public transport,48,Male,sore throat,common cold,medication,Q1,No
+440a3150-b7a9-4cad-a288-813ec0b59c18,2024-05-06,22,Mafitlhakgosi,Central District,72,Male,No,Pfizer-BioNTech,No,office worker,private car,59,Female,headache,common cold,medication,Q3,No
+337710b1-a6db-4021-b7f2-ebe016320074,2023-07-01,3,Bokaa,Central District,17,Female,Yes,Covaxin,Yes,farm worker,private car,87,Male,sore throat,respiratory infection,medication,Q4,No
+962a3a1b-2770-4896-88cd-49bbfc5a1554,2023-11-17,37,Jubilee,South-East District,21,Female,No,Moderna,No,farm worker,private car,68,Male,fever,flu,medication,Q1,No
+bea82ee3-f75c-4c82-adb9-22b3c7f4430a,2023-12-24,18,Mathethe,Southern District,35,Male,Yes,Sputnik V,Yes,construction worker,public transport,13,Female,fatigue,flu,medication,Q1,Yes
+234e2654-17c0-4c48-a910-e8d7cf48950d,2024-05-01,28,Tati Siding,North-East District,71,Female,Yes,Covaxin,Yes,office worker,private car,32,Male,cough,common cold,medication,Q3,No
+b7c6f637-8803-4bfe-91fc-15ac77d8cce3,2024-04-07,39,Kang,Central District,77,Male,Yes,Pfizer-BioNTech,No,farm worker,public transport,13,Female,headache,flu,rest,Q3,No
+65b038fb-9cd3-4f9f-b47a-d610ddc5cf2e,2024-05-26,12,Letlhakeng,Kweneng District,23,Male,No,Sputnik V,Yes,construction worker,private car,81,Female,fever,common cold,medication,Q3,No
+566ca320-efa4-4a61-a2b3-7b61fd5537f7,2023-09-27,3,Tonota,Central District,87,Male,Yes,Sinopharm,No,farm worker,shared private car,72,Female,cough,common cold,medication,Q4,Yes
+56948691-676e-4d8a-a3a5-891ac18d5a7b,2023-10-18,34,Mafitlhakgosi,Central District,60,Male,No,Sinopharm,Yes,office worker,private car,6,Female,sore throat,respiratory infection,medication,Q1,No
+06302bc4-e29d-4a4b-b3d2-94dc77c6f600,2023-12-05,3,Letlhakeng,Kweneng District,52,Female,Yes,Covaxin,No,construction worker,private car,48,Female,headache,respiratory infection,fluids,Q1,Yes
+8140b555-a1be-4bab-9ef6-345cd14f04d7,2023-09-20,36,Tati Siding,North-East District,15,Female,Yes,Pfizer-BioNTech,Yes,health worker,private car,37,Female,fever,flu,rest,Q4,Yes
+90bd3799-5f71-4c12-955f-f18cab4db2c3,2024-02-08,36,Mopipi,Ghanzi District,87,Female,Yes,Johnson & Johnson,No,health worker,private car,32,Female,sore throat,respiratory infection,rest,Q2,Yes
+7a0e8194-ab6d-4ca3-b6cf-832a545f530f,2024-02-21,10,Maun General Clinic,North-West District,34,Male,No,Sputnik V,Yes,office worker,shared private car,31,Female,sore throat,common cold,fluids,Q2,No
+034604da-7eb2-4593-9323-99c3c4d583f9,2024-01-28,11,Phuthadikobo,Central District,76,Male,No,Johnson & Johnson,No,farm worker,private car,63,Male,fever,respiratory infection,medication,Q2,No
+f19b58f9-d6c0-4932-9a9e-33abf8ec7ed4,2023-07-06,11,Nata,Central District,64,Male,No,Moderna,No,office worker,public transport,16,Female,fever,respiratory infection,rest,Q4,No
+9c3f3757-dadf-4f41-bd3f-f19816d25334,2024-01-24,17,Sese,Central District,71,Female,Yes,Sputnik V,No,construction worker,shared private car,55,Female,cough,common cold,fluids,Q2,No
+6b31ad25-476d-4dea-905d-5a7ec32157dc,2023-10-02,37,Lesirane,North-East District,54,Female,No,Johnson & Johnson,No,farm worker,private car,87,Male,fatigue,common cold,medication,Q1,Yes
+18ab968a-a613-4cf2-88f3-4cbb269d0128,2024-02-17,20,Shakawe,North-West District,69,Male,No,Moderna,Yes,farm worker,shared private car,98,Female,sore throat,common cold,rest,Q2,No
+ee85e54c-9d7d-41d7-93e8-73464966dea7,2024-05-26,22,Maun General Clinic,North-West District,25,Female,Yes,Moderna,No,construction worker,shared private car,96,Female,fatigue,flu,fluids,Q3,Yes
+3203588f-1836-4eef-ab2e-b167f7b952f4,2024-03-26,27,Boseja II,Central District,49,Female,No,Moderna,Yes,office worker,public transport,68,Female,headache,respiratory infection,medication,Q2,No
+58f4314b-8a9a-415e-b6ab-35bb5c9af6c3,2024-03-20,17,Sebina,Central District,5,Female,No,Covaxin,Yes,farm worker,private car,42,Male,headache,common cold,medication,Q2,Yes
+dd86de1b-a041-4207-b8d5-faf20ea03622,2023-11-23,2,Nata,Central District,32,Female,No,AstraZeneca,Yes,health worker,shared private car,93,Female,fever,respiratory infection,rest,Q1,Yes
+65252b79-fba8-4e45-b3c0-66f24956897f,2024-03-13,20,Sese,Central District,75,Female,Yes,Sinopharm,No,farm worker,shared private car,82,Male,headache,flu,rest,Q2,Yes
+df0fb1e6-655d-4bf4-a4ae-095f57235413,2023-07-05,9,Tapologong,Central District,82,Female,No,Moderna,Yes,farm worker,shared private car,80,Male,fever,flu,medication,Q4,No
+1d2f1c8e-6cc9-4242-916b-419d86761b64,2024-05-05,1,Kgwatlheng,Kweneng District,0,Female,Yes,Sinopharm,Yes,construction worker,public transport,83,Male,fatigue,respiratory infection,fluids,Q3,Yes
+f4dcab4f-9fe3-41cd-bb1e-65392506ee1a,2024-02-12,43,Otse,Kweneng District,73,Male,No,Sinopharm,No,farm worker,private car,27,Male,headache,common cold,medication,Q2,Yes
+d0620951-73ac-44f1-a9c8-1a237190e8c6,2023-11-09,28,Bokaa,Central District,97,Female,No,Johnson & Johnson,No,farm worker,shared private car,37,Male,sore throat,respiratory infection,rest,Q1,No
+376475cc-94e4-47f4-bb27-a18d6da3fb09,2023-10-05,39,Mafitlhakgosi,Central District,33,Female,No,Moderna,Yes,construction worker,private car,69,Male,sore throat,common cold,fluids,Q1,Yes
+51dbe57b-d958-4045-841a-0105760223df,2023-08-02,15,Broadhurst 3 (BH3),South-East District,8,Male,No,AstraZeneca,Yes,farm worker,public transport,16,Female,fever,flu,medication,Q4,No
+fcd70271-b6fe-4662-b312-9ce107bb2107,2023-09-14,21,Shakawe,North-West District,61,Female,No,Sputnik V,Yes,office worker,shared private car,12,Female,fatigue,flu,rest,Q4,No
+4147face-a98a-4901-9d8f-aa2b15d83568,2024-02-06,3,Tsopeng,Central District,42,Female,Yes,Moderna,Yes,farm worker,public transport,96,Male,cough,common cold,fluids,Q2,No
+80b1a9c5-f354-4324-82bf-124782ec46ce,2023-07-28,6,Gaborone west,South-East District,3,Male,No,Sputnik V,Yes,farm worker,shared private car,11,Female,headache,flu,rest,Q4,Yes
+186fdd40-717f-4628-95e6-543d6f457c42,2023-06-29,37,Tonota,Central District,5,Male,No,Covaxin,No,health worker,public transport,29,Female,fatigue,flu,rest,Q3,No
+b899f678-4af7-4c2a-b32d-5f3d48ecfe65,2024-03-05,21,Kachikau,North-West District,3,Male,No,Covaxin,No,office worker,public transport,40,Male,fatigue,flu,fluids,Q2,Yes
+a763a503-e401-4e07-b0a2-284a5d03c5e9,2023-10-27,42,Mopipi,Ghanzi District,9,Male,Yes,Sinovac,No,farm worker,private car,73,Female,headache,respiratory infection,medication,Q1,Yes
+454ee4c9-69fc-4cf4-acbd-dbda9d47768b,2023-06-26,28,Shoshong,Central District,13,Male,No,Sputnik V,No,construction worker,public transport,14,Male,cough,common cold,medication,Q3,Yes
+c3955f3c-0c1d-4f13-b8c9-a8f8809dc957,2024-01-08,26,Lesirane,North-East District,44,Male,Yes,Sputnik V,No,health worker,public transport,21,Female,fever,respiratory infection,fluids,Q2,No
+6616262f-b3c0-4f2e-88e4-7a573a9757b2,2023-06-18,11,Phuthadikobo,Central District,22,Female,No,Sputnik V,Yes,office worker,shared private car,4,Male,fever,flu,fluids,Q3,No
+83957851-91d9-4022-a8ab-b01659f1a0ba,2024-01-16,40,Letlhakeng,Kweneng District,0,Female,Yes,Johnson & Johnson,Yes,health worker,public transport,84,Female,fever,flu,rest,Q2,No
+7e595025-9a51-4efa-8803-78db5bbfbc8d,2023-12-31,4,Jubilee,South-East District,37,Male,No,Sputnik V,Yes,construction worker,public transport,94,Male,fatigue,respiratory infection,medication,Q1,Yes
+30191ebb-2b64-4b8b-8ec3-744a9aea4978,2023-11-14,6,Takatokwane,Central District,85,Male,No,Moderna,Yes,construction worker,private car,50,Male,headache,flu,rest,Q1,No
+94b2a2b8-b894-4e97-a1c5-93c5fe3e8418,2023-08-02,27,Sesame,Central District,83,Female,No,Sputnik V,No,farm worker,shared private car,11,Female,sore throat,flu,fluids,Q4,Yes
+952bcdd0-b7f5-4c3d-a7d2-10db6b3c0215,2024-03-11,29,Mafitlhakgosi,Central District,66,Female,Yes,Johnson & Johnson,Yes,health worker,shared private car,28,Female,sore throat,flu,fluids,Q2,Yes
+44144e6e-af8c-4659-a612-e033c62ee6d3,2023-10-11,2,Jubilee,South-East District,59,Female,No,Sinovac,No,health worker,shared private car,33,Female,cough,respiratory infection,medication,Q1,No
+b69d0037-43e0-4b83-b4db-ff03da33f371,2023-12-10,32,Shoshong,Central District,49,Male,No,Sputnik V,No,office worker,public transport,91,Male,fatigue,common cold,medication,Q1,Yes
+d723723e-c36a-416e-a980-1eac9c32653e,2024-02-25,43,Boipelego,Kweneng District,31,Female,Yes,AstraZeneca,No,office worker,public transport,33,Female,cough,common cold,rest,Q2,No
+1291bc53-c01b-4f47-a489-bece79306ab8,2024-04-11,43,Mabutsane,Southern District,61,Female,No,Moderna,No,health worker,private car,33,Female,fatigue,respiratory infection,fluids,Q3,Yes
+abcbc532-8c6f-48f4-8fba-cbec8e944280,2023-07-11,21,Gaborone west,South-East District,36,Female,No,Covaxin,Yes,construction worker,private car,79,Female,sore throat,flu,fluids,Q4,No
+b42bf1de-8018-421a-a73b-587a75c87fd2,2024-05-29,27,Gaborone west,South-East District,34,Female,No,Covaxin,No,construction worker,public transport,15,Male,fever,common cold,medication,Q3,Yes
+4e2e0290-40b3-4329-9947-1949c72d2f0b,2024-06-06,24,Tsopeng,Central District,12,Female,Yes,Covaxin,No,office worker,public transport,8,Male,fever,flu,rest,Q3,Yes
+17f7d49d-8b6d-4201-a20f-1c3c9e991c6e,2024-05-22,32,Boipelego,Kweneng District,84,Male,No,Pfizer-BioNTech,Yes,health worker,private car,100,Female,fever,respiratory infection,medication,Q3,No
+b917ee39-cdfc-439f-992b-f8661decc84d,2024-06-17,12,Shakawe,North-West District,31,Female,Yes,AstraZeneca,No,office worker,public transport,14,Female,fatigue,flu,fluids,Q3,Yes
+3d57dda3-d49a-48c2-8329-8434c86e97c5,2024-05-04,32,Khakhea,Ghanzi District,20,Female,Yes,Johnson & Johnson,Yes,construction worker,shared private car,16,Male,cough,respiratory infection,rest,Q3,No
+0d2c83b9-bc5e-437d-9ffa-3051e4251553,2023-09-08,2,Phuthadikobo,Central District,69,Female,Yes,Sinovac,Yes,construction worker,shared private car,65,Female,sore throat,flu,rest,Q4,No
+4b26edce-080b-4f35-acb3-6e1426131c96,2023-11-30,35,Tonota,Central District,48,Male,No,Covaxin,No,office worker,public transport,39,Female,fatigue,common cold,medication,Q1,No
+e694b843-4d9e-4ba3-bd57-c3dac2f3203c,2023-12-15,21,Oodi,South-East District,53,Female,No,Sinopharm,No,office worker,shared private car,58,Male,sore throat,flu,fluids,Q1,No
+cf2e7d0b-a3f4-44eb-a496-d9f08e8120fc,2024-03-24,5,Boseja II,Central District,58,Female,Yes,Sinovac,Yes,health worker,shared private car,31,Female,sore throat,common cold,fluids,Q2,Yes
+3a4d3216-ce34-49c5-a789-6ffa5b07d576,2023-07-12,20,Khakhea,Ghanzi District,53,Female,No,Sinopharm,No,construction worker,shared private car,66,Male,fever,respiratory infection,medication,Q4,No
+48bae897-2dfc-4f4c-bad8-96ba19aa77c1,2024-03-06,15,Khakhea,Ghanzi District,47,Male,Yes,Covaxin,No,office worker,shared private car,45,Male,cough,common cold,fluids,Q2,Yes
+9be8bb13-73f3-40c2-b348-8f0fef6d8924,2023-07-10,4,Tonota,Central District,10,Male,No,Moderna,Yes,farm worker,shared private car,18,Female,headache,flu,medication,Q4,Yes
+e2d7d867-e326-4acf-be9d-b1e7dcef6061,2023-07-31,42,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,24,Female,Yes,Sputnik V,No,construction worker,public transport,42,Male,fever,common cold,medication,Q4,Yes
+2b19875d-61e7-4f2d-a8b9-ea0cb7265273,2023-08-02,31,Otse,Kweneng District,54,Male,No,Johnson & Johnson,Yes,health worker,public transport,93,Male,fever,flu,fluids,Q4,Yes
+ad4b39db-5656-41fa-8588-523518686b8f,2023-08-18,20,Lesirane,North-East District,67,Male,No,Sputnik V,Yes,office worker,private car,63,Male,fatigue,respiratory infection,rest,Q4,Yes
+54bb7cbb-c4a3-4e5a-8fab-163770d61d96,2023-08-04,23,Boipelego,Kweneng District,57,Female,No,Covaxin,No,office worker,private car,69,Female,headache,respiratory infection,fluids,Q4,No
+42ef3f91-3b37-42dc-af94-ad37c426f9ef,2023-11-16,39,Sebina,Central District,99,Male,No,Sinopharm,No,farm worker,public transport,88,Female,headache,flu,fluids,Q1,Yes
+3ea7be28-532c-4957-afd5-78a75ef0ad3d,2024-06-05,26,Sesame,Central District,23,Male,Yes,Moderna,Yes,farm worker,shared private car,24,Female,fatigue,flu,medication,Q3,No
+8f9c47b7-3516-495f-bf54-47acc9ffb914,2024-01-11,9,Tapologong,Central District,40,Female,Yes,Pfizer-BioNTech,No,health worker,public transport,51,Male,fatigue,respiratory infection,fluids,Q2,Yes
+25e6efba-84b6-4216-9baa-4f99c226dc9f,2024-03-02,30,Botshabelo,Central District,65,Female,Yes,Johnson & Johnson,No,office worker,public transport,89,Female,fatigue,respiratory infection,medication,Q2,Yes
+0c54bee2-bec4-4de3-a2ff-253067a482a0,2023-06-25,30,Broadhurst 3 (BH3),South-East District,4,Female,No,Sputnik V,No,office worker,private car,65,Male,headache,respiratory infection,medication,Q3,Yes
+f13d72ab-e5c9-4474-8d1b-fb48081fdd5c,2023-09-02,35,Maun General Clinic,North-West District,94,Male,No,Pfizer-BioNTech,Yes,construction worker,shared private car,67,Female,headache,flu,fluids,Q4,No
+9672885e-9aaa-43bc-9306-d26c011c5c55,2023-11-09,39,Tsopeng,Central District,13,Female,Yes,Sinopharm,Yes,health worker,public transport,46,Female,fever,common cold,fluids,Q1,Yes
+97c77c27-8c3b-4c2f-8502-99c3db9943a3,2024-01-05,32,Airstrip,Central District,64,Female,No,Sinopharm,Yes,office worker,public transport,34,Female,sore throat,common cold,medication,Q2,Yes
+6c31d1bb-3759-4c89-a1e5-a08d758025c1,2023-12-18,12,Oodi,South-East District,71,Female,No,Pfizer-BioNTech,No,office worker,public transport,85,Female,fever,respiratory infection,fluids,Q1,No
+829c553c-87ba-459d-bec3-38a4a5678247,2023-12-23,6,Takatokwane,Central District,90,Male,No,Covaxin,Yes,health worker,public transport,95,Male,fever,common cold,fluids,Q1,Yes
+1890670f-9b0f-4a76-9cac-4f625262b5e0,2024-01-02,21,Nata,Central District,10,Female,No,Sinovac,Yes,health worker,public transport,24,Female,headache,common cold,fluids,Q2,Yes
+77bd33b1-a8bf-4447-ad2c-d564988fceb6,2024-03-27,32,Ditsweletse,Kweneng District,41,Male,No,Moderna,No,farm worker,public transport,96,Female,headache,common cold,fluids,Q2,Yes
+5ec3cfbe-e235-46a3-b4c6-9b391620b354,2024-01-03,29,Letlhakeng,Kweneng District,43,Female,Yes,Covaxin,Yes,farm worker,shared private car,85,Female,cough,flu,fluids,Q2,No
+d3115e20-5a1f-4ff6-8653-ead9227c9531,2023-09-22,38,Boipelego,Kweneng District,7,Female,No,Johnson & Johnson,Yes,office worker,shared private car,49,Female,sore throat,respiratory infection,medication,Q4,Yes
+f24168f7-3d09-4bd6-bc30-b9fdf8d699fd,2023-07-27,13,Ditsweletse,Kweneng District,38,Female,No,Sputnik V,Yes,health worker,private car,90,Female,sore throat,respiratory infection,fluids,Q4,No
+63ff7fe4-26c3-4c57-8007-6944c1eb8692,2024-04-17,9,Tsopeng,Central District,3,Female,No,Moderna,No,farm worker,shared private car,93,Male,headache,flu,medication,Q3,Yes
+e2d407b7-ce16-4488-bd3c-89485cdc05cd,2023-09-19,28,Nata,Central District,10,Female,No,AstraZeneca,No,farm worker,public transport,27,Male,sore throat,flu,medication,Q4,No
+8b961ac3-04bb-448f-85de-6b2326256a53,2024-03-25,14,Kanye Main Clinic,Southern District,60,Male,Yes,Sinopharm,No,office worker,private car,34,Male,fever,respiratory infection,medication,Q2,Yes
+fe9b4dce-0d70-40bd-8bf1-06a54f5163b6,2023-10-11,9,Otse,Kweneng District,3,Male,No,Covaxin,Yes,construction worker,shared private car,4,Female,cough,flu,rest,Q1,No
+a5ccc326-751e-4f14-932a-6cfbe281eefc,2023-07-24,38,Kgwatlheng,Kweneng District,53,Female,No,Pfizer-BioNTech,No,farm worker,public transport,6,Female,fever,flu,rest,Q4,Yes
+223cd130-2651-400a-96bc-e17861f59ca7,2023-07-31,18,Nata,Central District,23,Female,Yes,Johnson & Johnson,Yes,office worker,private car,8,Male,sore throat,flu,fluids,Q4,No
+422c4f13-0d7d-4ca4-b9b2-fb45fe49a046,2023-08-02,14,Maun General Clinic,North-West District,17,Male,No,Pfizer-BioNTech,No,farm worker,private car,66,Female,cough,common cold,fluids,Q4,No
+fead3560-9d28-4493-a9bb-a261f23d6b2e,2023-11-26,26,Tonota,Central District,12,Female,No,Johnson & Johnson,No,construction worker,shared private car,54,Male,fever,flu,rest,Q1,No
+42d243e4-bc0b-4b08-8006-c5238ce501c5,2024-03-12,16,Broadhurst 3 (BH3),South-East District,96,Male,Yes,Sinovac,Yes,construction worker,private car,22,Female,fever,respiratory infection,medication,Q2,No
+83415a6a-65bf-453a-aec8-1054993bc99c,2024-02-15,12,Ditsweletse,Kweneng District,6,Female,Yes,Covaxin,No,health worker,private car,21,Female,cough,respiratory infection,rest,Q2,No
+2feb4b90-4fbe-42e8-83a7-f5017be720bc,2023-11-03,13,Maun General Clinic,North-West District,17,Male,No,Sinopharm,No,office worker,public transport,36,Female,headache,respiratory infection,fluids,Q1,Yes
+caac260d-d69b-4389-9965-b843b171d238,2023-08-13,9,Moeti,Ghanzi District,63,Female,Yes,Johnson & Johnson,No,farm worker,private car,43,Female,fever,common cold,rest,Q4,No
+8c74d52b-5616-4485-b0a2-e7a71e23cd34,2024-02-13,42,Peleng East,Central District,63,Male,No,Johnson & Johnson,No,office worker,private car,14,Female,headache,common cold,medication,Q2,Yes
+471b2d5b-e69d-4c2f-a8a1-027ebd88b657,2023-06-21,15,Airstrip,Central District,34,Female,No,Johnson & Johnson,Yes,construction worker,private car,91,Male,fatigue,respiratory infection,rest,Q3,Yes
+d245d326-c4e5-4900-b301-9495465b43e7,2024-03-22,9,Kanye Main Clinic,Southern District,14,Male,Yes,AstraZeneca,Yes,farm worker,shared private car,18,Female,headache,common cold,medication,Q2,Yes
+6a16f4bb-cb48-4d1c-b238-d0ce6effd96e,2023-12-31,15,Shoshong,Central District,28,Female,No,Covaxin,No,farm worker,public transport,60,Male,sore throat,common cold,rest,Q1,No
+0b5042ab-70b1-41fd-bef0-ea8cc1947e61,2023-10-13,30,Boseja II,Central District,49,Male,Yes,AstraZeneca,No,farm worker,public transport,75,Female,fever,respiratory infection,medication,Q1,No
+35d83e52-f4ef-4a8b-8a09-9efe49ae5a64,2024-06-01,41,Sebina,Central District,30,Male,Yes,Johnson & Johnson,No,office worker,private car,25,Female,cough,flu,medication,Q3,Yes
+5fdd37ee-b69a-4a98-af7e-0c42480e5fa5,2024-02-23,36,Charleshill,North-East District,37,Male,Yes,AstraZeneca,No,farm worker,shared private car,6,Female,headache,common cold,medication,Q2,Yes
+83a742c7-daa7-4ddd-aea1-f061de0ca3c5,2023-11-02,40,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,3,Male,No,Sinovac,Yes,farm worker,public transport,93,Male,headache,common cold,rest,Q1,No
+38cdb301-0d92-42ff-b6dd-c2ddb260bf02,2023-11-06,13,Khakhea,Ghanzi District,54,Male,Yes,Moderna,No,health worker,private car,48,Male,fatigue,flu,medication,Q1,No
+461da0e8-14ea-47d0-bf87-7f09c5d793ae,2024-05-12,25,Bokaa,Central District,1,Male,No,Moderna,No,construction worker,public transport,29,Female,fatigue,common cold,fluids,Q3,No
+3af6d8a3-a525-4ed5-8280-981353af0c36,2023-06-30,19,Gerald,North-East District,73,Female,No,Sinovac,Yes,construction worker,public transport,9,Male,headache,respiratory infection,rest,Q3,No
+de47db78-f9f0-4393-a47c-d7fda6e45932,2023-10-17,14,Jubilee,South-East District,6,Male,Yes,Sinopharm,No,office worker,private car,62,Female,sore throat,common cold,medication,Q1,No
+4b59f827-a8cd-4373-87a7-af3e1d3a42a6,2023-10-24,36,Otse,Kweneng District,53,Female,Yes,Pfizer-BioNTech,No,health worker,public transport,10,Female,cough,common cold,medication,Q1,No
+9b74a2d5-ace8-41af-86bc-cf2e6936294a,2023-12-18,12,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,92,Female,Yes,Sinopharm,No,office worker,shared private car,26,Female,sore throat,flu,medication,Q1,Yes
+81e72fb0-056e-43c1-9119-6e8ec4b38440,2024-04-29,35,Botshabelo,Central District,9,Female,Yes,Sinovac,No,construction worker,shared private car,32,Male,fatigue,flu,medication,Q3,No
+259b190c-760e-4f2a-b492-e74a74494833,2024-02-04,23,Sesame,Central District,63,Male,Yes,Pfizer-BioNTech,Yes,construction worker,shared private car,88,Male,fever,common cold,medication,Q2,Yes
+1f051eca-9cbc-42e2-a04f-b3f50e0ed741,2024-05-20,13,Lerala,Central District,90,Female,Yes,Moderna,No,health worker,shared private car,18,Male,sore throat,flu,rest,Q3,Yes
+da7dbe31-5bb5-4d49-ba55-65bbf631065d,2024-05-19,3,Kachikau,North-West District,75,Male,Yes,Moderna,No,health worker,public transport,67,Male,headache,common cold,fluids,Q3,No
+05c6672b-adc0-4dcc-a57a-9e9d742cf53d,2024-01-08,31,Old Naledi,South-East District,76,Female,Yes,Moderna,No,construction worker,private car,70,Female,fever,common cold,fluids,Q2,No
+404a056a-4d21-4093-8687-05fd5c430f20,2023-12-04,2,Bokaa,Central District,80,Male,No,Sinopharm,No,construction worker,shared private car,19,Male,cough,respiratory infection,fluids,Q1,Yes
+41757281-c831-4e7c-8725-ec7b65f2ae30,2024-05-02,5,Charleshill,North-East District,22,Female,Yes,Sputnik V,No,farm worker,public transport,37,Male,sore throat,flu,medication,Q3,No
+1c34e222-dad8-4260-8252-36119f1bbf2d,2024-04-24,8,Kang,Central District,64,Female,Yes,Johnson & Johnson,Yes,office worker,private car,60,Male,fatigue,respiratory infection,medication,Q3,No
+c8336819-c899-4fb1-9445-8be455cdf50c,2024-04-17,30,Ditsweletse,Kweneng District,84,Female,No,AstraZeneca,No,health worker,public transport,50,Male,fever,flu,rest,Q3,No
+d9374032-74a4-421b-9332-0553779871ba,2023-11-14,28,Nata,Central District,53,Female,No,Sinopharm,No,construction worker,shared private car,63,Female,fever,common cold,rest,Q1,No
+f2dc6793-0959-4f31-988b-8196e0255930,2023-07-19,9,Tati Siding,North-East District,3,Male,Yes,Sputnik V,Yes,farm worker,public transport,92,Male,cough,respiratory infection,rest,Q4,Yes
+8a3b7c21-b506-49e8-8d80-98eef3011dfa,2023-10-17,35,Tonota,Central District,20,Female,No,Pfizer-BioNTech,No,farm worker,shared private car,85,Male,cough,respiratory infection,medication,Q1,Yes
+83e8681e-7dc0-4c28-97d0-78f6eb32e520,2024-04-09,38,Ditsweletse,Kweneng District,76,Female,No,Pfizer-BioNTech,Yes,farm worker,public transport,8,Male,headache,flu,rest,Q3,No
+859ea13e-cfd6-4499-8901-d7662393e8cf,2023-12-06,22,Kanye Main Clinic,Southern District,22,Male,Yes,AstraZeneca,No,health worker,shared private car,95,Female,fever,common cold,fluids,Q1,Yes
+a2b64f64-3764-468a-b269-f59330fa2277,2024-04-06,13,Old Naledi,South-East District,82,Male,Yes,Moderna,Yes,office worker,shared private car,37,Male,headache,common cold,fluids,Q3,No
+cc1bc579-e418-4b53-994c-fe0759fef82d,2024-04-14,31,Jubilee,South-East District,7,Female,Yes,Sinopharm,No,office worker,shared private car,76,Male,fatigue,respiratory infection,rest,Q3,Yes
+625a0ce2-6474-4337-9373-09781345d55a,2024-02-02,8,Letlhakeng,Kweneng District,13,Male,Yes,Sputnik V,Yes,farm worker,public transport,37,Female,headache,respiratory infection,medication,Q2,Yes
+3966cb82-4beb-417a-8b9d-6e9ea75888e0,2023-07-09,38,Bokaa,Central District,60,Male,No,Pfizer-BioNTech,Yes,farm worker,private car,38,Male,fatigue,flu,rest,Q4,Yes
+8f6adf20-5a42-4e70-b143-d882a382aa3b,2024-01-19,22,Peleng East,Central District,41,Female,No,Sinovac,Yes,construction worker,private car,7,Male,cough,flu,rest,Q2,No
+32f07d65-53dc-44be-aab9-9a31ea9bb678,2023-12-20,28,Gerald,North-East District,44,Female,No,Covaxin,No,office worker,public transport,22,Female,fever,common cold,fluids,Q1,Yes
+7a3fd389-9014-43d0-a176-b5845cebe577,2024-03-25,4,Gaborone west,South-East District,21,Male,Yes,Sputnik V,Yes,health worker,shared private car,39,Female,sore throat,respiratory infection,fluids,Q2,Yes
+b7e88e15-c319-4df5-8c05-b8fe10fb95ab,2024-04-14,28,Letlhakeng,Kweneng District,95,Male,No,Moderna,No,office worker,public transport,72,Female,sore throat,respiratory infection,rest,Q3,Yes
+5689256c-7de3-4b60-984f-204d3ddb583a,2024-05-05,5,Sese,Central District,55,Female,No,AstraZeneca,No,health worker,shared private car,68,Male,fatigue,respiratory infection,rest,Q3,Yes
+4542fe79-231c-4b4b-9643-667681f958fb,2023-09-21,24,Tonota,Central District,11,Female,No,Pfizer-BioNTech,No,farm worker,shared private car,7,Female,cough,respiratory infection,medication,Q4,No
+7c7c9bea-d9de-4f80-9504-e887c3b76701,2023-11-03,14,Ditsweletse,Kweneng District,88,Female,No,AstraZeneca,No,health worker,private car,74,Male,fatigue,respiratory infection,medication,Q1,No
+2662f7eb-1d78-4dd6-a575-cde57e18dd67,2023-07-02,8,Tapologong,Central District,14,Male,No,Pfizer-BioNTech,No,health worker,private car,46,Female,cough,flu,fluids,Q4,No
+4fd3386f-8ad0-46d6-b0bd-d54918aa6744,2023-10-29,8,Boseja II,Central District,97,Male,Yes,Sinopharm,Yes,farm worker,public transport,47,Female,sore throat,common cold,medication,Q1,Yes
+30b23914-1079-4825-ab7b-2d69f690ad3a,2024-06-07,21,Bokaa,Central District,16,Male,Yes,Covaxin,No,health worker,private car,70,Male,fever,common cold,fluids,Q3,Yes
+34c7d32a-502a-4866-a37f-7fd02af1bef0,2023-12-14,32,Boseja II,Central District,35,Male,No,Sputnik V,Yes,office worker,private car,40,Male,fever,flu,medication,Q1,No
+e2c7e960-bdd8-49c5-acfb-6ee09eb24681,2023-08-07,28,Tapologong,Central District,82,Female,No,Sinopharm,No,health worker,public transport,23,Female,fatigue,common cold,rest,Q4,No
+aa16d877-4c68-444d-b857-4876f77f6193,2024-04-20,16,Mafitlhakgosi,Central District,80,Male,No,Sputnik V,Yes,health worker,shared private car,69,Male,sore throat,respiratory infection,fluids,Q3,Yes
+9161ef3d-2896-4958-83e3-25ed984132dd,2023-12-03,28,Kachikau,North-West District,55,Female,Yes,AstraZeneca,Yes,farm worker,private car,85,Female,cough,respiratory infection,medication,Q1,No
+fb98aa83-ca22-4e0b-bb1a-1453fcb314c9,2023-12-10,20,Gaborone west,South-East District,37,Female,No,Johnson & Johnson,No,health worker,public transport,32,Male,headache,respiratory infection,fluids,Q1,No
+26533d61-6fc6-498a-8099-632c1b5f0c35,2024-06-07,30,Tapologong,Central District,77,Female,Yes,Sinopharm,No,construction worker,private car,46,Male,headache,respiratory infection,rest,Q3,No
+319c65da-29c7-4a78-9a3d-53ae13467728,2023-07-31,34,Airstrip,Central District,99,Female,No,AstraZeneca,Yes,office worker,public transport,28,Male,headache,common cold,fluids,Q4,Yes
+e7c91784-f425-46e0-bd27-1e6e7d94952c,2024-03-12,14,Moshupa,Southern District,41,Male,No,Sinovac,No,farm worker,private car,58,Female,fever,respiratory infection,rest,Q2,Yes
+d1153d70-677d-4443-b1ef-ec6de350a818,2023-10-27,7,Tati Siding,North-East District,61,Male,No,Sinovac,Yes,office worker,shared private car,13,Female,cough,flu,rest,Q1,Yes
+bd6ce6d1-43b0-4b1b-8f2f-1c5aa4cc6568,2023-09-12,7,Sesame,Central District,85,Female,No,AstraZeneca,Yes,office worker,private car,12,Female,cough,respiratory infection,fluids,Q4,Yes
+bbe8c5c4-f027-48d3-8492-c8fd47386703,2023-11-17,13,Lesirane,North-East District,75,Male,Yes,Johnson & Johnson,Yes,health worker,shared private car,65,Female,fatigue,common cold,fluids,Q1,Yes
+db303edf-a632-4e53-bbdb-be276e93bd48,2023-10-11,19,Phuthadikobo,Central District,90,Male,Yes,Johnson & Johnson,No,farm worker,private car,30,Female,cough,respiratory infection,fluids,Q1,Yes
+5a1a0b59-a841-4a6d-9365-fe3c863168da,2024-04-06,25,Lerala,Central District,50,Male,Yes,Sinopharm,No,construction worker,shared private car,11,Female,cough,flu,medication,Q3,Yes
+97fa7331-1f05-4043-bb1c-6f7da297a5c6,2024-05-11,8,Shoshong,Central District,68,Female,No,Sputnik V,No,office worker,shared private car,21,Female,fever,common cold,rest,Q3,No
+686dc4f0-6f94-42da-8440-be28f5c52297,2023-12-05,33,Sebina,Central District,81,Male,Yes,Moderna,No,health worker,shared private car,82,Male,fever,common cold,rest,Q1,No
+b90e5660-f970-46b5-b4a6-d05759ccc703,2023-12-02,40,Bokaa,Central District,6,Female,Yes,Pfizer-BioNTech,Yes,farm worker,private car,31,Male,cough,flu,fluids,Q1,No
+802e1e6a-e630-4eb4-871a-c54663ad11a3,2024-05-06,34,Botshabelo,Central District,26,Male,No,Pfizer-BioNTech,No,health worker,public transport,47,Female,fatigue,common cold,medication,Q3,Yes
+04967fff-9925-4a76-a5d2-36b395c2c63f,2023-08-24,16,Mafitlhakgosi,Central District,71,Male,Yes,Sinovac,Yes,farm worker,public transport,36,Female,sore throat,flu,rest,Q4,Yes
+acc503fe-774b-44ee-a481-b2945312a78e,2023-12-25,9,Ditsweletse,Kweneng District,74,Female,Yes,Pfizer-BioNTech,No,health worker,private car,50,Female,sore throat,common cold,rest,Q1,No
+2a735bb4-7981-4d0b-8c97-20601769aef3,2023-12-03,27,Jubilee,South-East District,4,Male,No,Pfizer-BioNTech,Yes,farm worker,public transport,68,Female,cough,common cold,rest,Q1,No
+0d22fc3c-d722-48f9-acc6-214e74ae6405,2023-06-20,32,Letlhakeng,Kweneng District,43,Male,Yes,Covaxin,No,office worker,public transport,41,Male,headache,flu,rest,Q3,Yes
+4dfcb593-ff75-4b42-8699-02a58b347bb0,2023-08-26,36,Gaborone west,South-East District,67,Male,Yes,Moderna,No,farm worker,public transport,97,Female,headache,common cold,medication,Q4,Yes
+9e054f41-68a4-43f2-afaa-f2bfbbbe5215,2023-07-15,31,Gaborone west,South-East District,86,Male,No,Sinopharm,Yes,office worker,private car,69,Male,sore throat,flu,fluids,Q4,Yes
+cded3a15-9e0c-4e18-92b0-311d1b8ee847,2023-11-16,3,Ditsweletse,Kweneng District,33,Male,Yes,Johnson & Johnson,Yes,farm worker,shared private car,19,Female,fever,flu,medication,Q1,Yes
+fa4023ec-0225-46d0-be58-dc77b75cf678,2023-07-14,41,Otse,Kweneng District,75,Male,Yes,AstraZeneca,Yes,office worker,public transport,49,Male,headache,flu,fluids,Q4,No
+28fc8b46-3cd2-47eb-af5a-5126cf5bbbe8,2024-05-22,37,Lesirane,North-East District,14,Male,Yes,Sputnik V,No,health worker,shared private car,47,Female,sore throat,respiratory infection,fluids,Q3,No
+014cd65d-d494-4c61-b94b-8e57da10c481,2023-11-12,8,Ditsweletse,Kweneng District,14,Male,Yes,Sinovac,Yes,health worker,private car,8,Female,headache,flu,medication,Q1,No
+70ff22f2-141d-4975-adb4-cfb8bb73dd82,2024-01-06,21,Ditsweletse,Kweneng District,42,Male,Yes,Covaxin,No,farm worker,public transport,81,Male,headache,respiratory infection,fluids,Q2,Yes
+91a18da2-c0cb-4d10-941e-06ed53b9630f,2023-08-09,12,Kang,Central District,77,Female,No,Moderna,No,health worker,public transport,63,Female,fever,common cold,medication,Q4,Yes
+f60e113a-4d5a-4994-85cd-1f7c2fdf4d38,2023-06-18,7,Sebina,Central District,42,Male,Yes,Pfizer-BioNTech,No,construction worker,private car,61,Male,headache,common cold,fluids,Q3,No
+cd4983d5-f87e-4ca1-8973-9d780e7a3156,2023-12-23,17,Sebina,Central District,48,Female,No,Sputnik V,No,health worker,shared private car,58,Female,sore throat,respiratory infection,fluids,Q1,No
+fd442d38-136a-494b-a6af-3a0e0cd914e9,2023-07-19,12,Takatokwane,Central District,10,Male,Yes,Moderna,No,office worker,private car,11,Male,cough,common cold,rest,Q4,Yes
+55324438-a3f0-403f-986d-f080f31633ff,2023-10-02,42,Tsopeng,Central District,52,Female,Yes,AstraZeneca,No,construction worker,public transport,53,Female,fever,common cold,fluids,Q1,No
+dbc3e6c8-7757-404d-a429-3a1dd7362ef7,2024-02-02,16,Boseja II,Central District,99,Female,Yes,Johnson & Johnson,No,health worker,shared private car,42,Female,fatigue,common cold,rest,Q2,No
+f5d6f87c-43f6-4497-aa6d-906ea06307a0,2024-06-05,26,Kachikau,North-West District,6,Male,No,Sinopharm,No,construction worker,public transport,16,Male,headache,common cold,fluids,Q3,Yes
+3b607e55-5a8d-4e34-bf14-01c0d1c41acf,2023-10-27,5,Peleng East,Central District,46,Male,No,Covaxin,No,office worker,shared private car,40,Male,sore throat,respiratory infection,fluids,Q1,Yes
+0b5d0e56-c94f-45b9-ad76-87548339b00e,2024-01-22,37,Airstrip,Central District,98,Male,Yes,Moderna,No,farm worker,public transport,22,Male,fever,respiratory infection,medication,Q2,Yes
+aa594d8a-7903-43da-8e2c-f594df83ca93,2024-02-16,6,Broadhurst 3 (BH3),South-East District,63,Male,No,Pfizer-BioNTech,No,construction worker,shared private car,66,Male,headache,common cold,medication,Q2,Yes
+7ba88959-19a4-4c3a-83a3-4be8b9ed2006,2024-05-28,22,Tsopeng,Central District,94,Female,Yes,Sinovac,No,farm worker,private car,45,Female,fatigue,flu,medication,Q3,Yes
+09b37398-b644-4501-9c7e-bd694b38cf47,2023-06-19,23,Broadhurst 3 (BH3),South-East District,84,Male,Yes,Sputnik V,No,farm worker,shared private car,84,Female,fever,common cold,fluids,Q3,Yes
+a8d97b6c-ae69-402c-8cc2-10a2f60a188f,2023-09-01,32,Lerala,Central District,20,Female,Yes,Covaxin,Yes,office worker,public transport,46,Female,fever,common cold,medication,Q4,No
+9e86e1ce-872e-4a50-b946-ee4daf09001e,2023-10-25,8,Khakhea,Ghanzi District,18,Male,Yes,Covaxin,Yes,farm worker,private car,96,Male,cough,respiratory infection,medication,Q1,Yes
+7e261872-71c9-42a5-8707-825c8d0ddab3,2023-06-29,1,Boseja II,Central District,88,Male,No,Pfizer-BioNTech,Yes,office worker,shared private car,90,Male,headache,common cold,fluids,Q3,No
+9b41678e-011e-4cfc-b30a-bf246ea24ae9,2024-03-06,1,Tsopeng,Central District,2,Female,No,AstraZeneca,No,office worker,private car,42,Male,fever,common cold,rest,Q2,Yes
+c20ce41d-adb9-4065-99f8-c1a98ae8ec04,2023-12-25,10,Shoshong,Central District,12,Male,Yes,Johnson & Johnson,No,construction worker,shared private car,69,Female,headache,common cold,rest,Q1,No
+a73d7cd4-5fc4-469d-9ef1-9c010bc11ad5,2023-08-31,33,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,36,Female,Yes,Johnson & Johnson,No,construction worker,private car,100,Female,cough,common cold,medication,Q4,Yes
+a31fab20-e9cf-40b3-8eb2-ecf4d24765d2,2024-01-05,2,Boseja II,Central District,57,Male,No,Sinopharm,Yes,construction worker,private car,27,Male,fatigue,respiratory infection,rest,Q2,No
+746343e2-47c9-44e3-8130-28143598ffde,2023-08-11,8,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,98,Male,Yes,Johnson & Johnson,Yes,office worker,public transport,30,Male,cough,respiratory infection,rest,Q4,Yes
+12f47168-6a2d-4927-86b8-67bd58d1fed4,2023-09-28,10,Airstrip,Central District,59,Female,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,66,Female,headache,common cold,rest,Q4,No
+0a1d8e2b-da0b-4029-923b-069fa3868950,2023-09-02,14,Takatokwane,Central District,8,Male,Yes,Sputnik V,Yes,office worker,shared private car,10,Male,fatigue,common cold,rest,Q4,Yes
+020d7d20-1eca-485e-b1fd-fc2383aac8fe,2024-05-28,18,Kgwatlheng,Kweneng District,89,Female,No,Moderna,Yes,health worker,public transport,20,Female,cough,common cold,fluids,Q3,Yes
+d384c450-53c5-4df9-8d1b-a0978805c9d7,2024-03-03,43,Shakawe,North-West District,92,Male,Yes,Sinovac,No,office worker,shared private car,55,Female,headache,flu,fluids,Q2,Yes
+ac81b40a-89a2-42e3-9fe4-acdbd7ecda06,2023-12-03,19,Sebina,Central District,35,Male,Yes,Moderna,Yes,construction worker,shared private car,71,Female,fatigue,respiratory infection,fluids,Q1,No
+b863e283-0308-44b8-834c-851c60f69e16,2023-07-31,14,Kang,Central District,42,Female,Yes,Pfizer-BioNTech,No,farm worker,public transport,41,Male,sore throat,flu,rest,Q4,No
+aeeb6894-e2a7-4f27-9ac4-2f81260d9106,2024-04-08,35,Kanye Main Clinic,Southern District,92,Male,Yes,Sinovac,No,construction worker,private car,93,Male,cough,common cold,medication,Q3,Yes
+9399d7d7-1695-421a-801f-31d74d485edf,2024-06-15,39,Sese,Central District,44,Male,No,Covaxin,No,farm worker,private car,68,Male,headache,flu,medication,Q3,No
+85e87422-0c16-4adb-abd5-944569170cc0,2024-05-20,7,Tonota,Central District,35,Female,Yes,Sinopharm,Yes,health worker,public transport,3,Female,sore throat,flu,rest,Q3,Yes
+68f5a77d-edb0-47da-a8f4-015bf9ee73c5,2024-01-05,1,Kanye Main Clinic,Southern District,34,Male,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,3,Male,cough,respiratory infection,fluids,Q2,Yes
+7f983e5b-faac-4137-b7f1-3583d5b0ad88,2023-07-06,32,Shakawe,North-West District,9,Male,Yes,Sputnik V,No,health worker,public transport,98,Female,sore throat,flu,fluids,Q4,Yes
+71c5c1f7-1675-418a-aae6-63adc96b8fdc,2024-04-09,4,Phuthadikobo,Central District,38,Female,No,Sinopharm,Yes,office worker,private car,65,Male,headache,respiratory infection,rest,Q3,Yes
+9212e582-1f90-4bd4-8e1b-c49420ca3090,2023-09-14,9,Boseja II,Central District,1,Male,Yes,Sinopharm,Yes,farm worker,shared private car,29,Male,fever,respiratory infection,medication,Q4,No
+8cfd3125-bc75-4a22-aa5c-fc7733772b1f,2023-10-13,24,Lerala,Central District,42,Female,No,Covaxin,No,construction worker,private car,48,Female,sore throat,common cold,rest,Q1,No
+5746f400-2a01-456c-aebd-9c631cf910d0,2024-02-09,2,Moshupa,Southern District,94,Female,No,Sinopharm,No,office worker,shared private car,14,Male,sore throat,flu,fluids,Q2,No
+42db57bd-bcb5-428e-a9b6-1b0488b0b870,2024-05-12,38,Kanye Main Clinic,Southern District,82,Female,No,Moderna,No,office worker,public transport,31,Male,fever,respiratory infection,rest,Q3,No
+49b0ba4d-e59a-4493-9b94-f49c9b457a65,2024-02-29,23,Bokaa,Central District,25,Male,No,Johnson & Johnson,Yes,office worker,shared private car,44,Male,headache,flu,medication,Q2,Yes
+39677dae-5746-4c29-8faf-269768425a18,2023-08-14,42,Kanye Main Clinic,Southern District,79,Female,No,AstraZeneca,No,farm worker,public transport,28,Female,fatigue,flu,medication,Q4,No
+43bcd99c-262c-4774-bb18-6f6c4b66f11a,2024-01-02,34,Sesame,Central District,10,Female,No,Pfizer-BioNTech,Yes,farm worker,shared private car,24,Female,headache,flu,fluids,Q2,Yes
+f056b760-d898-4fd0-872e-f9253c521a97,2023-10-05,18,Kanye Main Clinic,Southern District,85,Female,Yes,Sputnik V,No,construction worker,private car,91,Male,sore throat,respiratory infection,rest,Q1,No
+42138be1-62d3-4b95-bd22-154dc2b56e53,2024-03-30,22,Kang,Central District,52,Female,No,AstraZeneca,Yes,farm worker,public transport,2,Male,fever,respiratory infection,fluids,Q2,No
+644318e8-fa8a-478f-b1ee-53e662a7bdf3,2024-05-27,23,Kanye Main Clinic,Southern District,39,Male,No,Covaxin,Yes,health worker,private car,50,Female,headache,respiratory infection,rest,Q3,No
+97012376-cf02-47a6-bcd9-f4833fa4f79b,2023-06-18,9,Botshabelo,Central District,11,Female,Yes,AstraZeneca,No,farm worker,public transport,65,Female,fatigue,common cold,medication,Q3,Yes
+2268668a-fdf7-4afc-a895-5f146fefac50,2024-01-29,16,Gerald,North-East District,82,Female,No,Moderna,Yes,office worker,public transport,95,Male,sore throat,flu,rest,Q2,Yes
+dcdbd39a-4652-40b3-8b0f-dfa1c5831792,2024-01-26,16,Tsopeng,Central District,96,Female,Yes,Pfizer-BioNTech,No,office worker,private car,23,Male,fever,respiratory infection,medication,Q2,Yes
+fd43f604-58f2-4da4-a5f2-52a9cef850a1,2023-07-04,38,Otse,Kweneng District,4,Male,No,Covaxin,No,health worker,shared private car,48,Male,headache,flu,medication,Q4,No
+97f8b1db-40a0-43cc-b8c3-227fe76b1d42,2023-10-15,34,Old Naledi,South-East District,94,Male,Yes,Covaxin,No,health worker,public transport,81,Female,headache,respiratory infection,rest,Q1,No
+5caaebe7-adab-475e-b4ad-abe508d79337,2023-09-22,7,Gaborone west,South-East District,26,Female,No,Sinovac,No,health worker,public transport,78,Male,cough,flu,rest,Q4,No
+c36b87fd-c92e-4ad3-b244-f14f1214909e,2024-06-17,23,Shoshong,Central District,20,Female,No,Johnson & Johnson,No,health worker,private car,38,Male,cough,respiratory infection,rest,Q3,Yes
+ecf5ca00-5652-44a3-bad0-50de8703c523,2024-05-08,30,Sese,Central District,87,Male,No,Sinovac,Yes,office worker,shared private car,34,Male,sore throat,common cold,rest,Q3,No
+d7fb9daa-fb78-4408-9139-4db323e9d47e,2023-06-18,22,Boseja II,Central District,15,Female,Yes,Johnson & Johnson,No,health worker,shared private car,54,Male,fever,respiratory infection,fluids,Q3,No
+d7d0774b-7738-426e-a719-4396d67489e2,2023-11-22,39,Mathethe,Southern District,93,Male,No,Covaxin,Yes,farm worker,private car,53,Female,headache,flu,fluids,Q1,No
+1471aea6-18e0-4054-98bb-37d8ba688427,2023-06-18,40,Lesirane,North-East District,30,Male,Yes,Sinovac,No,farm worker,shared private car,42,Male,cough,common cold,fluids,Q3,No
+463f8847-e81c-432e-8987-22e1f71f9320,2023-07-12,5,Lerala,Central District,86,Female,No,Johnson & Johnson,No,health worker,private car,81,Male,fever,common cold,fluids,Q4,No
+6024c068-0b0a-450f-93ec-dfbb4f6ca0cc,2024-05-04,9,Mabutsane,Southern District,11,Female,No,Sputnik V,Yes,construction worker,shared private car,42,Female,sore throat,common cold,medication,Q3,Yes
+4b06b2c2-23eb-4a1d-aece-5a7436b8afc2,2024-01-27,11,Boseja II,Central District,9,Female,Yes,Sinovac,No,office worker,private car,90,Female,cough,common cold,rest,Q2,Yes
+62ba1cc5-afaa-4263-a5d4-b6e48f9837a2,2024-03-17,34,Jubilee,South-East District,46,Male,Yes,Sputnik V,No,farm worker,private car,48,Female,headache,flu,medication,Q2,No
+0ec3d827-bc3b-4a89-b531-4b99de089d4a,2024-05-13,23,Moeti,Ghanzi District,0,Female,No,Covaxin,No,office worker,public transport,59,Female,cough,common cold,fluids,Q3,No
+62aa7791-4f73-4ba6-b472-39aebdb5cecc,2023-12-15,9,Bokaa,Central District,79,Female,Yes,Pfizer-BioNTech,No,construction worker,shared private car,70,Male,headache,flu,medication,Q1,No
+e8ab70f5-51f4-4bef-b743-4d26d97a13da,2024-05-15,11,Moshupa,Southern District,93,Male,No,Moderna,Yes,office worker,public transport,79,Female,fatigue,respiratory infection,fluids,Q3,No
+d0845327-999f-4c8e-89eb-1425408e03e6,2024-04-14,5,Otse,Kweneng District,45,Female,Yes,Covaxin,Yes,farm worker,private car,55,Male,headache,common cold,rest,Q3,Yes
+1645b869-43e0-47a4-ab8f-14adda56253b,2024-03-28,28,Shoshong,Central District,35,Female,No,Moderna,Yes,farm worker,shared private car,29,Male,fever,respiratory infection,medication,Q2,Yes
+7c8b0d7e-667f-4f4f-a567-b4d51e326ce2,2024-02-13,4,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,36,Female,No,AstraZeneca,No,farm worker,private car,28,Male,fever,respiratory infection,fluids,Q2,No
+ee2d8e58-d1bb-425c-b16f-b8d1d8f14bce,2024-01-31,41,Oodi,South-East District,57,Female,No,Sinopharm,Yes,health worker,private car,51,Male,fatigue,respiratory infection,fluids,Q2,No
+af7644dd-4bd5-4c0a-9d22-90dc97fd0334,2023-06-25,28,Oodi,South-East District,58,Male,No,Johnson & Johnson,Yes,construction worker,shared private car,14,Female,cough,respiratory infection,medication,Q3,Yes
+fcd1dcec-1b21-4961-b0e7-dcd8066cf784,2023-09-12,25,Boseja II,Central District,92,Male,Yes,Moderna,Yes,office worker,public transport,86,Female,headache,respiratory infection,rest,Q4,Yes
+2090c700-a3c2-43ce-9084-1e6b21f877a9,2024-03-26,42,Tati Siding,North-East District,50,Female,Yes,Sputnik V,No,farm worker,shared private car,69,Female,headache,respiratory infection,fluids,Q2,Yes
+666c541d-3670-47fd-b77d-52e307d97ec5,2023-07-04,8,Botshabelo,Central District,51,Female,No,Sinovac,Yes,health worker,private car,77,Male,sore throat,common cold,medication,Q4,Yes
+5400e9f8-6281-4759-83d2-0bd4450590f4,2024-01-10,10,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,65,Female,Yes,Sinovac,No,farm worker,shared private car,18,Male,fatigue,respiratory infection,medication,Q2,Yes
+15460ace-2146-4417-81d6-3d90d19e0391,2023-09-10,43,Boseja II,Central District,10,Male,Yes,Sinovac,Yes,health worker,public transport,99,Male,fever,flu,fluids,Q4,Yes
+e99778b2-9a80-4729-b274-057b92bbba65,2024-01-06,13,Airstrip,Central District,47,Male,Yes,Sinovac,Yes,health worker,shared private car,21,Female,sore throat,flu,rest,Q2,No
+6658bac9-97bc-4f93-a717-b4ccdf533204,2024-04-19,17,Mafitlhakgosi,Central District,89,Female,Yes,Moderna,Yes,office worker,public transport,75,Male,sore throat,flu,rest,Q3,No
+d61bd8dc-f1ea-4156-90b7-786eea17f8cc,2023-12-13,21,Moshupa,Southern District,7,Female,No,Johnson & Johnson,Yes,farm worker,shared private car,31,Male,headache,flu,fluids,Q1,Yes
+2cacf07a-776d-4ab6-939f-65ef3feca714,2023-10-28,29,Tati Siding,North-East District,0,Female,No,Sinopharm,Yes,construction worker,public transport,27,Male,fatigue,flu,medication,Q1,No
+f45559ab-3a06-4cd7-8ec3-84a60c795541,2023-11-24,14,Kgwatlheng,Kweneng District,70,Female,Yes,Sinopharm,Yes,office worker,public transport,50,Female,sore throat,flu,fluids,Q1,Yes
+3a71ec00-a83f-46e9-86fa-34f14fca7320,2024-03-18,35,Sese,Central District,44,Female,No,Sputnik V,No,farm worker,private car,36,Male,fatigue,common cold,medication,Q2,Yes
+45b68c75-03f4-4edd-b134-33cc434008a2,2023-12-19,15,Boipelego,Kweneng District,94,Male,Yes,Sinovac,No,health worker,public transport,45,Female,headache,flu,medication,Q1,No
+4bf34d63-7a21-4a69-bc22-505d3a54c6ea,2023-07-10,37,Kachikau,North-West District,88,Male,Yes,Moderna,Yes,health worker,private car,94,Male,fatigue,respiratory infection,fluids,Q4,Yes
+790400b8-224b-411d-97c7-a3fac8200841,2023-06-30,28,Tsopeng,Central District,49,Male,Yes,AstraZeneca,Yes,health worker,shared private car,30,Female,cough,common cold,fluids,Q3,Yes
+e6a9bddf-ccdb-4ac3-8b3a-012411f6ab8a,2023-09-25,38,Kgwatlheng,Kweneng District,84,Male,No,Covaxin,No,construction worker,public transport,70,Female,sore throat,flu,medication,Q4,Yes
+c9c23e1d-91b4-4f10-b215-5eb01efd43f3,2023-11-15,9,Kgwatlheng,Kweneng District,87,Male,No,Sinovac,No,construction worker,private car,17,Female,cough,common cold,rest,Q1,Yes
+e6b113f9-f622-424e-ae22-2eafc9ca4c97,2023-10-02,28,Phuthadikobo,Central District,4,Male,No,Covaxin,No,health worker,private car,6,Male,sore throat,common cold,medication,Q1,Yes
+4f560839-0b01-46ba-92ed-b244deb7b073,2023-07-06,27,Letlhakeng,Kweneng District,49,Female,Yes,Sinopharm,Yes,construction worker,private car,42,Female,fatigue,flu,medication,Q4,No
+d8bf0089-8fb2-4456-82f7-3c59fa4cae99,2024-06-08,25,Mopipi,Ghanzi District,68,Male,No,Sinovac,Yes,office worker,private car,66,Female,headache,flu,fluids,Q3,No
+7494ed92-772b-4307-bc3c-bcba1bd37099,2024-03-26,9,Gerald,North-East District,39,Male,No,Sinopharm,Yes,health worker,shared private car,15,Male,sore throat,flu,fluids,Q2,No
+3278897e-8d50-4096-9c1d-51479c096a3f,2024-06-12,26,Letlhakeng,Kweneng District,21,Male,No,Sinopharm,Yes,health worker,public transport,47,Female,sore throat,common cold,fluids,Q3,No
+2e43b2ae-df25-495b-b90b-0a746ee1c190,2024-02-12,9,Airstrip,Central District,48,Female,No,AstraZeneca,No,office worker,shared private car,82,Female,headache,common cold,rest,Q2,Yes
+a2ca004c-f82d-41f1-9d5d-df4692796803,2023-06-22,34,Jubilee,South-East District,3,Male,Yes,Pfizer-BioNTech,Yes,construction worker,public transport,45,Male,fever,flu,medication,Q3,No
+b4be35ec-5b2d-401f-8bbe-ebed98519e6a,2024-03-14,20,Old Naledi,South-East District,27,Male,Yes,Covaxin,Yes,office worker,private car,93,Female,fever,respiratory infection,rest,Q2,Yes
+b931fac5-4079-4ece-a2f0-47a2daaa52d1,2024-01-18,25,Boseja II,Central District,93,Male,Yes,Johnson & Johnson,Yes,health worker,public transport,43,Male,sore throat,common cold,rest,Q2,No
+2fe519d0-c018-4fe3-85b4-73b3c58f2452,2023-10-17,18,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,57,Male,No,Sputnik V,No,construction worker,public transport,73,Male,fatigue,flu,fluids,Q1,Yes
+4c5cc618-093c-4645-b7c2-2dc41d0186fb,2024-02-15,20,Sebina,Central District,56,Female,Yes,Sputnik V,No,office worker,shared private car,71,Male,sore throat,common cold,rest,Q2,No
+3d22085f-b529-4e0d-8815-d1b9c23bba20,2024-05-30,10,Otse,Kweneng District,93,Male,Yes,Sinopharm,No,farm worker,public transport,95,Male,headache,respiratory infection,fluids,Q3,No
+d026594c-d2b2-441a-86c9-d1b472498e06,2024-06-08,33,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,30,Female,No,Sinopharm,Yes,office worker,private car,75,Female,fatigue,common cold,medication,Q3,Yes
+15d6f652-dd67-46b7-b07b-89eb9bb384a5,2024-01-31,19,Charleshill,North-East District,96,Male,No,Covaxin,Yes,office worker,public transport,77,Female,cough,respiratory infection,medication,Q2,Yes
+30b555c9-f85c-435a-b7b1-b2e69ee4032e,2023-12-05,1,Boipelego,Kweneng District,61,Male,Yes,Sinovac,No,construction worker,shared private car,36,Male,headache,flu,fluids,Q1,No
+f5288e78-534f-4460-9090-5655afbf76d1,2023-08-13,30,Gaborone west,South-East District,71,Male,Yes,AstraZeneca,No,construction worker,shared private car,41,Female,headache,flu,medication,Q4,Yes
+fb051426-faaa-4bfb-a670-2d8a61c988cf,2024-06-06,42,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,97,Male,No,AstraZeneca,No,construction worker,shared private car,88,Male,headache,common cold,medication,Q3,No
+9a7973e6-92f9-4c7e-9ce6-eab4566d7de4,2023-07-07,24,Maun General Clinic,North-West District,47,Female,No,Covaxin,Yes,construction worker,private car,47,Female,headache,common cold,medication,Q4,Yes
+a81f1e1a-3004-4dfa-8c69-7776cb0a6b3e,2023-11-22,29,Kanye Main Clinic,Southern District,49,Female,Yes,AstraZeneca,Yes,health worker,shared private car,11,Female,fever,flu,fluids,Q1,No
+59a7f24b-0b39-4b7a-a78c-59afa63bc9db,2024-06-06,14,Kanye Main Clinic,Southern District,100,Male,Yes,Pfizer-BioNTech,Yes,construction worker,private car,59,Female,headache,flu,medication,Q3,Yes
+fea8d31d-05de-456e-a3fd-c8ccb52a59d6,2023-08-14,6,Moshupa,Southern District,44,Male,No,Pfizer-BioNTech,No,office worker,private car,50,Female,fatigue,flu,fluids,Q4,Yes
+d7c20d89-1193-4175-b09d-3419c791030b,2023-07-28,32,Mathethe,Southern District,92,Female,Yes,Moderna,Yes,farm worker,public transport,35,Female,fatigue,common cold,medication,Q4,Yes
+1229395a-050a-4df9-8b79-0de886b2c1f4,2023-07-01,12,Broadhurst 3 (BH3),South-East District,36,Male,No,Sputnik V,No,office worker,shared private car,33,Female,sore throat,respiratory infection,rest,Q4,Yes
+afbb3fed-a60a-47ab-b05e-b67d52474437,2024-03-27,3,Kgwatlheng,Kweneng District,12,Male,No,Johnson & Johnson,Yes,farm worker,public transport,37,Female,fatigue,respiratory infection,rest,Q2,Yes
+bccc143f-605d-4cc5-9cf2-4a891d8a7592,2024-05-26,26,Lesirane,North-East District,15,Female,No,Sputnik V,Yes,health worker,private car,88,Female,sore throat,common cold,fluids,Q3,No
+8c31fe74-1e62-42cb-93cb-92b4770cd1f0,2023-10-21,22,Bokaa,Central District,50,Female,Yes,Sinovac,No,office worker,shared private car,40,Male,cough,respiratory infection,fluids,Q1,Yes
+7aff6f3f-1d17-410f-8251-0da94226be3f,2023-12-28,36,Tonota,Central District,69,Female,Yes,Sinovac,Yes,office worker,public transport,97,Male,fever,common cold,fluids,Q1,Yes
+ab247613-e24e-4266-8294-6147cf3c8ba5,2024-03-09,37,Sesame,Central District,100,Female,No,Sinopharm,No,health worker,public transport,12,Male,fatigue,respiratory infection,fluids,Q2,No
+4596b617-54b8-4d22-a473-21202acf4e4a,2024-01-19,35,Kanye Main Clinic,Southern District,67,Male,No,Sputnik V,Yes,farm worker,private car,58,Male,fever,flu,rest,Q2,Yes
+dba059e2-1942-4b0a-bb4c-edc0cdc05863,2023-09-18,6,Peleng East,Central District,79,Male,Yes,AstraZeneca,No,farm worker,public transport,97,Male,headache,respiratory infection,rest,Q4,Yes
+6fa2af72-9d5d-4ce8-9f11-fa1da77fced8,2023-09-25,22,Tonota,Central District,68,Male,No,Moderna,Yes,construction worker,shared private car,99,Male,cough,common cold,rest,Q4,No
+7f2e0613-ad4e-436b-8688-8ba06c7c3cd9,2023-11-20,35,Sebina,Central District,43,Female,No,Johnson & Johnson,Yes,farm worker,public transport,87,Male,fatigue,flu,fluids,Q1,No
+6e704379-5656-40db-9867-806f152519cb,2024-06-15,41,Jubilee,South-East District,19,Male,No,Moderna,No,farm worker,public transport,87,Male,headache,common cold,rest,Q3,Yes
+d1b4b665-bb28-46f9-ad48-62f5feb000f4,2023-09-02,1,Botshabelo,Central District,90,Female,No,Pfizer-BioNTech,Yes,construction worker,public transport,93,Female,cough,flu,rest,Q4,No
+98177ecd-2fdd-477a-8fd5-aaac3ee36220,2023-11-21,39,Mathethe,Southern District,36,Male,Yes,AstraZeneca,No,office worker,shared private car,39,Male,fever,flu,medication,Q1,Yes
+97d0fe63-7f9c-474b-aeb4-11aac9de401a,2023-09-30,14,Lerala,Central District,76,Female,Yes,Sinovac,Yes,construction worker,shared private car,17,Female,fatigue,common cold,rest,Q4,No
+d0537217-0874-467f-98f2-0515932388eb,2024-03-14,11,Boipelego,Kweneng District,76,Female,No,Johnson & Johnson,Yes,health worker,private car,66,Female,fatigue,flu,rest,Q2,Yes
+37a09569-3ba9-44a6-8fd4-cd90cde2dbdf,2023-07-24,20,Kanye Main Clinic,Southern District,65,Male,Yes,Pfizer-BioNTech,No,office worker,public transport,18,Female,fatigue,common cold,medication,Q4,No
+b72d985f-6e50-402d-85b1-17d82f7e7bdc,2024-02-02,15,Tati Siding,North-East District,99,Female,No,Covaxin,Yes,office worker,private car,36,Female,sore throat,common cold,rest,Q2,No
+43926eec-1f56-404c-aabc-ea372e5aadb0,2023-10-30,4,Moeti,Ghanzi District,49,Male,Yes,AstraZeneca,No,health worker,private car,30,Male,cough,flu,medication,Q1,Yes
+0b8fdb13-2b54-48ab-9d1f-33e130f8d6dc,2023-09-24,30,Gerald,North-East District,76,Male,No,Covaxin,Yes,office worker,public transport,42,Male,sore throat,flu,rest,Q4,No
+f83ffcda-3c73-406a-80eb-ccd69a9285a3,2023-11-28,19,Botshabelo,Central District,66,Female,Yes,AstraZeneca,No,health worker,private car,88,Female,headache,common cold,rest,Q1,Yes
+f03c4483-920c-413a-bcca-9983c34cfaea,2023-12-14,41,Tsopeng,Central District,79,Male,Yes,Pfizer-BioNTech,Yes,health worker,public transport,27,Male,headache,common cold,medication,Q1,No
+b619d503-adc8-4c87-b878-fd4473b44cb2,2023-08-05,9,Lerala,Central District,80,Male,Yes,Moderna,No,farm worker,public transport,17,Female,sore throat,common cold,medication,Q4,No
+e81264c5-3e48-45da-9490-cad06f64f6a5,2023-10-13,10,Khakhea,Ghanzi District,73,Female,Yes,Johnson & Johnson,No,construction worker,private car,24,Male,cough,respiratory infection,rest,Q1,No
+463137c1-1c49-4980-8cf1-2082776c4844,2023-07-19,16,Tonota,Central District,91,Female,No,Sinovac,Yes,office worker,public transport,27,Female,sore throat,common cold,medication,Q4,No
+a39d3358-9e42-43db-a66d-f786bfbb3d5a,2023-07-18,37,Botshabelo,Central District,34,Female,Yes,Moderna,No,health worker,shared private car,46,Male,sore throat,common cold,fluids,Q4,Yes
+e45077c2-c742-4c0b-87b5-09ee74696254,2024-02-16,42,Gaborone west,South-East District,2,Male,Yes,Covaxin,Yes,farm worker,public transport,60,Female,cough,respiratory infection,medication,Q2,No
+0dc014b9-207b-4ca5-95d5-6a89f72796e5,2024-01-25,42,Old Naledi,South-East District,99,Female,No,Moderna,Yes,health worker,public transport,51,Male,headache,common cold,medication,Q2,No
+f5ef254b-c4f4-4adc-a50c-28450074fae4,2023-11-19,23,Boseja II,Central District,53,Female,Yes,Sinopharm,No,office worker,shared private car,72,Male,sore throat,respiratory infection,rest,Q1,No
+b8af5702-ad51-4651-bc6f-44fa9fa76f35,2023-07-15,3,Kachikau,North-West District,58,Female,No,Sinovac,Yes,office worker,shared private car,33,Female,fever,flu,medication,Q4,No
+b8825eea-7313-4863-ae7b-74b07e4ff79f,2024-02-13,42,Boseja II,Central District,62,Male,Yes,Covaxin,Yes,construction worker,public transport,86,Male,fatigue,respiratory infection,fluids,Q2,Yes
+bbdc567d-aea5-44c2-a6c3-b26d4a20dc0c,2023-12-18,13,Ditsweletse,Kweneng District,43,Female,No,Sinopharm,Yes,construction worker,public transport,34,Female,fatigue,common cold,fluids,Q1,Yes
+ffd870db-469d-42ef-b47a-11bb78ab76e6,2024-04-20,34,Tonota,Central District,47,Male,No,AstraZeneca,Yes,farm worker,shared private car,11,Female,fatigue,common cold,rest,Q3,No
+6b4fcc42-ddaf-4329-91e4-350b5e12a595,2023-08-28,2,Peleng East,Central District,8,Male,No,Sinovac,No,health worker,private car,89,Male,sore throat,flu,medication,Q4,No
+7f429c38-6e3c-4620-b6fd-eacd42af1b83,2024-03-16,13,Bokaa,Central District,48,Female,No,Pfizer-BioNTech,Yes,construction worker,public transport,32,Female,headache,respiratory infection,rest,Q2,No
+6f674f1a-5ea9-4acb-bf9c-39e89fbb531a,2024-03-29,28,Bokaa,Central District,62,Male,No,Moderna,No,farm worker,private car,76,Male,fever,respiratory infection,rest,Q2,No
+40f0a8dd-9132-4606-aa52-b6f6da6ace58,2023-07-19,8,Shoshong,Central District,20,Male,Yes,Sputnik V,No,construction worker,public transport,66,Male,sore throat,flu,fluids,Q4,Yes
+789caa4f-e198-4343-b5e5-072cd51382da,2024-01-20,3,Bokaa,Central District,24,Female,No,Sputnik V,Yes,office worker,shared private car,58,Male,cough,flu,fluids,Q2,Yes
+e062f004-75ca-45b2-9cbf-c5eb3556cd83,2023-11-30,38,Botshabelo,Central District,58,Female,Yes,Pfizer-BioNTech,Yes,health worker,private car,15,Female,fever,flu,fluids,Q1,No
+740f7304-d80f-495a-b94e-8e961f492573,2023-07-26,28,Kang,Central District,39,Female,Yes,Moderna,Yes,health worker,private car,5,Female,sore throat,respiratory infection,fluids,Q4,No
+95ac1eb2-d91c-4412-83dd-ca6a02137d58,2023-07-22,31,Takatokwane,Central District,13,Male,No,Johnson & Johnson,Yes,office worker,shared private car,8,Female,sore throat,respiratory infection,fluids,Q4,No
+f23271fc-a806-47ee-a39f-7241ea30f8cc,2023-10-17,13,Takatokwane,Central District,53,Female,No,Covaxin,No,office worker,public transport,37,Female,sore throat,flu,rest,Q1,Yes
+f35984cf-a04f-479d-b001-74660cc74429,2023-09-04,27,Peleng East,Central District,92,Female,Yes,Sinovac,No,health worker,private car,29,Male,headache,respiratory infection,medication,Q4,Yes
+d4c3586e-b71b-4ee8-8ef8-3eb532b48b8c,2024-05-06,27,Lesirane,North-East District,11,Male,Yes,Sputnik V,Yes,construction worker,public transport,84,Male,headache,respiratory infection,medication,Q3,Yes
+8c965e89-6a30-4ba2-9963-f116adafdcaf,2023-06-25,32,Tati Siding,North-East District,65,Female,No,Sputnik V,No,farm worker,shared private car,46,Male,cough,common cold,rest,Q3,Yes
+e61a1863-e5d3-4e80-a537-7a9476f962cb,2024-04-02,19,Moeti,Ghanzi District,6,Female,No,AstraZeneca,Yes,health worker,private car,36,Female,headache,common cold,fluids,Q3,Yes
+fcaee47b-47ed-4307-9b0b-5810a0e1fdba,2024-01-29,34,Mabutsane,Southern District,46,Male,Yes,Johnson & Johnson,No,health worker,private car,84,Female,sore throat,flu,fluids,Q2,Yes
+aa78baf7-1bcd-4b92-b861-8799df96e051,2023-11-19,11,Tonota,Central District,61,Male,No,Sinovac,No,construction worker,private car,18,Male,cough,flu,fluids,Q1,Yes
+9affdaa4-1f0e-4ee6-bb09-ab100cb3f2c0,2024-02-17,36,Bokaa,Central District,70,Female,No,Sputnik V,Yes,farm worker,private car,78,Female,fatigue,common cold,rest,Q2,No
+b2192c06-8a6b-4c8a-97b8-1944cb0fc1ae,2024-04-22,23,Mopipi,Ghanzi District,58,Female,No,Sinopharm,Yes,construction worker,private car,48,Female,fatigue,flu,rest,Q3,No
+5afd821e-b392-46be-85c5-de1982125377,2023-12-05,36,Bokaa,Central District,3,Female,Yes,Johnson & Johnson,Yes,health worker,shared private car,59,Female,sore throat,flu,medication,Q1,No
+ac7736ab-df62-4816-97d1-14e8ca0cacc3,2023-09-14,29,Letlhakeng,Kweneng District,57,Female,Yes,Sinovac,Yes,farm worker,shared private car,98,Male,fatigue,respiratory infection,fluids,Q4,No
+10b61534-014d-457a-926c-e121606cdd4f,2023-07-07,19,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,South-East District,2,Male,Yes,Sputnik V,Yes,health worker,public transport,88,Female,fatigue,flu,fluids,Q4,Yes
+80e69a75-27a5-42b7-b21e-e3b7af29896d,2024-01-25,34,Botshabelo,Central District,10,Male,Yes,Sinopharm,Yes,farm worker,public transport,14,Male,fatigue,respiratory infection,rest,Q2,No
+55b292d7-9095-445d-b5b3-72866e09cbd2,2023-09-04,41,Botshabelo,Central District,92,Male,Yes,Pfizer-BioNTech,No,health worker,public transport,41,Male,sore throat,common cold,rest,Q4,Yes
+b3af7113-4791-4a93-8ae1-73a4c2a60b6b,2024-05-19,31,Tonota,Central District,42,Male,Yes,Pfizer-BioNTech,No,construction worker,public transport,55,Male,fever,respiratory infection,rest,Q3,Yes
+50072d88-eed2-4bc9-b93c-0e89b4ef739a,2023-07-10,32,Shakawe,North-West District,12,Female,No,Sinovac,No,office worker,shared private car,10,Female,sore throat,common cold,rest,Q4,Yes
+a0605614-f178-4553-bb80-4179986bceb6,2023-09-29,39,Tonota,Central District,80,Male,No,Sinovac,Yes,construction worker,private car,36,Male,headache,common cold,fluids,Q4,No
+e485fdd3-022d-48e1-8b88-a2f80d843e93,2024-06-13,20,Takatokwane,Central District,46,Male,No,Sinovac,No,health worker,shared private car,12,Male,headache,flu,medication,Q3,No
+9f927b81-7f71-4a8a-9090-2d88d0889f4a,2024-04-01,10,Letlhakeng,Kweneng District,9,Female,No,Sputnik V,Yes,construction worker,shared private car,79,Female,fatigue,flu,fluids,Q3,Yes
+e80e19a6-a28f-416b-a9f9-e1508dcb9efd,2023-11-27,12,Lesirane,North-East District,30,Male,No,Moderna,No,construction worker,public transport,38,Male,headache,respiratory infection,medication,Q1,No
+61359bd2-742f-4c3c-89cc-33e2ea5a9292,2024-04-10,1,Charleshill,North-East District,37,Male,Yes,Johnson & Johnson,No,construction worker,private car,11,Male,headache,common cold,fluids,Q3,Yes
+17133fd7-797b-49de-8178-ed619dc79141,2023-08-21,9,Tati Siding,North-East District,27,Female,No,Sputnik V,Yes,farm worker,public transport,68,Male,cough,flu,rest,Q4,Yes
+93b10f22-ed8a-447f-b009-74ba8378f2ba,2024-05-19,27,Mabutsane,Southern District,49,Female,No,Covaxin,Yes,construction worker,public transport,10,Male,sore throat,respiratory infection,fluids,Q3,Yes
+32d19c6a-4c06-436a-8a04-ab648caf23de,2024-04-28,6,Shoshong,Central District,5,Female,No,Pfizer-BioNTech,No,farm worker,private car,10,Male,fever,flu,medication,Q3,No
+4d7c52d7-034b-4f6b-a8f9-7a650f9ca84f,2024-01-06,19,Khakhea,Ghanzi District,54,Female,No,Covaxin,No,farm worker,public transport,58,Male,sore throat,flu,rest,Q2,No
+0fcfc4db-ee0d-467d-8f99-b54bb18cbcf3,2023-12-04,20,Moshupa,Southern District,80,Female,No,Sputnik V,Yes,office worker,public transport,44,Female,fatigue,respiratory infection,fluids,Q1,No
+73a58093-901b-4260-b9b0-d210220112c5,2023-10-09,5,Shakawe,North-West District,36,Female,Yes,Moderna,Yes,health worker,shared private car,33,Male,cough,common cold,fluids,Q1,Yes
+09feb08e-ed87-4cb9-b1ed-439ea96128a0,2024-04-02,18,Jubilee,South-East District,69,Female,No,Sputnik V,No,construction worker,private car,7,Male,fever,respiratory infection,rest,Q3,No
+574fe7dd-49d6-401b-8ce6-1cdeb48b81bf,2024-03-18,17,Shoshong,Central District,53,Female,No,Sinovac,Yes,office worker,shared private car,37,Female,sore throat,flu,rest,Q2,Yes
+63b21a9a-c5c3-433e-9b53-8f1cabeb78c1,2024-04-01,6,Letlhakeng,Kweneng District,76,Female,No,Sputnik V,No,farm worker,shared private car,22,Female,headache,common cold,medication,Q3,No
+91c05032-0c95-43b6-94c0-716307cb9b6b,2024-03-29,37,Sebina,Central District,92,Female,Yes,Covaxin,No,construction worker,public transport,61,Female,fever,flu,fluids,Q2,No
+24b5619f-7815-4035-928e-88e8b98ae3ae,2023-12-14,11,Mathethe,Southern District,7,Male,Yes,Sputnik V,No,farm worker,public transport,26,Male,headache,flu,fluids,Q1,No
+ea8b5398-a9e8-444f-b669-b91e15dd2677,2023-11-10,25,Tapologong,Central District,42,Female,No,Sinovac,No,construction worker,public transport,83,Female,fatigue,common cold,fluids,Q1,No
+4215aa3b-b1fd-4308-8bd8-ccd00236fcb9,2024-05-11,9,Lerala,Central District,47,Male,Yes,Sinovac,No,office worker,public transport,28,Female,cough,respiratory infection,medication,Q3,Yes
+56056b20-938f-45bd-bdab-4b6673a2b471,2023-08-22,33,Gerald,North-East District,58,Female,No,Covaxin,No,office worker,shared private car,37,Male,cough,respiratory infection,fluids,Q4,No
+38d72d59-da64-4c31-aa05-134071431091,2024-03-22,29,Mabutsane,Southern District,16,Female,Yes,Pfizer-BioNTech,No,health worker,public transport,44,Male,fever,common cold,rest,Q2,No
+5fa5f76e-5ee1-4175-a8b3-21de18ea677e,2024-01-21,43,Tati Siding,North-East District,26,Male,Yes,Sinovac,Yes,farm worker,private car,7,Male,fatigue,respiratory infection,fluids,Q2,No
+11373fc7-bc89-45f2-8f35-06f1a352bb74,2023-09-18,9,Oodi,South-East District,92,Male,Yes,Sinopharm,Yes,construction worker,private car,23,Male,cough,flu,medication,Q4,No
+96fed088-b8fe-4437-b910-df0c03083df6,2024-02-05,3,Tati Siding,North-East District,56,Male,Yes,Johnson & Johnson,Yes,farm worker,shared private car,17,Male,headache,respiratory infection,rest,Q2,No
+27f33be5-a421-4a97-8f5d-269147fcbe93,2023-08-20,38,Botshabelo,Central District,94,Female,Yes,Pfizer-BioNTech,No,health worker,public transport,28,Male,headache,common cold,rest,Q4,No
+5c998f90-094e-448f-bf76-1f50a3d51aea,2023-08-09,34,Nata,Central District,28,Male,No,Covaxin,Yes,health worker,private car,81,Female,sore throat,flu,fluids,Q4,Yes
+01eee123-f4ea-4d60-a5b6-54494b06facd,2024-03-09,31,Gaborone west,South-East District,24,Male,Yes,Pfizer-BioNTech,Yes,health worker,shared private car,53,Male,sore throat,flu,rest,Q2,No
+00ecde65-6200-48f6-a4ed-bf3b618c6c53,2024-05-07,31,Nata,Central District,20,Male,No,Pfizer-BioNTech,No,health worker,shared private car,43,Male,cough,respiratory infection,medication,Q3,Yes
+37859d12-4929-481d-b822-a87d08e53173,2023-07-01,43,Nata,Central District,34,Female,Yes,Sinopharm,Yes,office worker,private car,68,Male,fatigue,flu,medication,Q4,No
+beaf86ef-45d1-434e-88a3-be02d2e87436,2024-01-15,8,Khakhea,Ghanzi District,61,Female,No,Sinopharm,No,office worker,private car,87,Female,fever,common cold,rest,Q2,No
+c2043bec-4157-487f-9320-ae9c2996ce8d,2024-03-29,6,Jubilee,South-East District,50,Male,Yes,Sinopharm,No,construction worker,shared private car,82,Female,fatigue,respiratory infection,rest,Q2,No
+6b2d2638-522f-4c85-9b7c-b527a855364b,2024-04-01,9,Nata,Central District,20,Female,Yes,Sinopharm,Yes,construction worker,public transport,90,Female,sore throat,flu,fluids,Q3,No
+0e4be639-197c-4f34-97a6-5c74551bc934,2024-06-07,10,Sesame,Central District,34,Male,Yes,Moderna,Yes,construction worker,public transport,25,Female,fatigue,respiratory infection,medication,Q3,No
+3f08ebc0-397d-4237-880a-8a12f6aeb4b3,2023-11-30,20,Letlhakeng,Kweneng District,4,Male,Yes,Moderna,Yes,health worker,public transport,76,Female,sore throat,flu,fluids,Q1,No
+4989ec07-44a5-4be8-bc62-5da99695bce2,2023-12-23,3,Tonota,Central District,14,Female,Yes,Sinovac,No,office worker,shared private car,22,Female,sore throat,common cold,rest,Q1,Yes
+35478dcd-ee93-493e-8086-983bfdaf3fa7,2023-07-30,38,Kachikau,North-West District,17,Female,No,AstraZeneca,No,office worker,shared private car,58,Female,cough,flu,fluids,Q4,No
+58347187-f4d7-418f-aa67-400e53efb7e8,2024-06-12,7,Sese,Central District,75,Female,Yes,Johnson & Johnson,Yes,health worker,shared private car,91,Female,cough,flu,rest,Q3,Yes
+3b2e2baa-bafb-4bec-8009-6333c00ed196,2023-11-24,24,Mabutsane,Southern District,80,Female,Yes,Moderna,No,health worker,public transport,100,Female,sore throat,flu,medication,Q1,Yes
+e6e97f41-f02e-4c91-a269-fa6f4ae72cae,2023-08-16,19,Mabutsane,Southern District,0,Male,No,Moderna,No,office worker,public transport,84,Male,headache,common cold,fluids,Q4,No
+6c7a8c4f-7bff-4a1f-ac1c-fe1199ff9635,2024-06-07,42,Mafitlhakgosi,Central District,32,Male,No,Johnson & Johnson,No,construction worker,public transport,23,Female,headache,common cold,rest,Q3,Yes
+61b323ec-5165-41cc-b547-29bb5a3d16d0,2023-08-16,21,Airstrip,Central District,61,Female,Yes,Sinopharm,Yes,construction worker,public transport,100,Female,fatigue,respiratory infection,medication,Q4,Yes
+229ab056-898e-4ab2-b8d0-7ba8f40ccc0f,2023-07-13,38,Oodi,South-East District,55,Female,No,Johnson & Johnson,Yes,farm worker,public transport,13,Female,headache,flu,medication,Q4,Yes
+06fe12e8-01d6-4653-a9c6-becde67d0041,2024-01-15,4,Jubilee,South-East District,23,Male,Yes,Sputnik V,No,health worker,shared private car,92,Male,sore throat,respiratory infection,rest,Q2,Yes
+8cb51240-a247-4122-8207-a38adf47171d,2024-04-10,3,Moshupa,Southern District,55,Female,No,Sinovac,No,health worker,shared private car,20,Female,cough,common cold,fluids,Q3,No
+e0bb92a2-4d06-4d4d-97cd-cb6674dd5292,2024-04-18,42,Lesirane,North-East District,0,Female,No,AstraZeneca,No,office worker,shared private car,55,Male,sore throat,respiratory infection,medication,Q3,No
+8110e4b5-98c7-41f2-9bc5-618c45f3f99c,2024-02-25,5,Boseja II,Central District,97,Female,No,Sinovac,No,farm worker,private car,18,Female,cough,common cold,fluids,Q2,No
+65b8265d-fd5e-4ce1-8aca-7d0a55c5b08e,2024-02-17,23,Letlhakeng,Kweneng District,37,Female,Yes,Sinopharm,Yes,construction worker,private car,64,Male,headache,common cold,medication,Q2,No
+a1f6e5c2-20f1-46b2-8421-1eaf8e396ae9,2024-01-27,8,Boseja II,Central District,2,Female,No,Covaxin,No,construction worker,shared private car,65,Male,headache,flu,rest,Q2,No
+0a6945c0-5422-444b-8181-98a3ac5dae61,2023-12-25,31,Kanye Main Clinic,Southern District,43,Male,Yes,AstraZeneca,No,office worker,shared private car,53,Male,sore throat,flu,rest,Q1,No
+dc3c9c7c-5af5-4370-8bb8-bc1b250cd0f0,2024-03-11,26,Charleshill,North-East District,15,Female,No,AstraZeneca,No,office worker,private car,2,Male,fever,respiratory infection,rest,Q2,No
+13c16cf9-2ae8-462e-a5ad-b0041d8f0bfb,2024-03-09,38,Mafitlhakgosi,Central District,36,Female,No,Sinopharm,Yes,farm worker,shared private car,100,Female,fever,common cold,fluids,Q2,No
+d2cf96b8-4478-495b-acae-15a54c21a169,2024-06-08,31,Tonota,Central District,30,Male,No,Johnson & Johnson,No,office worker,shared private car,20,Female,cough,respiratory infection,fluids,Q3,No
+7e1992e4-8047-49d7-a366-adb1901d10bb,2024-06-01,2,Moeti,Ghanzi District,79,Female,Yes,Sinopharm,Yes,farm worker,public transport,89,Male,fatigue,respiratory infection,rest,Q3,No
+24ecb0be-8652-4505-a4c6-d9e2826d594b,2023-10-15,40,Lerala,Central District,48,Female,No,Sputnik V,No,construction worker,shared private car,70,Male,sore throat,flu,medication,Q1,Yes
+971f90f3-82fc-454f-a055-42860cf2c784,2024-03-09,15,Charleshill,North-East District,0,Female,Yes,Covaxin,No,health worker,shared private car,7,Male,fatigue,respiratory infection,fluids,Q2,No
+b76cae89-a304-4771-a259-23ed4b1ec307,2023-11-01,29,Moshupa,Southern District,70,Female,No,Moderna,Yes,construction worker,shared private car,27,Female,cough,common cold,medication,Q1,No
+32eb21d9-783c-48aa-b8e6-bdf3702443cc,2024-03-28,28,Charleshill,North-East District,33,Female,No,Johnson & Johnson,Yes,health worker,public transport,43,Female,headache,flu,medication,Q2,Yes
+c18d806d-d63a-49e1-82d1-46c99c78a223,2024-04-05,34,Airstrip,Central District,18,Male,Yes,Sputnik V,Yes,office worker,shared private car,40,Female,sore throat,respiratory infection,fluids,Q3,Yes
+c0566db0-f17b-4051-9aaa-37da28a0cb5e,2023-07-03,33,Nata,Central District,86,Male,Yes,Sputnik V,No,farm worker,public transport,73,Male,cough,common cold,fluids,Q4,No
+d7dd27e1-362e-4ecc-b85f-ed9a6113d3b0,2023-09-15,7,Mathethe,Southern District,85,Male,Yes,AstraZeneca,Yes,office worker,private car,48,Male,headache,flu,medication,Q4,Yes
+a84a80ad-ae5a-4bdd-99ea-8444b127576a,2023-09-15,18,Mafitlhakgosi,Central District,52,Male,No,Sinovac,No,health worker,public transport,59,Female,fever,respiratory infection,medication,Q4,No

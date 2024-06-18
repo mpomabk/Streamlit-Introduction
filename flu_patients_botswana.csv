@@ -1,0 +1,1001 @@
+Patient ID,Visit Date,Clinic ID,Clinic Name,Patient Age,Patient Gender,Symptoms,Diagnosis,Treatment Given,Follow-up Required
+26874a5f-29fd-4360-879d-808ace5c09d6,2024-01-06,4,Mabutsane,36,Female,headache,flu,fluids,Yes
+a65e5ebc-f2d5-4152-b12e-956bd1bef4b7,2023-05-23,25,Charleshill,93,Female,fatigue,flu,medication,Yes
+f82d5bb9-4565-42a7-a9d9-17214c6f38b5,2023-05-30,17,Tapologong,51,Female,cough,flu,fluids,No
+543c31fc-ddcf-463d-8d93-da7359b5e900,2023-05-28,15,Boipelego,1,Female,fever,common cold,medication,Yes
+946ad8f8-b2f0-431e-930d-06c71e612ce5,2024-04-03,15,Boseja II,67,Male,fatigue,flu,medication,No
+8b14865e-8535-44a0-bea9-4d574bacd528,2024-04-05,6,Phuthadikobo,44,Male,headache,respiratory infection,fluids,No
+ab5c8426-5d3c-4b2c-94b2-138b55e150ba,2023-08-30,43,Old Naledi,48,Female,fever,common cold,rest,No
+da177679-175e-46c5-8dd6-e23ec76ca5f8,2023-08-31,14,Tapologong,19,Male,cough,respiratory infection,medication,Yes
+24f635ec-0c3c-4167-9ca7-da96868a8c27,2024-02-20,23,Sebina,83,Male,cough,respiratory infection,rest,Yes
+830ebbd0-ad19-479e-b794-ee803a54bf94,2023-09-22,4,Sebina,51,Male,headache,common cold,rest,Yes
+d84f33a9-679f-42a9-99f6-a4e5313d1657,2023-10-12,41,Boipelego,84,Female,fatigue,respiratory infection,fluids,Yes
+828b6191-6f6d-4af4-9cdc-97f221aae8e2,2024-01-24,30,Ditsweletse,24,Female,sore throat,flu,fluids,Yes
+3b7834df-6d78-40b9-befb-a5f5f199045b,2024-03-31,19,Sese,2,Male,headache,flu,rest,No
+b85af608-ffa8-4de2-89f9-52e9398c48ec,2023-08-31,8,Otse,44,Male,cough,flu,rest,Yes
+c6ba08dc-6355-4fe5-b5fc-699c26b74464,2023-07-30,17,Bokaa,9,Male,sore throat,respiratory infection,fluids,Yes
+fa2d91ff-38a7-4b08-a76b-d372febdc03e,2023-11-23,41,Kgwatlheng,71,Male,headache,common cold,medication,Yes
+54254274-194b-4401-a119-e2e89fedd065,2024-02-14,30,Shakawe,1,Male,cough,common cold,medication,No
+8fcda8b2-71bd-463a-8bac-266ac1a0fd34,2023-11-09,33,Phuthadikobo,10,Female,headache,respiratory infection,rest,Yes
+56ea2645-4b86-47be-9910-6fe52c79c982,2024-05-02,27,Peleng East,56,Male,cough,respiratory infection,rest,Yes
+48de4156-edc7-4f54-8c79-dcedfef070de,2023-11-28,41,Shoshong,22,Male,headache,common cold,medication,No
+6d5c1dac-f988-4255-a6b6-3d8f7198136b,2024-02-25,7,Mopipi,78,Male,cough,respiratory infection,fluids,No
+fb23f1f3-c5d1-41b5-b4c4-e515843f1d2a,2024-01-23,15,Bokaa,34,Female,cough,respiratory infection,rest,Yes
+e465c62b-d116-4fe5-a546-b987a97ecbe5,2023-06-11,19,Charleshill,59,Female,sore throat,respiratory infection,rest,No
+1f643624-56ed-4f60-afab-bdbd8e724a17,2023-10-02,37,Mafitlhakgosi,39,Male,fever,flu,fluids,No
+ce3e2c2b-0c27-4336-9c5b-481e2c893aae,2023-11-16,2,Nata,21,Female,fatigue,flu,medication,Yes
+199ec28b-3937-491b-9f71-dc620457039b,2023-06-01,17,Gaborone west,34,Female,fatigue,flu,rest,No
+6a222e0c-e19a-49ab-8f87-fdcc9b1d9838,2023-09-04,31,Shakawe,11,Female,sore throat,flu,medication,Yes
+00c753a0-c5a3-4b20-b558-610c2e2aee93,2023-11-06,2,Boipelego,90,Male,headache,common cold,rest,Yes
+2df49305-d58a-4dca-bef5-baa2b063d5a3,2023-07-04,6,Jubilee,4,Male,fever,flu,medication,No
+8929d1e5-1aa5-481c-8a39-b40a89de062d,2023-07-20,33,Jubilee,89,Female,cough,flu,medication,Yes
+9dc8f824-3a17-4efd-bd34-8194cd1bbebe,2023-06-08,7,Kgwatlheng,42,Female,fatigue,respiratory infection,rest,Yes
+acdc3c1a-2f90-47e2-9e40-cd9df0bc9cf2,2023-08-01,28,Moeti,55,Female,sore throat,flu,medication,No
+005e7cd5-8f9e-4205-9ecd-1ecddf7c4c1f,2023-10-20,11,Maun General Clinic,80,Female,headache,common cold,fluids,No
+c91df1dd-51fc-42f2-aa26-c4debe1c3c7d,2024-04-28,42,Nata,53,Female,fever,flu,rest,Yes
+b70a4876-1e71-4409-9248-dc5a86c7a97c,2023-07-13,13,Oodi,24,Male,fatigue,flu,rest,No
+26a0c4a5-7892-4cde-bb0c-07764da7d9da,2023-11-04,14,Kgwatlheng,55,Female,sore throat,common cold,rest,Yes
+3cf78d1f-f40d-45ab-9e5d-758c54203171,2023-09-20,39,Mopipi,10,Male,fever,respiratory infection,fluids,No
+cc21cc23-c366-48f5-aee0-96b98d6d2727,2024-05-08,6,Moeti,54,Male,sore throat,respiratory infection,fluids,No
+c9504866-0645-4e76-9a0d-726732d2bd7b,2023-09-02,8,Tonota,35,Female,headache,flu,medication,No
+05f4d5db-23dc-46fa-a2f0-e2f38dfe2ee4,2024-02-07,41,Maun General Clinic,71,Male,sore throat,flu,medication,No
+4216e5e6-3434-4bcc-811a-4ed2582f68d5,2023-10-18,41,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,22,Male,headache,flu,fluids,Yes
+8ebb1ab5-ab18-4387-838d-bb0ffd20e0d9,2024-04-05,16,Maun General Clinic,91,Male,sore throat,flu,fluids,Yes
+a0901f06-105c-4c33-9535-848c93b8ff89,2023-12-29,27,Lesirane,19,Female,fatigue,flu,rest,Yes
+b5fa5511-a8aa-4a61-879d-ba29f7b5b896,2024-04-08,34,Shakawe,80,Female,sore throat,flu,rest,No
+1bcbbd37-f80e-4bf9-83a6-504b2b83afec,2024-01-20,1,Lesirane,12,Male,fever,common cold,medication,Yes
+c94fd492-8897-41cb-a241-8ccceabfa4b1,2024-01-24,40,Otse,93,Male,fatigue,flu,fluids,Yes
+ad156e6f-759f-4ef2-a14b-f058949938af,2023-11-02,7,Boseja II,41,Female,cough,common cold,medication,No
+4de9bbd2-34d9-4ca0-9169-80e70cfaa78c,2023-10-05,6,Charleshill,29,Male,cough,common cold,rest,No
+ad4b9007-b111-4aec-aba1-29e619c8f097,2023-06-12,41,Lerala,7,Male,fatigue,flu,medication,No
+27d5bec6-524f-434c-b073-c9c8a4420838,2023-10-26,33,Peleng East,35,Male,fatigue,flu,medication,No
+01ab9eb9-2bf9-4c52-ad3c-3c4683d72a20,2023-05-29,43,Tati Siding,88,Male,cough,respiratory infection,medication,No
+91f80155-b403-42e7-8308-e26d04a1f087,2023-10-11,29,Moeti,31,Female,cough,respiratory infection,fluids,No
+487c63bd-764b-42b1-b76c-3078a9c58c23,2024-01-31,8,Otse,74,Female,headache,respiratory infection,rest,Yes
+bbb70d0e-69c3-4bda-90c8-8e2d906d71b7,2023-12-15,23,Takatokwane,4,Female,fatigue,common cold,rest,No
+828c2557-384f-464f-a4e5-91d1e95bc913,2024-02-27,12,Phuthadikobo,96,Male,fever,common cold,rest,Yes
+7d96b5e5-cc2b-4e91-b203-676324add8b6,2023-05-30,2,Ditsweletse,25,Female,sore throat,flu,fluids,No
+73df973c-b864-4935-bbde-a4228e0a0571,2024-05-15,43,Peleng East,83,Male,fatigue,common cold,fluids,No
+d835161b-e430-4c6e-b8d3-dbc96cdde9f2,2023-09-18,5,Lerala,51,Female,cough,common cold,medication,Yes
+86e80f63-6951-4e6c-a7db-9c6b353e1c09,2023-08-28,1,Moshupa,96,Male,sore throat,respiratory infection,fluids,Yes
+ba8ad588-645a-4039-b812-a960e897ef58,2024-04-27,38,Airstrip,83,Female,fatigue,flu,medication,No
+c5c9b3c7-9ce4-471d-bee7-75c3e5b7a5d6,2024-02-02,25,Airstrip,91,Male,fatigue,common cold,rest,Yes
+199fbd39-13d4-4280-a370-30a11d57ed5b,2023-05-29,10,Kanye Main Clinic,92,Female,sore throat,respiratory infection,rest,No
+c034b0ea-3358-474a-8dfe-b1f5759c03f4,2023-06-28,40,Airstrip,76,Male,sore throat,respiratory infection,rest,Yes
+b9a206df-5b15-4909-970b-8b6f3de3782c,2024-02-18,5,Sebina,80,Male,fever,flu,fluids,No
+6154fa26-05d1-4ed5-93e4-697cdd2019fe,2024-04-25,31,Lesirane,53,Female,cough,common cold,medication,No
+a2a449a5-ed34-4016-bc49-1d4acb94f03b,2023-09-29,5,Oodi,60,Female,sore throat,flu,fluids,No
+8ccf0122-dc71-477a-be54-485e448f886f,2023-08-07,39,Old Naledi,17,Female,headache,flu,medication,No
+be7b336f-9464-4fd4-8434-b8e7675222f3,2023-10-19,3,Kachikau,62,Female,fatigue,common cold,fluids,Yes
+601517e5-6066-4af8-b919-ae719a49ce87,2023-11-17,3,Lerala,83,Female,fever,respiratory infection,medication,No
+b75d78b7-5ab1-4882-bc37-340d729eb700,2023-11-25,17,Otse,86,Male,cough,common cold,medication,No
+694c5685-4440-4100-aefd-7458dad60092,2024-04-07,6,Phuthadikobo,50,Female,fever,common cold,fluids,No
+d4c517b1-92ff-42dc-ba68-343ba9a5af95,2024-02-07,26,Moshupa,53,Male,fatigue,respiratory infection,medication,Yes
+26a2196a-d95d-4818-bc93-952c3cc9f129,2023-10-30,16,Botshabelo,95,Male,headache,flu,medication,No
+3e89532d-7889-491c-96a9-4fc3160f9808,2023-09-02,36,Bokaa,0,Female,sore throat,flu,fluids,Yes
+03fb5b76-f990-4695-a9b8-f11944481a94,2023-07-03,39,Gaborone west,97,Male,fever,respiratory infection,medication,No
+235e61a9-bfed-4cab-9629-d5c777a1f66c,2023-12-31,25,Nata,33,Female,headache,flu,rest,Yes
+c6e255ad-1458-4cb8-91e9-4c220e8e056b,2024-03-18,23,Tati Siding,94,Male,sore throat,flu,medication,Yes
+7612d729-b497-47ee-91f9-5c1b3ae75337,2023-07-01,17,Kachikau,57,Female,headache,common cold,rest,Yes
+16e08a6a-6eac-4fe0-9893-cff1c9db494f,2024-01-29,15,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,84,Female,headache,respiratory infection,medication,Yes
+0119ad61-ebe2-4ea3-9a34-eeb30ca47892,2023-07-06,4,Sesame,62,Male,sore throat,respiratory infection,rest,No
+22b68ec9-966d-43f1-8c27-329f217d6a3d,2023-06-07,5,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,52,Female,headache,respiratory infection,rest,Yes
+bb536659-ece7-4c17-900e-99d43f9bccfc,2024-01-16,13,Moshupa,69,Female,fatigue,respiratory infection,fluids,No
+b26b625e-ffd7-408b-b2de-eb8805ec9979,2023-06-28,39,Kachikau,30,Male,fever,respiratory infection,medication,No
+f3812cba-b7e1-44a3-9cb1-a1256a7808c9,2023-11-29,14,Kanye Main Clinic,52,Female,sore throat,flu,medication,Yes
+7b296429-4b69-4887-b079-183369136ef3,2024-03-24,12,Sese,76,Female,headache,respiratory infection,medication,No
+81b8ef2c-f744-4430-b442-27ef0dcb438d,2023-06-13,36,Moeti,29,Male,sore throat,common cold,fluids,Yes
+6cb8ee48-8c39-40b7-8912-c70baac33135,2023-09-17,21,Otse,38,Female,sore throat,flu,fluids,No
+32ecdc5c-6f5a-4e3d-8e3a-2a79a3301fc4,2024-03-23,24,Shakawe,53,Male,headache,respiratory infection,rest,No
+0cf7ca46-ef0f-480b-8cfb-3207c2dfa436,2023-11-18,16,Shakawe,34,Female,fatigue,common cold,medication,No
+4d0f6f16-a532-4347-8943-794a433eb40e,2024-02-13,38,Mopipi,28,Male,fever,respiratory infection,medication,No
+67921847-b3c2-4680-9a00-3c390d1fe3fd,2023-09-18,15,Phuthadikobo,44,Female,sore throat,common cold,rest,Yes
+bb7657ec-c906-4b52-b748-3d2014e7c799,2024-04-03,5,Bokaa,34,Male,fatigue,flu,fluids,No
+d56b2740-8f13-405a-b8ca-56d5151e559c,2024-01-08,20,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,41,Female,fatigue,flu,medication,Yes
+8c43f371-0ffb-4bed-a769-98b60eff8921,2024-01-26,27,Old Naledi,38,Female,cough,respiratory infection,medication,No
+068ea073-369a-4e92-96fb-54cc331ff36f,2023-11-20,33,Kanye Main Clinic,4,Female,cough,flu,medication,No
+63f0ce23-d479-4ada-b5a3-f5487e64b854,2024-02-03,32,Kanye Main Clinic,65,Male,cough,respiratory infection,fluids,Yes
+d0f9b4d9-c039-485e-a0a4-76462e2d37ff,2023-12-09,17,Lerala,23,Male,cough,flu,medication,Yes
+c926b0c1-6480-455c-9006-29dfd10d56ac,2024-02-09,42,Boipelego,64,Male,sore throat,respiratory infection,medication,No
+fa8eb305-aa48-4dd2-8cda-5de48f2dd534,2023-11-12,26,Oodi,95,Female,fever,common cold,medication,Yes
+3b6dea6b-7935-4366-be17-ee883f87c3eb,2024-04-04,42,Takatokwane,63,Female,headache,flu,medication,No
+496de9d4-090d-4021-a5b1-3b9ff966ebcd,2023-09-28,18,Bokaa,19,Male,sore throat,respiratory infection,medication,No
+49617f76-eef6-4820-8555-dc8933e457e8,2023-08-28,22,Old Naledi,94,Male,cough,common cold,rest,Yes
+5d21e1d3-85a6-4828-b11b-a718422ab2fc,2023-11-14,37,Jubilee,47,Female,sore throat,flu,rest,No
+ce7a8870-bf9c-440e-96b0-0a9361877e47,2024-03-22,7,Tsopeng,66,Male,fatigue,common cold,rest,Yes
+fcf622b1-bd23-47d1-881f-f22a87f227ee,2023-11-09,13,Tonota,42,Female,fatigue,flu,rest,No
+0e8b5a16-f88e-48ab-b541-6765f6b12fb5,2023-08-02,24,Letlhakeng,82,Male,fatigue,common cold,medication,Yes
+94b6543a-e5df-422e-bcfd-d5b3d381a8c8,2023-09-17,15,Sebina,22,Female,headache,respiratory infection,fluids,Yes
+d1dd0dd5-5944-4308-ab8c-227dbdd4e80a,2024-04-24,15,Mathethe,69,Female,fever,respiratory infection,medication,No
+9b5372ce-7639-4662-ad97-c0f61ae0dbf4,2023-08-20,43,Lerala,23,Male,fatigue,flu,fluids,Yes
+85277a10-48b1-4594-bf9a-6eceb5ac7edc,2024-04-16,9,Botshabelo,92,Female,headache,flu,medication,No
+0e0a756f-42ee-44da-ab35-064c0f33b734,2024-02-13,1,Maun General Clinic,85,Female,fatigue,respiratory infection,medication,No
+4017b265-1730-4558-99fe-2f179b02afcb,2023-10-05,36,Old Naledi,37,Female,sore throat,flu,fluids,No
+f2630bdc-192d-4216-b0b1-8ae097beb9be,2024-04-29,16,Otse,31,Female,sore throat,respiratory infection,medication,No
+0fb58d4b-31c7-4124-a0cb-6b6b553848ce,2023-08-25,15,Nata,62,Female,sore throat,respiratory infection,medication,Yes
+32f0664e-6c29-4a65-a3c3-566f704145d6,2024-05-11,29,Kgwatlheng,68,Female,fever,common cold,fluids,Yes
+893cc744-7cb6-45f1-b4a1-9346d86c0b57,2024-02-10,15,Takatokwane,5,Female,cough,common cold,fluids,Yes
+fdcb79ed-b079-40cf-a2b4-3bdacf0a8a34,2023-07-23,3,Boipelego,38,Male,cough,common cold,fluids,No
+d137edca-9cf6-4fbf-b457-3bfcdeb0b6a1,2023-07-16,37,Mopipi,72,Female,headache,common cold,fluids,No
+43625e0e-5209-4f78-9681-ef9bb5f77665,2024-05-12,27,Gaborone west,9,Female,fatigue,common cold,fluids,No
+270c37fc-0387-4145-9bd4-4e22782e8378,2024-03-02,23,Airstrip,89,Male,fever,respiratory infection,medication,No
+667a104f-bcf2-4cd9-b934-6949c2ed370b,2024-04-22,14,Letlhakeng,87,Female,fever,common cold,medication,Yes
+8948a1f7-2256-41a1-8682-6b2bf68fcec2,2023-07-26,39,Charleshill,28,Female,sore throat,respiratory infection,fluids,No
+9d4b2776-bc0a-480f-8051-5e32df501690,2023-08-02,36,Phuthadikobo,41,Male,fatigue,respiratory infection,rest,No
+070299db-a5cf-4e05-86ad-c1d6a5dc7b55,2024-02-19,10,Lesirane,37,Female,sore throat,respiratory infection,fluids,Yes
+b0b6d771-82a9-4a5a-9034-7285af913dd5,2024-01-30,8,Lesirane,48,Female,headache,common cold,medication,No
+8e798cb7-267f-4070-b0a6-41191f4a63bf,2024-02-07,40,Sesame,98,Male,fatigue,common cold,fluids,No
+237bb08e-e036-4f2a-a7f4-2bb1e5bd30cf,2023-12-12,32,Mopipi,27,Female,cough,common cold,medication,Yes
+81211989-8c4b-404d-a857-e75ad0c0e8e7,2023-11-18,17,Tonota,54,Female,fever,respiratory infection,medication,Yes
+f1291a16-0bcf-4a27-8a82-aec473e1091d,2024-05-13,9,Kanye Main Clinic,5,Male,sore throat,flu,rest,Yes
+9165594b-89cd-4a61-9d40-3957224f1dd8,2023-08-07,41,Kachikau,5,Male,fatigue,respiratory infection,medication,No
+c1515f0d-3b0b-4f4a-a46a-0a556195f042,2024-03-11,6,Letlhakeng,3,Female,fatigue,flu,rest,No
+1737f927-923b-4f61-af4f-d65e8ba98a2e,2023-10-08,11,Phuthadikobo,36,Female,cough,flu,rest,No
+8a772bfa-4111-4c9b-ad02-b4d0df5bd507,2024-01-05,25,Ditsweletse,75,Female,fatigue,respiratory infection,rest,Yes
+329db666-2757-41ef-b7d4-8724959854cd,2023-07-05,6,Phuthadikobo,97,Female,headache,common cold,medication,No
+cad6faca-4177-44a6-9af0-8e938de2bd95,2024-05-06,41,Kang,46,Male,headache,flu,medication,Yes
+d0869112-3be6-4f09-ba9b-bcde459cfc3c,2024-03-31,7,Kgwatlheng,76,Female,cough,flu,fluids,Yes
+981845ad-ee6f-403b-85c8-5b09c3f39fad,2024-04-12,22,Oodi,11,Male,cough,flu,rest,No
+d18e3c92-7f62-42c8-a490-fa659ea12c49,2023-11-03,22,Sesame,95,Male,fever,respiratory infection,fluids,Yes
+423dc3b6-082a-48f1-bc72-873a13743421,2024-03-09,20,Tati Siding,6,Female,sore throat,common cold,fluids,Yes
+7a6473f4-2cdd-42b5-94b6-50bcdc191c81,2023-10-31,29,Tati Siding,62,Male,fatigue,flu,rest,No
+302e0c9a-4172-4974-87cf-6c51c5a964a7,2023-05-26,11,Moeti,49,Male,fatigue,common cold,rest,Yes
+2028299e-5eb7-41fe-838f-c62f33d78c6d,2023-11-11,42,Peleng East,1,Female,cough,flu,medication,No
+1768e8db-dd69-48f1-acac-3400cd358166,2023-07-07,36,Nata,92,Male,cough,common cold,rest,No
+90fddbf3-da24-4c0d-a2a0-ab9efbe0ee35,2023-08-02,30,Botshabelo,7,Female,headache,flu,rest,No
+c45e36a2-34ee-42f0-88c6-c52e0bb55562,2023-12-22,26,Mabutsane,43,Female,cough,flu,medication,No
+0b254f76-de8f-43cb-862e-e32a49d9cf2e,2024-02-17,35,Old Naledi,50,Female,fever,flu,rest,Yes
+06351ca8-713e-4490-b63f-f109978cea3e,2024-02-06,25,Lesirane,58,Male,fatigue,flu,medication,No
+ad2995c5-6fea-45a8-aa3d-d269496783dd,2023-10-07,4,Gaborone west,7,Male,fever,respiratory infection,medication,Yes
+4b9dee37-ae2a-4e6a-8023-293e59be0a31,2023-12-19,19,Kachikau,67,Male,cough,flu,medication,No
+afdebd14-2aed-4a7e-a3cb-e8d4d382a2b2,2023-10-16,10,Gaborone west,92,Male,fever,common cold,rest,No
+0c8d7951-576a-44a6-8a36-c5ebc7d06e04,2024-01-13,14,Letlhakeng,50,Female,cough,respiratory infection,fluids,No
+449304c7-d5bc-465d-9c28-9b3870215e0a,2023-11-11,38,Kachikau,59,Male,cough,flu,fluids,Yes
+1838d708-deaf-4b62-8369-49b0c07dd514,2024-05-16,10,Jubilee,24,Female,fever,common cold,fluids,No
+f8598910-159f-43f7-8978-f94d44bfcb74,2023-09-23,21,Tonota,7,Female,sore throat,common cold,rest,Yes
+1b65849d-dd86-40ba-b18f-d3e70c0f67d8,2023-12-07,38,Mathethe,11,Male,headache,respiratory infection,fluids,Yes
+762429aa-ce8c-431e-8516-a32d75214fee,2024-04-26,28,Shoshong,58,Male,sore throat,flu,rest,No
+a3a27c59-7e54-4213-a623-00a5e777b46f,2024-01-25,12,Tsopeng,89,Male,sore throat,common cold,medication,Yes
+c2b742a2-b48a-45f8-9e04-8ad06d1bf86c,2023-06-20,6,Boipelego,74,Male,headache,common cold,rest,Yes
+1bdb2276-648c-4f1d-b609-4a603271d762,2023-06-23,35,Ditsweletse,33,Male,fatigue,respiratory infection,fluids,No
+e037639c-a45b-4134-b70f-40ecca352098,2024-03-11,12,Shakawe,98,Female,headache,common cold,medication,Yes
+8974176e-0d12-4b92-a739-b83f183f8932,2023-08-28,35,Kang,87,Male,headache,flu,rest,Yes
+2421c970-e330-43cd-9fa8-ecc55c765b0e,2024-04-13,37,Kang,89,Female,cough,common cold,rest,No
+a34fd62a-5d2b-45c6-9662-bde1e3f1505a,2024-05-03,27,Lesirane,43,Male,sore throat,flu,fluids,No
+7f851a55-cf87-4ac1-b93b-4557b4feefd6,2023-12-18,29,Boseja II,5,Female,cough,respiratory infection,rest,Yes
+f8fadbb2-8308-4348-9d5a-933bd29f526f,2023-10-21,13,Tapologong,67,Female,sore throat,flu,rest,No
+14ab0ad8-fc2a-4259-b883-f7a0fbeb28d2,2024-03-08,39,Khakhea,16,Female,headache,common cold,medication,No
+2ef13a49-8ff4-46f9-a822-64ded7fd399b,2023-11-14,41,Kachikau,9,Female,cough,respiratory infection,medication,Yes
+2bd932a3-c71c-4e3a-8701-f4f6b8c586db,2023-12-20,35,Broadhurst 3 (BH3),22,Female,sore throat,respiratory infection,rest,No
+8d019d96-7e2e-45e2-9cdf-bb904ce632fd,2023-09-07,34,Old Naledi,22,Male,cough,common cold,medication,No
+154e7b3e-acb9-45e5-a9f9-bf27b6affba5,2023-06-15,10,Kanye Main Clinic,45,Female,fatigue,common cold,medication,No
+df9e00e0-b3b9-4738-97ee-627f99d29ad5,2023-10-25,32,Charleshill,31,Male,fever,common cold,rest,No
+29dfa974-175e-40d6-a55d-d7a1106b6a98,2023-12-20,28,Sesame,7,Female,fatigue,common cold,medication,No
+6b7a45cf-27b4-4f51-b0df-b302ac6e69a2,2023-12-15,12,Lerala,26,Female,headache,respiratory infection,rest,No
+1d814223-fe88-4994-84b8-5d95bc4a3e65,2023-05-26,35,Kachikau,64,Female,fatigue,common cold,fluids,Yes
+e1d51c5c-e138-40bf-bd67-55fda972b56c,2023-05-31,11,Tsopeng,12,Female,cough,flu,fluids,No
+66f9e20b-8c85-4c07-a14b-c0fa61eb7178,2023-10-03,1,Mathethe,93,Male,sore throat,flu,medication,Yes
+0e69b378-2559-4d9d-b21c-0ef8e7476b97,2023-12-15,16,Shakawe,50,Male,headache,flu,fluids,Yes
+1cfce803-ef0d-494f-a085-aeada965304f,2024-03-22,27,Jubilee,90,Male,cough,respiratory infection,fluids,No
+a49b7c67-510c-44ff-ae7f-777b19fc011f,2023-09-18,17,Boseja II,86,Female,sore throat,common cold,fluids,No
+b43653a0-4a43-4243-8e2a-952a81e65dfd,2024-02-22,39,Airstrip,47,Female,sore throat,common cold,fluids,No
+ed4b8da4-52a6-4a60-91b6-cb8d8c1a3cff,2024-05-12,18,Tapologong,34,Male,headache,respiratory infection,rest,No
+791c6ddc-8e6f-46f8-a1cf-04a8d75c0649,2023-05-23,20,Gerald,85,Female,sore throat,common cold,medication,Yes
+b19be643-5f46-46f3-a51b-010fc4ce8255,2024-03-18,34,Letlhakeng,86,Male,cough,common cold,fluids,No
+762f7141-6c3b-4b9f-a6c2-a6fa3d063fa0,2023-06-18,4,Oodi,43,Male,sore throat,respiratory infection,fluids,Yes
+d955f054-c8fd-4bc2-a424-5e0269587056,2024-04-08,4,Old Naledi,27,Female,cough,respiratory infection,fluids,No
+3e5ca020-5ae4-40f2-be3d-40084b1099ab,2024-03-11,1,Charleshill,56,Male,cough,common cold,fluids,No
+c9c69f78-b4f6-4a04-9c6a-3334484bb270,2023-11-14,4,Boipelego,56,Female,fever,flu,fluids,Yes
+aaaa1ac7-e526-44c6-8327-838b55fea73f,2023-06-25,4,Boseja II,26,Female,fatigue,flu,medication,No
+c6be734a-b965-491b-84a3-ffff556619eb,2024-03-10,35,Tonota,3,Male,sore throat,respiratory infection,fluids,Yes
+5f78b353-7422-446b-9171-9fccc8fef744,2023-09-17,36,Letlhakeng,2,Female,cough,common cold,rest,No
+91708661-bd2a-4f18-a2e5-c940fa651565,2024-04-18,37,Sesame,35,Male,fatigue,common cold,rest,Yes
+500f026d-6dad-44d2-9475-81520fc6270d,2023-07-19,4,Nata,56,Female,fatigue,flu,fluids,No
+21dfed51-e382-410b-88c2-9f94d1f903cb,2023-08-22,22,Moshupa,74,Female,fatigue,respiratory infection,rest,Yes
+9e9ef028-466a-4564-985f-90a1bd1d96b5,2023-11-20,40,Tonota,83,Female,fever,common cold,fluids,Yes
+746d6fea-ba78-47f6-9e03-c4a3b228a1f0,2024-01-20,30,Moshupa,28,Female,fatigue,common cold,fluids,No
+33e1ad90-118e-4489-a670-5868f9fe2ff7,2023-12-30,18,Moeti,9,Male,sore throat,common cold,fluids,No
+e4b89222-5010-4e51-bfd7-95573b9c613c,2023-08-02,13,Shoshong,14,Female,sore throat,respiratory infection,fluids,No
+416084b3-59a5-4eb5-a1dc-3dbf1b1ad792,2023-12-08,13,Mopipi,73,Female,fever,respiratory infection,medication,Yes
+6004c11e-d820-448d-8892-0165fc155969,2024-05-01,10,Airstrip,75,Male,sore throat,common cold,rest,Yes
+878862a9-f5c9-40cd-ae4b-3995f8319540,2023-11-09,39,Shoshong,94,Female,cough,flu,fluids,No
+c39a78af-789b-4d48-aa60-eb283604532f,2023-11-25,19,Moeti,39,Female,fever,flu,rest,Yes
+0928c4df-0df6-42a1-b0e3-1ecd565cc8ef,2023-11-10,40,Shoshong,51,Male,fatigue,respiratory infection,fluids,No
+df2d86cf-abff-4d55-91ed-749934793b3a,2023-09-07,29,Bokaa,34,Female,fever,common cold,fluids,Yes
+a9050cbe-924c-40ab-8727-3c5d8719d717,2024-04-13,11,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,62,Male,headache,common cold,medication,No
+0a809323-36a4-4e85-9aed-46f43cac1fca,2024-03-12,8,Moeti,87,Female,headache,common cold,medication,Yes
+5cc61149-2303-4349-8967-d4df889794f9,2024-02-15,6,Gaborone west,70,Female,headache,respiratory infection,rest,Yes
+28d9e4d1-0a5a-4a95-a610-43174dda45dd,2023-12-04,7,Airstrip,90,Male,sore throat,flu,medication,No
+493842ac-fd21-4f6f-803f-3a09cee3ac49,2024-04-14,2,Tati Siding,24,Male,cough,flu,medication,No
+ba620845-1bcd-4341-b9cc-9759a1fcd25c,2024-02-21,11,Kanye Main Clinic,13,Female,cough,common cold,fluids,Yes
+54b34795-320b-44b5-8596-85f94fe5e715,2023-09-12,4,Mathethe,11,Female,sore throat,flu,medication,Yes
+fc4cf646-fcb5-4298-9637-0a33a087e20f,2023-12-31,40,Airstrip,11,Female,cough,flu,fluids,No
+a4c8742d-fd34-4849-b5e2-5de7f5ebca86,2023-10-05,26,Ditsweletse,41,Male,headache,respiratory infection,rest,Yes
+fa9f8e7e-6001-4906-8c10-84661c7ed55d,2023-09-26,43,Letlhakeng,47,Female,cough,flu,medication,Yes
+1e45bd98-04f5-4007-b434-e2ba15486688,2024-02-03,21,Gerald,4,Male,headache,respiratory infection,fluids,Yes
+060898cb-c1ed-4158-afb9-c8617af3f12a,2024-05-02,30,Airstrip,63,Female,cough,common cold,rest,No
+15b700ac-c2fb-4462-86dd-8797e6a17cf8,2023-12-16,19,Boseja II,14,Male,cough,respiratory infection,fluids,Yes
+1f6f7c61-fe49-4d50-8b97-469c27aae578,2023-08-13,19,Gaborone west,57,Female,sore throat,flu,rest,Yes
+4e418143-58c3-4e65-91c5-32ddd6017046,2023-11-19,35,Gerald,92,Male,sore throat,common cold,medication,Yes
+e7026a85-df72-4e17-b204-9a073b87a40b,2023-10-18,6,Kachikau,43,Female,fatigue,flu,medication,No
+8711d9f6-5ce6-4512-99a2-a20299f38d5a,2024-05-16,11,Ditsweletse,100,Male,fatigue,flu,rest,Yes
+0387e78f-0e4b-4bdf-b055-d2a5e6f20d27,2024-02-16,18,Tsopeng,48,Female,headache,common cold,rest,No
+4a904c63-95b9-4164-92e4-365ee6edf5b3,2023-07-07,29,Peleng East,20,Male,fever,respiratory infection,fluids,Yes
+a71884b8-8f58-496c-a2d4-391c614e77bf,2023-10-02,13,Mafitlhakgosi,37,Female,fever,respiratory infection,rest,Yes
+4259bc7f-bc6a-4cd7-84ed-a01953625e7b,2024-05-13,23,Shakawe,40,Female,fever,flu,medication,Yes
+33fde461-e5e1-4edd-8c30-d8886767d47d,2023-07-13,31,Mopipi,77,Male,headache,respiratory infection,fluids,No
+c215d458-4728-48e5-bb92-7f53b4d9a158,2023-12-26,13,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,76,Male,fatigue,flu,fluids,Yes
+0f82d5f6-c718-4909-b812-a98e40f47357,2023-07-19,8,Oodi,52,Male,fatigue,flu,medication,Yes
+7efe7fb9-b8cc-4874-bd0e-87642ff8416a,2023-09-19,22,Tsopeng,35,Female,sore throat,flu,medication,Yes
+ec3422f8-9ee9-4911-8e04-052e8329c671,2023-12-13,11,Shakawe,16,Female,headache,respiratory infection,fluids,Yes
+c38a909f-0ed2-466b-b49d-75846b8908a3,2024-02-02,3,Sebina,95,Female,sore throat,respiratory infection,rest,Yes
+fba93518-9249-495c-abd9-b9b18f036700,2023-06-12,19,Airstrip,36,Female,cough,flu,medication,Yes
+46839e8f-53ad-49fd-b175-244d91c572fa,2023-06-22,4,Kgwatlheng,27,Male,sore throat,common cold,fluids,No
+37404598-0f05-4f3e-805d-a72fa1a960ee,2024-03-15,10,Mafitlhakgosi,87,Female,headache,flu,rest,Yes
+df912967-496c-4be6-8477-953a0b745099,2023-09-14,1,Khakhea,2,Female,fever,flu,rest,No
+8e4780a5-c645-488d-ae9c-668797ccef9c,2023-10-18,29,Kachikau,6,Male,fever,flu,medication,Yes
+6a971bd9-896c-4849-a339-0e9f0c8de311,2024-05-11,13,Sese,69,Female,fatigue,respiratory infection,rest,Yes
+a62b937e-eacc-4e2c-bb9a-80c9ad538df6,2023-06-28,22,Jubilee,10,Male,headache,common cold,rest,Yes
+85c85e6d-6051-4be4-a4ab-b8bd11e105fa,2023-12-23,12,Oodi,74,Male,fatigue,respiratory infection,rest,Yes
+afafa466-c115-40f5-985b-a94a344d0797,2023-08-12,10,Mopipi,55,Male,fever,common cold,rest,Yes
+837aa7a4-011f-46cf-946f-511d3eec29ff,2023-06-05,2,Old Naledi,12,Male,sore throat,common cold,medication,Yes
+8ad72043-765e-41a5-a707-cc77e9ef1667,2023-11-08,2,Broadhurst 3 (BH3),76,Female,headache,flu,fluids,No
+fdd27899-9864-4270-9955-73181ce2508c,2024-01-28,12,Gerald,4,Female,fever,flu,fluids,Yes
+32dbf750-7e79-431a-b1e4-3fae5fc28659,2024-04-30,30,Kanye Main Clinic,36,Female,fever,common cold,rest,Yes
+0b86afe8-357e-44ac-8c3c-db4a9a07bedd,2024-05-05,28,Phuthadikobo,97,Male,cough,common cold,fluids,No
+e771774e-fba8-43b3-8a96-0b87dece582d,2024-04-02,27,Broadhurst 3 (BH3),23,Male,cough,common cold,medication,Yes
+fa22f267-32b6-4522-b71e-6f40c6dc2e6d,2023-07-20,8,Otse,94,Female,sore throat,common cold,rest,Yes
+239eea4b-5a51-4a08-b265-14c2b0c843f7,2024-04-10,26,Mopipi,23,Male,headache,common cold,fluids,No
+cbb52abc-1cd2-4098-bb7f-4ec47d3dda4f,2023-09-06,7,Moshupa,52,Female,fever,respiratory infection,medication,No
+adce2940-53e1-4a52-a14e-feec1be3a704,2023-10-15,34,Khakhea,76,Female,sore throat,common cold,medication,No
+0f102de2-ab5e-4f81-9f26-fba292c8ede9,2023-08-01,12,Takatokwane,43,Male,headache,respiratory infection,medication,Yes
+978c7f76-12d2-429a-bfaa-878ee361971e,2023-07-09,30,Sesame,17,Male,sore throat,respiratory infection,fluids,No
+907863e5-265f-4080-8fc8-4131aff7f987,2024-05-02,28,Kanye Main Clinic,22,Female,headache,common cold,rest,Yes
+9763e2b4-2d43-46c2-820b-e5092f694cd9,2023-08-27,36,Boseja II,25,Male,headache,common cold,fluids,No
+dcd900dd-ea24-4588-98e8-12180c23dac5,2023-08-23,25,Kachikau,36,Male,headache,flu,rest,Yes
+8cb3768c-4cfc-4887-922e-22be06c8dada,2023-12-04,43,Khakhea,29,Male,cough,flu,medication,No
+7507b9c7-22be-4fe8-9ff8-bb2ef3a75327,2024-04-15,37,Takatokwane,5,Male,fatigue,common cold,rest,Yes
+7167de76-1e6d-48d7-a617-a58bccf7ac83,2023-06-01,6,Broadhurst 3 (BH3),49,Female,fever,flu,medication,No
+b1a4bdaa-8d79-4400-83e2-8251e75296c3,2023-06-21,12,Mathethe,89,Female,sore throat,common cold,fluids,Yes
+9b63aa6f-aee4-42a1-bba7-5bd53a166916,2023-12-31,29,Botshabelo,68,Female,headache,flu,rest,Yes
+e8b31e3d-e454-492f-ab94-25b27aea2407,2023-08-09,18,Tsopeng,49,Male,fatigue,flu,medication,No
+787776f9-ce52-4fe4-bcfc-6e42671e104c,2023-05-23,7,Charleshill,57,Female,sore throat,common cold,rest,Yes
+5be2b379-a862-4a41-b2fc-699e55dd102b,2023-10-24,37,Sebina,90,Female,sore throat,respiratory infection,medication,No
+3b5d4603-d1c7-4a0b-8cd5-0419788dd1aa,2024-05-06,8,Otse,47,Female,headache,respiratory infection,fluids,No
+29a0aa3f-d0da-4bc9-9ccc-99dca6a962f6,2024-03-28,7,Charleshill,100,Male,fatigue,flu,medication,Yes
+1e5f99af-3fda-44d0-a41e-edd60ebd5de9,2023-06-17,25,Mathethe,65,Male,headache,common cold,fluids,Yes
+2177cf84-457f-4e6e-ae2e-4cacdb99e758,2024-01-03,5,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,3,Male,cough,respiratory infection,medication,Yes
+cdf4dd16-140f-458c-8cec-197c94b1faf9,2023-09-19,25,Tsopeng,49,Female,cough,flu,fluids,No
+348280b4-1fe7-479c-95af-a0dd854a6a58,2023-08-24,9,Mopipi,16,Male,fatigue,flu,fluids,No
+d7c0a972-51e7-468d-8308-c5e1e43c56bf,2023-08-17,26,Broadhurst 3 (BH3),19,Female,sore throat,flu,medication,Yes
+289c61d7-2b16-44cf-a4fa-ae9b93f97e70,2023-11-08,38,Broadhurst 3 (BH3),88,Male,headache,respiratory infection,fluids,Yes
+23c6a8c1-68cc-4c8a-a307-adc59f2a4af2,2023-12-23,35,Kanye Main Clinic,15,Male,fatigue,respiratory infection,medication,No
+74fb7915-0261-4edd-a601-60cd4315e0b4,2024-03-14,31,Jubilee,99,Female,fever,flu,medication,Yes
+d7542dc8-0430-470b-8fd1-3500604d1701,2024-03-24,41,Sesame,23,Male,headache,respiratory infection,rest,Yes
+6d6cb711-afb8-481e-986f-ed516f8b39e6,2023-10-25,9,Boipelego,55,Male,cough,common cold,fluids,Yes
+2f6e9348-8a80-47d1-81b1-b9444ee3dcc9,2023-07-31,14,Moeti,100,Male,fever,respiratory infection,rest,Yes
+9fb16312-7dd3-4eee-9f9f-82b76191bf49,2024-01-27,39,Botshabelo,92,Male,cough,flu,rest,No
+10826402-9982-4efa-9e89-d872fc21c9e0,2024-05-01,4,Shakawe,75,Male,headache,flu,rest,Yes
+03d35817-5db5-4dd8-a9e7-23aea7790fa2,2024-02-06,23,Moshupa,47,Female,fever,flu,medication,Yes
+ca67a9ad-ea2b-4816-88aa-39af979f9193,2024-01-18,1,Mafitlhakgosi,18,Male,sore throat,common cold,fluids,Yes
+fc2907b8-a46f-4ca8-82dd-f97f6b381b50,2023-12-21,37,Moeti,51,Male,sore throat,common cold,medication,Yes
+6943dc82-d122-4546-aa20-403d1e4070bf,2024-03-03,10,Oodi,87,Male,sore throat,respiratory infection,fluids,No
+b2354c33-f66c-4f98-8f25-395b3062504d,2023-07-12,1,Ditsweletse,51,Male,fever,flu,fluids,No
+35cb15b3-840e-4df6-a65d-7fa2a8f696e5,2024-01-24,33,Sese,11,Female,sore throat,respiratory infection,rest,Yes
+44be5d40-c2af-4f54-aef0-4f1c594debf7,2024-03-30,40,Tati Siding,70,Male,headache,flu,medication,Yes
+2ed6176b-036f-46f3-8303-d2a4c57b3302,2023-08-22,25,Tapologong,60,Female,headache,common cold,fluids,Yes
+c528fed8-4cd8-40ca-9a79-88bc2160d57d,2023-06-11,7,Gaborone west,40,Male,headache,flu,rest,No
+d9cc97d1-bbb3-4834-9270-24ce51790c9a,2024-04-15,28,Charleshill,14,Male,fever,respiratory infection,rest,No
+506372f2-75f8-4079-9720-69786fed0f3a,2023-10-25,42,Letlhakeng,80,Female,cough,common cold,rest,Yes
+841d1996-07f4-46e8-9bd5-2d05b06a17c2,2024-05-06,6,Tapologong,48,Male,fever,flu,medication,Yes
+850e2531-449b-4107-8b48-2eb05db1c17c,2023-05-28,21,Tsopeng,78,Male,cough,common cold,fluids,No
+446cd919-c98a-4057-95a4-6f20cfeb1743,2024-03-14,30,Gaborone west,92,Female,fever,flu,medication,No
+24559f86-756f-457f-b20a-5966367da583,2023-12-28,25,Sebina,47,Female,sore throat,common cold,fluids,No
+a7be87b4-4be3-4a91-a45e-9b9c7504e7a4,2024-02-26,35,Lerala,37,Male,cough,common cold,rest,Yes
+5a6e3267-ead5-4d30-bee3-49af296d68dd,2023-07-31,33,Boipelego,9,Male,cough,respiratory infection,medication,No
+1fbd0c21-ae65-4413-9405-ba050f71f7d8,2023-06-25,19,Mopipi,18,Female,fatigue,flu,rest,Yes
+3101d1a2-8b01-47f2-9da6-7ed1bbbcdf3b,2024-01-31,19,Kanye Main Clinic,51,Male,cough,common cold,fluids,Yes
+f290f4f4-0ec1-40c2-912c-265751fd5b61,2023-11-01,39,Otse,36,Female,cough,common cold,medication,Yes
+cc9f400f-9c69-456f-a246-7e031ed6e52c,2023-12-03,21,Old Naledi,64,Male,cough,respiratory infection,medication,No
+c7b40c2b-27d3-4d90-9092-b7588a51388c,2024-04-18,34,Mafitlhakgosi,57,Female,headache,common cold,rest,Yes
+7dac6d30-f131-4c05-8358-a81026d12e78,2023-08-17,34,Otse,25,Male,sore throat,common cold,fluids,No
+1014d137-709b-4afc-90f3-6aea2eb2f5a6,2024-04-25,23,Tsopeng,91,Female,fever,flu,rest,No
+de92cf99-b903-4e84-9a4f-b9fe6a1962b4,2023-08-15,27,Sebina,28,Male,sore throat,flu,fluids,Yes
+f7eafbfd-5923-4d75-b761-58b102c2a5f4,2023-08-02,39,Shoshong,61,Male,fever,respiratory infection,rest,No
+64b212ca-d3d6-4d97-aa72-fda92938d7e6,2024-03-12,2,Kgwatlheng,28,Female,sore throat,common cold,medication,No
+bac6d0e4-ac75-4924-95d0-fd618a3676c4,2024-02-15,33,Shoshong,47,Female,cough,common cold,rest,No
+749952cc-cb76-4616-b909-6c8302c5dad4,2023-08-22,21,Takatokwane,52,Female,sore throat,common cold,fluids,No
+8b212c8f-e797-4333-9fe9-b25b0bccccab,2023-07-14,31,Maun General Clinic,67,Female,cough,common cold,fluids,No
+65a15957-8d2d-4bef-9760-2eef864f1e27,2023-09-09,33,Gaborone west,57,Female,sore throat,respiratory infection,rest,No
+96d0bb5a-6c15-45fd-a03d-8275c02e86fd,2023-10-28,8,Boseja II,71,Female,fever,flu,rest,Yes
+4ad86dd6-2db1-434a-888f-bdb057460c5a,2023-05-27,4,Otse,98,Female,fatigue,respiratory infection,rest,Yes
+06ae8f59-76dd-4f37-aa1b-42aa06a4a349,2024-02-14,27,Tsopeng,96,Female,sore throat,respiratory infection,fluids,Yes
+da5d2649-446e-4323-a787-97473c055800,2023-11-12,28,Sesame,40,Male,fever,respiratory infection,rest,No
+438a3649-a262-4a06-9b48-c39f8c726a1a,2023-06-25,37,Jubilee,94,Male,headache,flu,medication,Yes
+3ebae58f-706a-43bb-90fe-ab9ecf238d2e,2023-07-14,4,Sese,95,Male,fever,respiratory infection,rest,No
+e48627b1-72f9-4f3d-a162-a199ec19bf97,2023-12-08,31,Otse,54,Female,headache,common cold,fluids,Yes
+9142b433-f151-4c22-b73b-d047f7e38f93,2024-03-07,33,Gaborone west,68,Male,cough,common cold,medication,No
+b17cf254-175d-479f-a53a-789f2e04986e,2024-01-16,18,Tonota,39,Female,sore throat,flu,medication,No
+81d16db2-7753-490c-8ac0-cb0083437dfa,2024-03-24,16,Kanye Main Clinic,42,Male,fever,flu,medication,Yes
+40f573c9-dfdb-414b-a9d1-372237ece5ef,2023-07-03,32,Mathethe,96,Female,sore throat,flu,medication,No
+f7d12085-0b35-408a-a419-96a5c6c6ef51,2024-02-22,34,Sesame,57,Male,sore throat,flu,rest,No
+5a5f1e8c-ee54-4804-96b1-565f6bd8cf6f,2024-01-15,13,Peleng East,90,Male,sore throat,flu,fluids,Yes
+686c5497-6ff4-4ebc-b609-7ccd39dd4e66,2024-01-19,21,Maun General Clinic,33,Female,sore throat,flu,rest,No
+311eea2e-eabd-4d85-873b-20349fd86a3a,2023-08-04,26,Shoshong,31,Male,sore throat,respiratory infection,fluids,No
+c6881b4a-7198-4e2e-aa21-c5f03519901a,2024-01-08,36,Kachikau,60,Male,sore throat,respiratory infection,fluids,Yes
+ef9abed1-6755-4eaa-bd72-124dbf0355e5,2023-11-07,10,Gaborone west,44,Male,headache,common cold,rest,Yes
+9692293a-e073-47a1-b15e-244fecc050ff,2023-06-30,29,Oodi,81,Female,sore throat,respiratory infection,medication,Yes
+72623328-901d-40fd-89bd-a40e1cacf24c,2024-04-20,33,Broadhurst 3 (BH3),84,Male,fatigue,respiratory infection,rest,No
+39090666-ccd1-4245-9ef3-3bc5db71846a,2024-05-09,2,Khakhea,10,Male,sore throat,flu,medication,No
+02bd7ac6-5c57-4dbf-a321-dd9af44e03cd,2024-01-24,16,Khakhea,9,Male,fever,common cold,medication,No
+4c9432b9-9b4b-49e7-b131-44d07364cdf9,2024-02-21,28,Gerald,42,Female,cough,respiratory infection,rest,Yes
+d5cc0e03-8796-47fb-aa8d-e42268e09069,2023-11-22,2,Kachikau,82,Female,headache,flu,medication,Yes
+237cc218-6505-4148-9616-43ae9501ad75,2023-09-22,19,Kgwatlheng,43,Female,fever,respiratory infection,medication,Yes
+78d46056-5ad5-42ba-80b0-4e5a145351f2,2024-02-27,7,Boseja II,35,Male,cough,respiratory infection,fluids,No
+e8109281-75cb-47ce-8282-8d350a45c24e,2023-07-12,3,Oodi,84,Female,headache,respiratory infection,rest,Yes
+97581b29-9381-43aa-9799-df441eec4c57,2023-06-16,10,Otse,43,Female,cough,common cold,rest,No
+ab0cada8-a350-40bf-b959-152ac5b894f2,2024-04-24,25,Lerala,20,Female,sore throat,flu,medication,Yes
+1f930c84-0e51-4ddd-b439-52d08684ff99,2024-04-08,41,Shoshong,80,Male,fever,respiratory infection,medication,No
+db7bbff1-3bb9-4531-b1dd-8f085529c552,2023-08-24,14,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,34,Male,fatigue,flu,fluids,No
+23ddb41f-ff5b-433a-8480-2e7bd332ba3a,2023-12-10,26,Charleshill,81,Female,headache,flu,medication,Yes
+66fbd11a-cd36-4d69-a69f-e15a89d64365,2024-04-03,25,Tsopeng,11,Female,fatigue,flu,rest,Yes
+ca880c89-ed3c-4460-91ee-323af43dc7a3,2023-06-29,28,Shakawe,66,Female,fatigue,common cold,rest,Yes
+2f3acb13-dbbf-402a-b46d-80d6e2f9f190,2023-10-08,8,Peleng East,48,Female,headache,respiratory infection,medication,Yes
+54b99183-66e6-45a6-b227-a0a9f91246b8,2023-12-28,11,Tsopeng,6,Male,headache,flu,fluids,No
+fb37d59c-b19f-49fa-8654-15039c0bbe71,2024-04-20,15,Takatokwane,84,Male,fever,common cold,fluids,Yes
+baf10b19-fe8d-417b-a695-c2caaa3959dc,2023-10-12,32,Kang,70,Female,sore throat,flu,medication,No
+fb2bd56d-9a37-4853-842f-d26f44e46648,2023-09-18,17,Peleng East,73,Male,headache,respiratory infection,rest,Yes
+c8bd39e8-5483-4d0c-9cca-6bba10b151bb,2023-09-02,4,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,65,Male,headache,common cold,fluids,Yes
+883389c3-e6a2-431d-a2d5-d455c3e79957,2023-07-18,13,Otse,76,Female,fever,flu,medication,Yes
+1bdc5c6b-63dc-403e-8afb-bbe6a967ad26,2023-10-14,22,Tapologong,11,Female,headache,flu,fluids,No
+e48094d2-8820-4654-bd1b-20d08bac5ebb,2023-11-18,11,Shakawe,0,Male,fatigue,respiratory infection,medication,No
+9736b90d-8ffb-4773-85eb-224bb595376a,2023-06-17,39,Gaborone west,37,Male,cough,flu,fluids,No
+799b59d6-0ff2-45cf-82ed-aa8d7918f4b8,2024-01-19,30,Ditsweletse,42,Female,fever,common cold,medication,No
+a6c55b05-53e9-48d7-a63e-64d7d60874a2,2023-11-26,37,Gerald,20,Male,cough,respiratory infection,medication,Yes
+32cd441c-e1f7-47d1-a714-73d92dfa6386,2024-05-14,43,Boseja II,77,Male,sore throat,respiratory infection,medication,No
+ecfd70c8-0dfa-4919-ba40-84e73c08dd39,2023-07-22,39,Tonota,57,Male,cough,common cold,medication,No
+fcb81e35-85af-4881-b550-5a2f936e2f64,2023-09-09,34,Sesame,33,Male,headache,common cold,medication,No
+6ca2d79e-42eb-4685-baa5-6ed788649e07,2024-01-24,9,Boipelego,64,Male,fatigue,common cold,rest,No
+90bb1b47-5495-461d-96dd-5e83d6b01209,2023-07-28,9,Tati Siding,49,Male,cough,flu,fluids,Yes
+43525ab8-dc25-46b6-8024-cb984dd92cea,2023-06-11,15,Shakawe,76,Female,sore throat,flu,medication,Yes
+6c46d689-f705-4579-b29e-d4cfe24dae30,2023-12-14,12,Tonota,85,Female,fatigue,common cold,rest,No
+a47f4671-d3b2-470b-beb5-fe59ad457d83,2023-11-23,16,Letlhakeng,31,Female,sore throat,respiratory infection,medication,Yes
+c9471ee8-76b6-498d-a7d9-fb0282a2127e,2023-11-05,40,Lerala,3,Male,headache,flu,rest,No
+87337c2c-75ae-4c32-a536-340edbe080f9,2023-07-04,24,Gerald,45,Female,fever,respiratory infection,medication,No
+264cb6bf-5b42-4d2f-a1c1-1e3c4baad681,2024-02-04,38,Ditsweletse,52,Male,fever,flu,fluids,No
+37dd7877-85aa-4232-b7af-7b1612e4239b,2024-01-11,14,Lesirane,100,Male,fatigue,common cold,rest,No
+ae610bcd-3b3d-453d-b0c7-f3122cf43b40,2023-11-13,31,Takatokwane,95,Male,sore throat,common cold,fluids,No
+c9dc1669-6646-4252-9f53-b921906b59d6,2024-02-02,1,Nata,20,Female,sore throat,common cold,rest,No
+455deabe-c81a-42f2-b776-05df5b80860a,2023-07-09,8,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,46,Male,cough,common cold,fluids,No
+f3b23087-b196-4097-980f-1538cbe7a76e,2023-07-08,18,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,70,Male,headache,flu,rest,No
+7702e424-2d0d-45e5-bafb-e574fd9a0d79,2023-09-04,42,Bokaa,31,Male,sore throat,common cold,rest,No
+a55d5b6e-d184-42a4-bfd4-40058a73053a,2023-08-19,11,Letlhakeng,73,Male,fatigue,flu,medication,No
+29f0eade-93f5-48cd-8e09-e76f05bb86f6,2023-07-09,26,Boipelego,41,Male,sore throat,respiratory infection,fluids,No
+17fa903b-5984-4216-901d-25907aeb8006,2023-11-29,12,Sese,60,Female,fatigue,respiratory infection,medication,Yes
+c95a8289-e487-4fca-8624-37e2cbe9d97d,2023-10-15,38,Mafitlhakgosi,63,Female,cough,flu,fluids,Yes
+00f6743a-b646-4dfc-b620-95753e0469bb,2024-01-17,38,Oodi,98,Male,fatigue,flu,fluids,No
+c6cc2497-669c-4f83-a978-7d366ee86c59,2023-08-25,2,Bokaa,47,Male,sore throat,respiratory infection,fluids,No
+5f942478-c0eb-477c-bc0c-3d6b76a28c1a,2024-04-13,30,Moshupa,20,Female,sore throat,common cold,rest,No
+4246cb3f-4efb-404f-a5e8-606e283dac06,2023-06-03,42,Boseja II,7,Male,headache,respiratory infection,medication,No
+e19b583b-6318-483c-9a91-d77139dcfae5,2023-08-05,39,Shoshong,8,Male,headache,respiratory infection,medication,Yes
+cab6f56a-5030-4c51-ad9e-19a2a4b25d8e,2023-07-31,31,Tonota,70,Female,fatigue,common cold,fluids,No
+b90c8bd1-38ae-4045-8bee-cf68833af374,2023-12-17,4,Charleshill,55,Female,headache,respiratory infection,medication,Yes
+5475c2ae-0885-4038-a6ba-4b86ce465b9b,2023-05-22,27,Gerald,58,Female,fever,respiratory infection,fluids,Yes
+e0e8185e-c5ae-437e-a92b-dd198c10e510,2023-10-11,20,Botshabelo,71,Male,fever,common cold,medication,No
+95b96845-7c5b-446c-970a-83db71c9dfc0,2024-05-03,37,Takatokwane,42,Male,headache,flu,fluids,Yes
+f3056e36-0bab-4e3d-97d7-8b112190068a,2023-06-20,15,Khakhea,86,Male,headache,flu,rest,Yes
+42d286bd-5a52-44ca-824c-585fc98286ea,2024-02-18,26,Kgwatlheng,19,Male,cough,common cold,rest,Yes
+4ce5e7a4-ca3e-4a6a-9093-313fd4a4f5d6,2023-07-10,20,Sesame,34,Male,fever,flu,medication,Yes
+46f61cca-d476-403a-a080-187c46397707,2023-09-25,43,Sesame,56,Female,cough,respiratory infection,fluids,No
+a46f9096-f0ce-42d0-994f-10ac38831ade,2023-07-08,18,Bokaa,50,Male,cough,common cold,rest,Yes
+f25775f4-fae9-4a11-9d4c-cac2f57a88fb,2023-11-06,33,Old Naledi,83,Male,fatigue,flu,rest,No
+07d6b680-ac09-4a54-a1e6-934b9741139c,2023-12-13,2,Charleshill,99,Female,cough,respiratory infection,rest,No
+ddc9693f-0e96-40e4-9b41-0013de869722,2023-10-15,26,Tati Siding,0,Male,cough,flu,rest,Yes
+aa0c14fa-698e-4d72-a4c4-939c286f7fb0,2024-05-09,26,Takatokwane,94,Female,headache,common cold,medication,Yes
+77a3bcfb-c9af-460d-9445-2ea0d8a9d4ff,2024-05-04,21,Gerald,18,Female,fatigue,common cold,medication,Yes
+a1da71eb-05b0-4b8c-ba98-e468c5573084,2023-09-16,20,Sebina,47,Male,fever,flu,fluids,No
+60a6ea37-6313-4e58-85eb-f39b57f95c6f,2024-03-06,23,Gerald,59,Female,cough,flu,medication,Yes
+0ce9bf4c-ee65-4fc6-a2df-940ac4469bfe,2024-02-20,19,Lesirane,4,Male,fatigue,flu,rest,No
+52070872-f547-4c85-b716-a89e7f4df274,2023-09-17,29,Otse,84,Female,sore throat,respiratory infection,medication,No
+c3214453-3f0b-4e25-9d0f-138d156d09f4,2023-12-31,39,Takatokwane,3,Male,sore throat,respiratory infection,medication,No
+74140370-f8c0-4c59-92bf-4089a412c846,2023-07-21,1,Botshabelo,89,Male,headache,respiratory infection,fluids,Yes
+5cb6ca5b-657e-448e-ba4d-21e23d42ba9e,2023-07-02,29,Sese,64,Female,sore throat,respiratory infection,fluids,No
+2fbb1a3d-73ac-43b0-b892-80b2d4e3d6d4,2023-09-16,15,Otse,47,Female,cough,common cold,medication,Yes
+dd1fc050-98fa-4086-978f-8d3ad8dca0f7,2024-03-22,14,Letlhakeng,35,Female,sore throat,common cold,rest,No
+6f831fb0-6571-4af3-b553-2faea7b9f9ab,2023-08-07,29,Broadhurst 3 (BH3),67,Female,headache,flu,fluids,No
+f2fa7ee5-4d08-4554-a3af-18c290386b38,2024-04-18,9,Moeti,60,Male,cough,flu,rest,No
+e5d0360e-6980-4b26-bb29-4c61768aca0f,2023-08-14,41,Takatokwane,14,Female,sore throat,common cold,medication,No
+16053f7a-57ee-454a-a41f-52857ffab013,2024-04-18,29,Moeti,69,Male,headache,common cold,medication,No
+08e42b86-9ae1-400c-84ac-29a462e0cf61,2023-12-10,43,Mafitlhakgosi,52,Male,cough,respiratory infection,fluids,Yes
+401539ca-a704-418e-8c1a-0235023820bd,2024-02-20,5,Boseja II,75,Male,fever,common cold,rest,Yes
+c0ac6d67-955e-419f-80e1-73d56895a8a5,2023-06-23,7,Takatokwane,56,Female,fatigue,respiratory infection,fluids,No
+20381c52-eea3-449e-9008-af3b5309a5cd,2024-05-14,21,Maun General Clinic,77,Male,sore throat,flu,rest,Yes
+a85d56be-b538-4033-89e3-ff35ae3d06d9,2024-03-12,27,Botshabelo,93,Female,cough,respiratory infection,rest,No
+3ea554b5-c2ea-4976-afaa-0ca6ff27727c,2023-11-24,37,Moshupa,95,Female,sore throat,flu,fluids,No
+604748bd-0b38-4659-89ad-1f320243dcb3,2023-08-12,8,Airstrip,52,Female,cough,common cold,medication,No
+bc030082-98cd-42c1-bae9-c50e719bb0cc,2023-12-17,33,Kachikau,79,Female,fatigue,respiratory infection,medication,No
+58bf11c0-8300-49ad-90c4-9c5ad9b18796,2024-02-14,38,Charleshill,68,Female,headache,common cold,rest,Yes
+4139447b-fc49-4ab1-8f8a-096260e5a5af,2023-11-29,4,Airstrip,51,Female,cough,common cold,medication,Yes
+a36168c3-df91-4f43-8a0f-1d08a0cbab16,2024-02-08,41,Sebina,15,Female,headache,respiratory infection,fluids,No
+0a3c9169-3259-440c-83b3-ff71cf2dc6e0,2023-09-18,10,Tonota,52,Male,cough,respiratory infection,medication,No
+6e38b40f-ef09-4680-a71c-b2a10a137170,2023-09-27,10,Gaborone west,15,Male,cough,common cold,fluids,No
+e0f24f08-f8cd-4203-b964-a9b5be527ff0,2023-06-10,38,Kgwatlheng,93,Male,fatigue,flu,fluids,Yes
+b12c73d5-a365-4fbc-b124-c9802fe6d21e,2023-10-03,24,Mabutsane,57,Male,headache,flu,fluids,No
+741405cc-b166-46b0-b9c3-8c05be751114,2023-11-01,15,Airstrip,66,Female,fatigue,flu,rest,No
+c7b0fade-600a-4fd6-b624-2f38b6ced154,2023-08-12,30,Maun General Clinic,13,Female,headache,flu,rest,No
+68e7d620-d770-45bd-bd4c-b3ddda0de999,2023-11-22,14,Mafitlhakgosi,99,Female,cough,flu,rest,No
+f206a14b-81d2-45e7-8958-0468fa6cda7b,2023-10-08,26,Phuthadikobo,86,Female,sore throat,common cold,fluids,Yes
+82421607-c1d2-40c1-bdc8-fb8146d979fe,2023-06-07,12,Botshabelo,94,Male,cough,flu,rest,Yes
+c5db75e7-96e0-4d54-a520-b4a610df8e21,2023-11-09,2,Boipelego,69,Female,fatigue,flu,medication,No
+c7a73f57-e9d2-46d1-b533-1ef6addc71e0,2024-04-12,18,Old Naledi,100,Female,fever,common cold,medication,Yes
+bfa98adc-f226-4fe9-8af3-3e7a91d0b8c6,2023-07-20,23,Moeti,62,Male,fatigue,respiratory infection,medication,No
+9f622e7d-9823-4e5e-a154-4d0f3e495024,2023-12-04,2,Lerala,5,Female,cough,common cold,rest,Yes
+6f6f7a05-78d4-4084-b74b-09f2ba4328c5,2023-12-24,33,Mopipi,64,Female,cough,flu,rest,Yes
+0c84c9e4-1055-49a0-b083-1ac92732fd4c,2023-07-25,24,Ditsweletse,58,Male,fatigue,common cold,rest,No
+265f68a4-0787-46cd-8a81-d0b50218e3c5,2023-07-20,5,Moeti,61,Male,headache,common cold,medication,Yes
+87aa657e-d1d2-4f40-90c4-86c7ea81da7f,2023-10-04,12,Takatokwane,67,Female,cough,flu,medication,Yes
+06db2743-c6f9-413a-bc64-d4b37e6a9fe2,2024-02-14,36,Old Naledi,59,Female,sore throat,respiratory infection,fluids,No
+ec1b269f-a4d3-491a-8b70-5386832edf5d,2024-04-30,9,Tati Siding,13,Female,fever,respiratory infection,fluids,No
+613ccf60-16e4-48bd-94e0-7a97500a4058,2023-10-01,7,Boseja II,6,Male,sore throat,common cold,rest,No
+602a9c85-c732-4a5f-a2ba-b4c4fc91eb56,2024-02-22,18,Tonota,16,Female,headache,respiratory infection,fluids,No
+f466bfcc-1b7c-494c-b5b9-000d607bd51d,2023-11-02,18,Moeti,44,Female,fatigue,flu,rest,No
+ea94e6d0-75b2-4ee1-8fc3-f6d7023256a7,2023-09-21,17,Otse,86,Female,fever,flu,fluids,Yes
+969af907-74df-4c89-9ec2-b79983894197,2024-03-23,42,Sebina,26,Female,cough,common cold,medication,No
+54e59aaf-0764-4f81-a880-f25befa792c5,2024-04-25,29,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,62,Female,cough,flu,fluids,No
+4225caa5-3734-42a5-ad36-01a29e2538ca,2023-10-31,36,Sese,97,Male,sore throat,flu,medication,No
+c267cb6f-a449-4924-a8b9-b9c399c3229d,2024-03-01,32,Gaborone west,17,Female,headache,flu,fluids,Yes
+a7bcd71f-ad24-4c7d-be9c-845d49a10a26,2023-09-13,40,Kachikau,44,Female,cough,common cold,fluids,Yes
+d550d216-961b-4866-a40e-8cbba894dad0,2023-10-17,11,Mopipi,22,Female,sore throat,common cold,fluids,No
+9a803758-2a2f-473e-9625-69cde4d534bc,2024-03-10,3,Bokaa,15,Female,fatigue,respiratory infection,fluids,Yes
+e7b0dc84-0be0-4f58-9572-9720b33196c3,2024-05-12,15,Mathethe,0,Female,fatigue,common cold,medication,Yes
+efb7f773-8186-4166-994a-5e88db7002ba,2023-07-19,29,Nata,99,Male,fever,common cold,medication,Yes
+011bd934-4706-44b5-8970-a436cafb52c4,2023-07-23,19,Kgwatlheng,17,Male,fatigue,flu,medication,No
+1e50ac0a-1010-4be8-a27c-04663ded8d69,2023-06-14,16,Charleshill,91,Male,sore throat,respiratory infection,fluids,Yes
+6b2e1061-3847-496e-a680-274caf78d531,2023-10-09,2,Mabutsane,91,Female,fatigue,common cold,rest,No
+ae6b4f31-d43e-48ed-b66c-95be8810a970,2023-11-15,39,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,39,Male,headache,respiratory infection,medication,Yes
+a73cc786-c7ae-427b-8290-9f0b7af2b759,2023-11-24,32,Tonota,14,Male,cough,common cold,fluids,No
+d7267e47-5524-4976-bc34-8bc725678d3d,2023-10-24,24,Botshabelo,93,Female,cough,flu,medication,Yes
+2f8fdbfd-8f62-4bb4-a9ee-d2b6d5be1eeb,2024-01-27,22,Shoshong,64,Female,sore throat,respiratory infection,fluids,Yes
+5fb422ea-ad50-477c-81c9-d188184e62dd,2024-02-07,23,Boseja II,50,Male,fever,respiratory infection,fluids,No
+2a429a84-56af-46bb-b3a2-6b6dc2225cea,2023-10-21,33,Moeti,41,Female,fever,flu,fluids,No
+82bd3fc7-90b5-4f49-93e3-6e71821b9685,2023-08-25,34,Boseja II,23,Female,cough,respiratory infection,rest,Yes
+27e647f4-c8d0-4947-b167-7aaac803bcf9,2023-08-07,37,Phuthadikobo,87,Male,fatigue,flu,fluids,Yes
+7a5aba17-60dc-4519-9aec-07415313adcd,2023-09-15,28,Moeti,57,Female,sore throat,common cold,rest,Yes
+aef5a3c3-2d1b-42df-96a4-3c040a423fe2,2023-11-12,29,Mopipi,63,Male,sore throat,respiratory infection,medication,No
+6db57f06-0b0f-40ae-8163-8dbbce67dd09,2023-12-23,6,Botshabelo,22,Female,sore throat,respiratory infection,rest,No
+4e717faa-7540-4751-a9c5-a7b925430d2b,2023-09-28,25,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,98,Male,sore throat,flu,fluids,Yes
+42481e2b-0263-4ee7-8c20-139d440c7e70,2024-01-23,29,Botshabelo,7,Female,fever,common cold,rest,Yes
+409cbfa1-5d2d-41fe-a708-c44a73e80748,2023-08-05,4,Boseja II,99,Female,sore throat,common cold,rest,Yes
+c9d77a20-436b-4969-aaa7-e5ca711059ae,2023-09-09,19,Sese,97,Female,headache,common cold,fluids,Yes
+c965991f-1078-4322-a7dc-00456b6ed470,2023-06-07,22,Broadhurst 3 (BH3),30,Male,fatigue,respiratory infection,fluids,Yes
+e44b2339-3c52-4958-9b55-c089655f098b,2024-05-18,39,Mopipi,38,Male,sore throat,flu,rest,No
+5f925abb-46ba-4a4a-a2b3-c873349624dc,2023-08-09,26,Mabutsane,51,Male,fever,flu,medication,Yes
+b6fa8c73-2c5a-4465-8c97-d725dd71af25,2023-06-13,4,Sesame,17,Female,fatigue,flu,rest,Yes
+c19e6be4-7ff4-429e-be29-7a8a8ee5cf7a,2023-06-10,4,Old Naledi,73,Male,headache,flu,medication,Yes
+b302deee-822d-4694-8a7c-6950237bc7cf,2023-08-06,27,Moeti,40,Female,cough,respiratory infection,fluids,No
+ce5b4484-723e-406e-9d56-d4a549a0cec8,2023-07-03,25,Kanye Main Clinic,41,Male,sore throat,common cold,medication,No
+b27ca4ae-b45d-4940-9a1d-13b73e62ba5d,2023-12-29,20,Peleng East,24,Male,sore throat,flu,fluids,Yes
+e3b8ecc2-ec56-4110-8bb0-176f28387c51,2023-08-16,5,Tonota,97,Male,headache,respiratory infection,rest,Yes
+60b64365-7d78-4b65-aa37-045d4fbe902d,2023-11-30,32,Kang,47,Male,fatigue,flu,rest,No
+70496c7c-039c-4144-a04b-9c6299d2c289,2023-12-02,26,Airstrip,89,Female,fever,flu,rest,Yes
+74c47584-c36a-4567-808a-c3efea7ad61e,2023-09-28,7,Oodi,54,Female,fatigue,common cold,rest,No
+581ead3a-281f-4b27-b7ed-e450679ca4d7,2024-03-31,5,Tsopeng,31,Female,headache,respiratory infection,rest,Yes
+7dc42dab-3159-4380-97f6-af023865929b,2023-12-30,8,Tonota,1,Male,sore throat,common cold,fluids,Yes
+213494de-981e-455c-bd07-7166f629258d,2024-02-09,22,Mathethe,56,Male,sore throat,flu,fluids,No
+13987156-a15a-469a-9da6-b32412b0876a,2023-09-01,42,Lerala,57,Male,sore throat,flu,fluids,Yes
+cbc19dbe-5787-4404-9f9e-cf97ccc410f6,2024-02-19,12,Takatokwane,83,Male,fatigue,common cold,rest,Yes
+00013893-a14f-466a-af77-30ebe38caa17,2023-06-22,26,Boipelego,26,Female,fatigue,flu,medication,No
+b5f69b91-e141-4cde-b520-e0a7ef302543,2023-08-14,42,Moshupa,53,Male,sore throat,respiratory infection,rest,Yes
+2c8b9e84-9087-4927-a3bb-74fc02088b44,2024-02-12,34,Kanye Main Clinic,80,Female,fatigue,respiratory infection,medication,Yes
+c2dae4d0-2dd0-4812-8dc7-ee07f2dbcf64,2023-07-12,21,Phuthadikobo,91,Male,sore throat,respiratory infection,medication,Yes
+ceda594a-1b18-4c48-8488-59805ed2ff9e,2024-03-19,8,Tapologong,30,Female,headache,flu,fluids,No
+0bdf00af-a99c-49eb-b11f-704e42072745,2024-02-16,29,Lerala,93,Male,cough,flu,rest,Yes
+d081020d-44c3-4b98-baa7-a421d6677fd1,2024-04-12,6,Moshupa,64,Female,headache,common cold,medication,No
+fa8e2d39-9807-480d-b564-c7f0841700c0,2023-10-09,23,Peleng East,68,Female,headache,flu,fluids,No
+244427b0-cfca-4675-b5d7-403d8febd6df,2024-03-03,38,Mopipi,21,Female,sore throat,common cold,medication,No
+a9795fed-8d57-4747-9345-e3ea16fe217d,2024-04-30,23,Oodi,60,Male,fever,respiratory infection,medication,Yes
+d1662d0c-3843-4284-9b9d-ee2f48fd9222,2024-05-08,10,Maun General Clinic,85,Male,fever,common cold,medication,Yes
+5335eff1-df78-42de-8c99-02e20ade2cb4,2023-08-22,29,Phuthadikobo,36,Female,sore throat,common cold,fluids,Yes
+fda75f62-7094-457e-83cc-315c58fe6cbe,2023-10-03,34,Boseja II,24,Female,fever,common cold,rest,Yes
+085c1b42-e9c7-4dc6-a2e4-9f81f7ecb68b,2023-07-12,25,Moeti,44,Male,headache,respiratory infection,fluids,No
+3965fc33-5bd0-488a-b916-7f93c4dffe87,2024-01-20,34,Sese,44,Male,headache,flu,fluids,Yes
+5cbd543a-0fe3-470f-8354-e4d1231f965f,2023-06-30,27,Nata,15,Female,headache,respiratory infection,medication,No
+218cff26-a8b6-4881-b88d-84fa5d17141a,2023-12-20,5,Lesirane,34,Male,fever,respiratory infection,fluids,Yes
+9c23bfe3-c31e-4f5d-a161-cf337ecc6f44,2023-11-13,18,Sebina,29,Female,sore throat,common cold,fluids,Yes
+489ba1d0-5b1d-40eb-9c6a-efa9b9f1a0fd,2023-07-22,20,Airstrip,4,Female,cough,flu,fluids,Yes
+1e6642f7-3ade-4248-8adb-f327edf6ef95,2023-07-03,11,Kang,61,Female,fatigue,common cold,medication,No
+42e9881b-64a6-4638-80dd-7ab954085d35,2024-03-31,11,Sesame,71,Male,headache,flu,fluids,No
+3038248b-3ebe-4d51-ad55-641dc32b8dc8,2023-08-04,4,Tonota,92,Male,sore throat,flu,rest,No
+a6f1c33e-e1ed-4b98-8233-62211a69686b,2024-04-07,14,Bokaa,74,Male,cough,respiratory infection,medication,No
+d1bc17b5-1617-4a41-9160-a9ab5c6ab406,2023-09-18,18,Sesame,81,Female,headache,flu,rest,Yes
+79ef059b-273b-4ef3-8188-4c82b88ae589,2024-01-15,37,Kgwatlheng,89,Male,fever,flu,medication,No
+d0aad5d0-6662-4508-ab9f-96bfaea4163e,2023-10-17,26,Oodi,88,Female,fatigue,common cold,medication,Yes
+7c32c0e7-4aa3-4de5-b2a3-db4df374f40f,2024-04-15,15,Khakhea,31,Female,fatigue,flu,medication,Yes
+44c76027-64b0-4979-bf94-2d05f93b273b,2023-12-04,29,Boipelego,94,Female,headache,common cold,medication,Yes
+aa0a61cb-4148-47b8-8f0c-8e33469739f2,2024-04-22,19,Shakawe,67,Female,sore throat,flu,rest,No
+4edb690c-b486-4410-af3f-7af81952136f,2023-08-02,6,Mopipi,41,Female,sore throat,respiratory infection,fluids,No
+09d52b9f-9170-43cd-ac03-f04ce5c8f78a,2023-09-21,43,Moshupa,75,Female,cough,respiratory infection,rest,Yes
+e3304f97-3559-4c09-878d-c2b43b230cf2,2023-11-03,38,Moshupa,26,Female,headache,respiratory infection,medication,No
+60d3da7d-0ae3-46a9-ba0b-97e15486afa8,2023-11-26,28,Lesirane,46,Female,sore throat,flu,rest,Yes
+4ce0a1f6-9461-4769-8420-6d836ea57432,2023-08-11,34,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,6,Female,fever,flu,rest,No
+02c26078-02f8-4e56-b865-bfbf4dd24db6,2023-11-06,22,Oodi,65,Male,fever,respiratory infection,fluids,Yes
+a12c094e-0f73-4d77-a27e-575ef0093fdf,2024-01-18,40,Bokaa,1,Male,sore throat,common cold,rest,No
+060d745f-4b5c-4b8b-98a8-4d528ddbc4a6,2023-07-05,31,Airstrip,70,Female,sore throat,common cold,fluids,Yes
+7defa175-8474-4d62-938a-47bccc0ed1ac,2024-05-20,16,Maun General Clinic,38,Male,cough,flu,fluids,No
+8bb13d44-5528-4f78-9f0a-e1442879d317,2024-04-05,32,Bokaa,27,Male,fever,flu,medication,Yes
+e0e91f17-3edc-4917-916e-ef1192e3d3cf,2023-06-08,30,Boipelego,62,Male,fatigue,common cold,fluids,Yes
+4e9ff928-5367-4a6d-9685-cc4ed4fc64a1,2024-02-16,24,Botshabelo,20,Female,fatigue,respiratory infection,medication,No
+b948752e-bae9-41cd-9f81-7b8e200668ec,2024-01-17,32,Bokaa,32,Female,fever,common cold,fluids,Yes
+1e0ca8ed-1522-40c6-8f7e-922382ae1342,2023-10-02,33,Sebina,43,Male,fever,respiratory infection,rest,No
+904a7cd2-6f19-44e0-b17a-c19f3df43e76,2024-02-22,26,Mopipi,16,Male,fatigue,common cold,fluids,Yes
+242df987-1869-457f-8167-6e8f69f4b1c1,2024-04-01,40,Boseja II,100,Male,fatigue,common cold,medication,No
+b2334654-7cb8-46c3-97af-1a8293fcc347,2024-02-03,26,Letlhakeng,89,Female,fatigue,respiratory infection,fluids,No
+c978768b-a4ab-48e3-9461-93eb146d6016,2024-04-18,29,Tsopeng,30,Male,headache,flu,fluids,No
+4c814372-e59b-4dd9-9a56-dda8c2130480,2023-11-18,14,Shoshong,90,Male,sore throat,flu,rest,Yes
+881cff0c-c9cf-4741-8728-b33e525b489f,2023-11-26,2,Kang,62,Male,sore throat,common cold,fluids,No
+3dfc2c1a-bf61-44b7-ab3f-0f40e962b122,2023-12-26,34,Kgwatlheng,46,Female,headache,common cold,fluids,No
+30b430b9-38cb-4c7f-ad93-cba98d25871b,2024-03-15,40,Old Naledi,64,Male,sore throat,flu,rest,Yes
+49659bec-6b81-4155-a461-d75b39abdfae,2024-03-15,22,Peleng East,23,Female,cough,respiratory infection,medication,Yes
+2850f09c-7be7-4794-88c6-5314b120ccf7,2024-02-17,32,Sese,19,Male,fever,flu,rest,No
+bc81ba7e-6326-4668-b09c-12f2c318d019,2024-04-26,25,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,49,Female,headache,flu,fluids,No
+5c0baa33-9faa-452c-8ccd-9955e7a1ddca,2023-07-27,18,Sebina,88,Female,fatigue,respiratory infection,medication,Yes
+4d4a9f19-6167-4952-83df-68d90849b564,2023-06-10,3,Mathethe,0,Female,sore throat,respiratory infection,fluids,Yes
+458bfe29-3d10-4b4e-8bc4-62f2170c3d9c,2023-11-07,29,Mopipi,12,Female,fatigue,respiratory infection,rest,Yes
+87148c4e-c4f1-43e8-b454-2357fc752f2f,2023-08-01,14,Kachikau,8,Male,cough,flu,rest,No
+3b23e7b8-10c5-4cef-ba83-d97d466dc95a,2024-01-01,2,Tapologong,33,Female,sore throat,common cold,rest,Yes
+98781317-133f-4cef-be3a-25399d6e28bf,2024-02-28,41,Sese,47,Male,sore throat,respiratory infection,fluids,No
+38ecb97e-6fec-4624-a35b-d46c3b7ff121,2023-07-19,6,Broadhurst 3 (BH3),10,Female,headache,respiratory infection,medication,Yes
+748c7a66-be84-43a7-bd61-c0fd629d611c,2023-11-26,36,Kanye Main Clinic,11,Female,sore throat,flu,fluids,Yes
+06376c99-97a7-4c9e-a1e8-af5f82400a71,2024-04-30,3,Kang,83,Male,fatigue,common cold,fluids,Yes
+685edff8-8491-4475-b71f-15ee21c6d6ef,2023-12-03,37,Takatokwane,72,Male,cough,respiratory infection,medication,Yes
+fc7bcbda-1534-47d7-b539-e8f1136807eb,2023-12-27,28,Gerald,34,Female,fever,respiratory infection,rest,No
+cc34f747-061e-46a8-8418-11f104d0109b,2024-04-08,39,Moeti,49,Male,fatigue,respiratory infection,fluids,Yes
+291dc6ed-c1d7-4949-8fec-aceef9bfdd2d,2023-12-18,43,Gaborone west,42,Female,sore throat,respiratory infection,fluids,Yes
+cd2ba25a-c675-4b73-8f3c-30b48b7d3909,2024-04-27,41,Kachikau,66,Female,headache,respiratory infection,rest,Yes
+1323f1de-1e4f-4b5f-8846-2afb4f71f13c,2023-06-11,7,Sesame,26,Female,sore throat,common cold,rest,No
+1115af14-9143-4ad6-95d8-0d1e632557c8,2024-04-09,33,Moeti,14,Male,headache,respiratory infection,medication,No
+7daffbbc-3c41-443f-809f-46e4d46231b3,2023-12-03,2,Shoshong,13,Female,cough,flu,rest,No
+7aef08d5-575e-41cf-8fe9-072c06b166cb,2024-02-18,32,Tati Siding,99,Male,fever,common cold,fluids,Yes
+bc615727-358c-425f-9f43-e04ac0caa6fd,2023-09-24,42,Moshupa,46,Male,headache,common cold,medication,Yes
+cba64e35-4e71-4fdb-bf6f-a22b3e53b828,2024-04-04,39,Gaborone west,88,Male,headache,common cold,medication,Yes
+382d3fd8-656e-4798-a670-9358f234461b,2024-03-15,42,Tapologong,78,Female,headache,respiratory infection,medication,No
+b122da36-3822-4813-bdfc-ffd817baa040,2023-12-19,5,Jubilee,69,Male,headache,flu,fluids,No
+0b76445c-94c0-4b63-a47f-fcc35e3f6f8b,2023-12-21,21,Moeti,84,Female,fever,common cold,fluids,No
+31d05b93-6012-4451-a07a-065e94388ac1,2023-08-04,13,Tati Siding,71,Female,fever,respiratory infection,medication,No
+2fb68c8c-9d2d-46d1-bdf3-3bd806ffbe39,2023-11-23,38,Ditsweletse,91,Male,cough,common cold,rest,Yes
+cdafbc7e-cd0f-49af-b73c-dbcbb675de20,2023-06-10,32,Kachikau,76,Male,sore throat,common cold,medication,Yes
+02e8a71f-7266-45ac-8e10-2e245eb69fa1,2023-06-13,8,Boseja II,31,Male,fatigue,respiratory infection,medication,No
+e762122d-22f6-4c73-992a-a62567b26cd0,2024-03-22,2,Jubilee,10,Female,fever,respiratory infection,fluids,No
+52cfe2b2-5fb6-4003-8af1-d5d27b5ac821,2024-02-17,32,Jubilee,39,Male,headache,flu,rest,No
+87672b34-ace0-4914-a3c2-971268ff977c,2024-03-18,34,Gerald,0,Male,sore throat,respiratory infection,medication,No
+6280ce22-244d-4953-a771-46029c54ff19,2024-02-18,42,Otse,82,Female,fatigue,common cold,rest,No
+b8494a1d-cdf1-4f74-9862-d70b57e8f599,2023-07-18,2,Otse,84,Female,fever,common cold,rest,Yes
+4372b026-da6d-4616-9715-410280b0f0a7,2023-08-06,28,Shoshong,63,Female,fatigue,flu,rest,Yes
+e17067bd-87d3-4a0d-b38b-2c2b9e7cd193,2023-07-27,37,Tonota,86,Male,cough,respiratory infection,fluids,Yes
+b3efd16e-35cc-4ee5-bf45-c6540dffca64,2023-11-26,28,Khakhea,25,Female,headache,flu,rest,Yes
+739662cd-e003-4f73-b536-8cd88fdacd52,2023-08-20,23,Bokaa,93,Male,cough,common cold,medication,No
+60fda286-fe61-4f9f-aa00-0b99c75a9c27,2024-04-01,22,Airstrip,41,Female,headache,common cold,rest,Yes
+5f212126-62b1-4bb7-b280-1050acce9863,2023-12-16,12,Mabutsane,65,Female,sore throat,respiratory infection,fluids,Yes
+ddc34fa4-ded5-4cff-a3d0-64ad70fc595a,2024-03-21,32,Tati Siding,58,Male,cough,flu,fluids,Yes
+c5bab472-d9b2-4add-926d-a8f398fcb13d,2024-01-03,43,Peleng East,84,Female,sore throat,flu,medication,No
+c89e956a-55d6-472b-b65b-524ad9b4782b,2024-05-11,8,Shakawe,5,Male,fatigue,flu,medication,No
+bed592b2-02f3-4811-b498-3f641c687312,2023-07-14,32,Nata,94,Male,fatigue,respiratory infection,fluids,Yes
+3182f9da-2630-40c4-b65e-f877f0100c98,2024-04-25,11,Airstrip,41,Male,cough,flu,rest,No
+788ebe45-b9c4-4f3c-97ac-7b0c00aa7235,2023-08-28,32,Moshupa,43,Female,headache,respiratory infection,medication,Yes
+06371aef-3586-455c-9d0d-100b354a464b,2023-08-12,4,Boipelego,52,Female,sore throat,respiratory infection,fluids,Yes
+4cdd95ac-6828-4fbb-a468-3b863e84a649,2023-09-12,37,Lerala,24,Female,sore throat,flu,fluids,Yes
+7928a2e4-25fb-4ea5-abba-54784d679432,2024-05-03,29,Mabutsane,32,Female,fatigue,common cold,rest,Yes
+d04065c2-8c3f-4e11-bf18-c041270ecc71,2023-06-07,26,Shakawe,80,Male,headache,flu,fluids,No
+73ebf6fe-3161-43ef-8efc-d94a041d5937,2024-04-16,24,Shakawe,6,Female,cough,flu,rest,No
+8be8c2d6-b9be-4bd1-80ae-0a78998803a5,2023-11-06,5,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,39,Male,cough,respiratory infection,rest,No
+204eb1b5-746a-4111-84f1-7f153da4ed57,2023-08-23,31,Gerald,24,Female,fatigue,common cold,medication,Yes
+336c0ed4-31f3-4374-82b9-5506a417ff0a,2024-01-21,14,Otse,75,Male,headache,flu,fluids,No
+a2759684-c2a3-48be-8814-f02890d8e9a5,2023-09-07,42,Bokaa,18,Female,headache,common cold,medication,No
+4a7afdf7-8e80-40f1-85fc-27ec9de866d3,2024-03-21,3,Old Naledi,75,Female,sore throat,respiratory infection,fluids,No
+15141343-f10d-42e8-88c8-9e05b862ae4c,2024-04-21,14,Mabutsane,13,Male,fever,respiratory infection,fluids,No
+6e50a843-8b84-4bee-8117-4d68e5eedba2,2024-02-13,4,Moeti,78,Male,headache,common cold,medication,No
+8def11c5-73a0-48d5-84f6-a4950712d160,2024-02-12,7,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,57,Female,fatigue,respiratory infection,medication,Yes
+81178f80-f766-4392-9cfa-657e05c51044,2023-12-24,28,Sebina,10,Female,fever,common cold,rest,Yes
+35eb7dfa-7b0a-41d0-abe5-0ead3b0e0eb9,2024-04-13,35,Tapologong,18,Female,headache,respiratory infection,medication,Yes
+d935d91e-f731-4585-ad8c-8c454de23386,2023-06-30,33,Tonota,97,Female,cough,flu,rest,Yes
+3bba9850-09aa-4ebe-94e6-a51007b3c650,2023-06-27,33,Tapologong,23,Male,headache,respiratory infection,medication,No
+cd6a7450-5248-48d0-ba23-7e84fbd6719e,2024-05-06,20,Kanye Main Clinic,93,Male,cough,common cold,medication,Yes
+ec20a1cc-8ba0-4499-a880-1c9a12223742,2023-05-25,13,Oodi,82,Female,headache,respiratory infection,fluids,Yes
+f5dd8248-0cab-4207-915b-07795f5718fa,2023-11-26,40,Sebina,60,Male,sore throat,respiratory infection,rest,No
+91a3f24e-786f-48eb-ab8b-183794ffa8f1,2024-03-01,18,Takatokwane,89,Female,cough,common cold,rest,Yes
+62a810ce-46df-4617-81fa-ea90c26b16c8,2023-09-06,12,Sese,98,Female,cough,common cold,medication,No
+cf5e4912-184a-4032-9914-bf1ef9c3d3fd,2023-09-12,20,Lerala,21,Male,fatigue,respiratory infection,medication,No
+f5d53c1a-bf97-4e51-8d2a-066a5c767c5e,2023-08-13,13,Charleshill,81,Male,sore throat,respiratory infection,fluids,Yes
+78589be3-17d4-44b9-a015-51dcfc081dc9,2023-11-08,34,Sese,95,Male,cough,common cold,rest,Yes
+9cc5f114-0d70-4223-b331-d38fa897a346,2023-06-09,11,Ditsweletse,7,Male,fatigue,respiratory infection,fluids,Yes
+918bcb30-fd79-4192-8480-a5bf3caeac4b,2023-12-09,2,Ditsweletse,92,Male,fatigue,respiratory infection,rest,Yes
+14a84450-179f-4795-a8a3-0e65c3daeb42,2024-01-22,34,Boseja II,98,Male,headache,flu,rest,No
+84065168-9f6d-48cd-b2a6-99f0a105a785,2024-01-12,2,Charleshill,54,Male,fever,common cold,fluids,No
+987f429f-b89d-477f-ab73-14c5affb281b,2024-05-06,6,Kanye Main Clinic,95,Male,cough,respiratory infection,fluids,No
+88964f12-00fb-485a-93dc-7efb5c499fb9,2023-10-20,1,Mabutsane,56,Female,fever,flu,medication,No
+09319b78-837a-40a2-a947-68e50c2b9e12,2023-05-25,15,Khakhea,99,Male,sore throat,common cold,rest,Yes
+302c78e8-5f65-49f8-9297-f119e224107d,2024-03-07,43,Bokaa,31,Male,cough,common cold,rest,Yes
+50810d4a-d4ca-47ee-80e7-caca17a8cdde,2023-08-23,21,Tsopeng,73,Male,sore throat,flu,medication,No
+acd01109-b810-4f33-bb27-afc5daf6ba67,2023-07-18,24,Letlhakeng,19,Female,fatigue,respiratory infection,fluids,Yes
+d31a9d08-016b-4f64-825c-730102914da7,2023-08-31,20,Maun General Clinic,30,Male,sore throat,respiratory infection,rest,Yes
+4d82121b-6bdd-42ac-8b83-838aa5019131,2023-09-27,4,Bokaa,21,Male,fatigue,flu,medication,Yes
+2635b149-c5d1-4d8e-8828-d39990945b2c,2023-08-14,19,Old Naledi,84,Male,fever,common cold,rest,No
+78ab2236-eea5-4fa0-be6e-aac12d09f04c,2023-11-30,8,Takatokwane,10,Female,fever,common cold,medication,No
+0ac5f8b1-18fd-47d9-87d5-06da599e2503,2023-08-27,15,Broadhurst 3 (BH3),71,Male,headache,flu,medication,Yes
+9b3f9fad-3799-4230-a885-86f65493123a,2023-07-02,33,Jubilee,71,Male,fever,respiratory infection,rest,No
+54ed2516-821e-42a5-8208-ccbb01fe6a01,2023-07-18,12,Botshabelo,63,Male,headache,respiratory infection,rest,Yes
+c92e77b2-d90f-4c32-95df-003416caa937,2023-07-24,25,Tapologong,47,Female,fever,flu,fluids,No
+99f1e32a-378e-480e-a0bb-8c9c1ffd958e,2024-01-25,17,Ditsweletse,60,Male,fever,common cold,fluids,Yes
+939012ce-fa22-4e68-8c85-2919a7912af7,2023-09-24,42,Khakhea,99,Male,fever,flu,medication,No
+90f084b1-79d0-46c6-a37a-4b6bda11b0c3,2024-03-17,14,Kanye Main Clinic,30,Male,headache,respiratory infection,rest,Yes
+ec2db440-6100-4736-aa17-0afac5ce459d,2024-05-03,9,Takatokwane,27,Female,sore throat,respiratory infection,fluids,No
+4cf52372-c481-46f5-aec6-735e0e6aefe7,2023-08-28,26,Tonota,94,Female,fever,respiratory infection,medication,No
+7a9468f2-4209-43bb-ad58-e3ce15344240,2023-10-03,43,Gerald,24,Female,fatigue,flu,rest,Yes
+0e5654ed-c218-4929-b47e-e41337b05ef4,2023-12-08,29,Tsopeng,44,Male,fatigue,common cold,fluids,No
+171ffad5-6e77-459e-8779-8c18532d9353,2023-10-12,14,Gaborone west,14,Female,sore throat,common cold,medication,No
+c8dc263c-9821-4a22-ba4b-4dc91dc65859,2024-01-27,13,Gaborone west,6,Male,fatigue,flu,rest,No
+78c397a7-67ef-45fd-ab3d-34a9b1b180a2,2024-03-27,3,Moshupa,83,Male,cough,common cold,rest,Yes
+7c9f50a7-cd26-44da-aa59-a85858ffd5f6,2024-04-08,32,Mafitlhakgosi,53,Female,fatigue,flu,rest,Yes
+8e5fbec8-804b-40f8-9587-7aee7ea44554,2023-08-19,36,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,37,Male,fever,respiratory infection,fluids,No
+8b3cb5fa-0fc9-4988-b27c-bdf35a165db6,2023-10-08,40,Takatokwane,59,Male,fever,common cold,medication,Yes
+0cd6dd46-e3f9-4b09-815d-c2358f59cb1e,2023-10-27,15,Kang,82,Female,sore throat,respiratory infection,fluids,Yes
+a8c822e9-d7b4-48a8-b5dc-bcf8baeb8483,2023-11-23,12,Lesirane,74,Female,fatigue,respiratory infection,rest,Yes
+52034825-ab24-4192-99a6-0dcd6b14d042,2023-11-11,14,Gaborone west,90,Female,fatigue,respiratory infection,fluids,Yes
+5951e785-e342-4608-881a-161ac7e68d11,2023-07-14,42,Shoshong,62,Male,fever,common cold,fluids,No
+0bb4d7b4-ca4b-455a-8030-b758e184b026,2024-03-06,9,Maun General Clinic,14,Female,sore throat,common cold,medication,Yes
+f81b6754-e2e0-4446-ad77-719060e059f6,2023-08-06,10,Airstrip,97,Male,fatigue,flu,medication,Yes
+9189f9f7-80b5-4d36-b651-dced8d800de2,2023-11-20,4,Gerald,75,Male,sore throat,flu,fluids,Yes
+c6b65286-83b2-492f-b012-1580c1fcf012,2023-09-06,15,Sesame,34,Male,headache,flu,medication,Yes
+e37a34ef-ecaa-4e3a-a797-2ef08e78a372,2023-12-03,3,Bokaa,40,Male,headache,respiratory infection,medication,No
+b4b4ff56-1351-42c9-bdb4-0434e7b49ed4,2024-05-18,29,Kachikau,87,Female,headache,flu,medication,No
+70e5be8c-d27a-44e7-a903-8f5bf685dd96,2023-11-23,35,Ditsweletse,95,Male,sore throat,common cold,medication,Yes
+55ad12fc-074b-4484-82cd-6dd883061bab,2024-02-02,23,Kachikau,17,Male,headache,flu,rest,Yes
+66302ba0-c4eb-4e4e-a8a5-bd2521d3a93d,2023-05-24,1,Mabutsane,35,Male,fever,flu,fluids,Yes
+b1000075-25dd-4e1e-9aa3-fd5c641c8004,2024-01-01,31,Sebina,57,Female,cough,flu,medication,No
+bad63777-999b-4c2f-ac52-f5324de2d566,2023-09-30,28,Airstrip,61,Male,sore throat,common cold,medication,No
+a394568a-714d-4070-969b-39e6be24e908,2024-03-18,24,Sebina,6,Male,fatigue,respiratory infection,medication,Yes
+81a20c98-3f68-4475-8296-9253c4753619,2024-05-05,23,Gerald,34,Female,headache,respiratory infection,rest,Yes
+011f6e0a-1e7e-40a2-ae19-95a062e21eda,2024-04-22,10,Shoshong,41,Female,cough,common cold,medication,Yes
+86aee293-161a-4d27-a81d-335a89fc5616,2023-08-13,28,Kgwatlheng,30,Female,headache,flu,fluids,Yes
+c6a5f986-c46c-4a23-85e9-7c469750a81b,2024-05-17,26,Gaborone west,86,Female,fever,common cold,rest,No
+ba8cf119-5bda-48fb-af0c-a8f86ab84918,2023-11-25,26,Lerala,91,Female,fever,respiratory infection,rest,Yes
+7b203141-4ed6-4bed-bedf-b2f880e5532d,2023-06-08,40,Ditsweletse,72,Male,cough,respiratory infection,medication,Yes
+8b23840d-80d6-4c41-8222-44e04468ba7a,2024-01-27,39,Botshabelo,24,Female,fatigue,respiratory infection,fluids,Yes
+4274d0e6-f2fe-4631-ad5f-bcc1aaac6454,2023-10-13,17,Sesame,63,Male,sore throat,flu,rest,No
+5507f64d-c578-40b9-88ae-efe7ed8a9e54,2024-04-29,30,Ditsweletse,18,Female,fever,common cold,medication,No
+ae975a9a-9a65-4348-aa6c-c535efeb601a,2023-07-11,34,Tsopeng,97,Female,headache,flu,medication,Yes
+6d043663-f41f-4b9b-8fc7-b919fed7fe86,2023-08-30,16,Mafitlhakgosi,90,Female,fever,flu,rest,Yes
+9eb179b8-a48d-4f45-b149-7d9fa076a3e7,2023-07-10,23,Sese,46,Female,fatigue,flu,fluids,No
+f407433f-f8f4-4d3b-8a4d-76079d63a1a7,2023-08-26,32,Khakhea,51,Male,fatigue,respiratory infection,medication,Yes
+0e6fa195-712f-4460-9dbf-385ae2cb69d2,2023-06-03,6,Boipelego,76,Male,fatigue,respiratory infection,fluids,Yes
+233ce639-b3f0-4d98-bf41-65fd9ee32359,2023-08-05,8,Nata,31,Male,fever,common cold,rest,Yes
+1e5e14ba-098a-4bc1-be2e-ff3787197bd8,2024-01-09,21,Tsopeng,34,Female,fatigue,flu,medication,No
+ba718bf5-d03e-4407-8761-7365bb623583,2024-01-22,24,Kgwatlheng,57,Female,fatigue,common cold,medication,Yes
+1cfe4746-8e6f-4d5c-a2ac-dbe5b4a391b6,2023-09-29,9,Oodi,79,Male,cough,respiratory infection,fluids,No
+3c45a58f-ad40-435e-911f-28d3d0106286,2024-04-12,37,Moshupa,64,Female,sore throat,common cold,medication,Yes
+c505b6ea-4df1-41a6-b024-c8464fda5136,2023-07-09,33,Lerala,16,Male,sore throat,common cold,fluids,No
+202864d5-83d3-495e-b092-1127193ffc8a,2023-12-12,4,Nata,40,Female,fever,common cold,medication,Yes
+a6f5d15c-0c92-46d4-a4a6-e6e7ee0ec549,2024-05-03,3,Takatokwane,44,Male,sore throat,flu,medication,No
+07d7826c-3989-4c01-8948-3f06c8fd4f59,2023-08-15,32,Otse,84,Female,cough,flu,medication,No
+93174e2c-9bbf-4474-9f6f-0d64ce7ef2ea,2023-08-08,30,Tonota,6,Female,fatigue,respiratory infection,medication,Yes
+3f078ea4-7b2f-431f-8fb0-6edaf406bda4,2023-10-27,5,Shakawe,6,Female,fatigue,common cold,fluids,No
+99e50148-925a-4722-b7df-6171a1c89980,2023-08-11,11,Mopipi,84,Female,cough,flu,fluids,Yes
+007085af-02e6-415a-9dad-5a5a588e8264,2023-09-17,20,Gerald,60,Female,headache,respiratory infection,rest,No
+2c0ad8c7-799d-4b20-8193-3527b4db7a8b,2023-07-06,22,Shoshong,83,Male,headache,respiratory infection,rest,No
+873b5a98-8903-4c68-b079-37fd0b9183a8,2023-11-26,33,Shakawe,60,Female,sore throat,respiratory infection,medication,Yes
+b96b458a-fc80-4023-8a6a-b92005a215f0,2023-11-12,32,Oodi,49,Male,sore throat,common cold,rest,No
+f63456bf-f070-409e-99c5-b6314fb107fb,2024-02-03,26,Phuthadikobo,13,Male,sore throat,respiratory infection,rest,Yes
+6e55242e-f392-42c3-81d8-d7ff285ad59d,2023-10-23,30,Shakawe,85,Female,headache,flu,medication,No
+3abcd2a0-ceeb-4196-b54c-6a223a256c96,2023-11-29,5,Kanye Main Clinic,98,Female,cough,common cold,fluids,Yes
+64801135-4480-4bde-b119-08e0d34b31dd,2024-04-03,5,Otse,60,Male,sore throat,respiratory infection,medication,Yes
+9f72b979-bf32-46f1-aba4-c816fb686ee5,2023-11-12,35,Shakawe,31,Female,cough,common cold,medication,No
+9838bf8f-fcf8-48de-b50b-8a7fa00756c0,2023-07-29,38,Sesame,75,Male,sore throat,flu,fluids,No
+7f7affbb-ccb1-4c6d-8bcd-bebf2d1ba93b,2024-05-06,9,Moshupa,44,Female,fever,respiratory infection,medication,Yes
+8d329d1a-bc7e-4f12-9db7-c6b822f82470,2024-03-26,43,Mathethe,66,Male,headache,flu,medication,No
+1e7538cf-8822-4585-a5e9-f65683b3e3f0,2024-03-30,17,Peleng East,65,Male,fatigue,flu,fluids,No
+77beac4d-b97a-4c2e-81d5-1ac603718830,2023-11-20,35,Peleng East,29,Female,headache,respiratory infection,fluids,No
+058fbad9-8c8f-46ce-b66a-aa4ac8794fc1,2023-10-03,33,Boipelego,23,Female,cough,respiratory infection,medication,No
+b232af5a-8a1e-4f58-b7a2-ae5a49615dad,2023-12-20,28,Moshupa,79,Female,cough,respiratory infection,fluids,Yes
+fcfda468-bcef-4085-984c-f9d33d7e8e11,2023-09-27,38,Tati Siding,6,Male,cough,respiratory infection,fluids,Yes
+38ca4efa-9654-4a7c-8169-676b1bce3af6,2023-07-12,6,Boipelego,77,Male,sore throat,respiratory infection,rest,Yes
+fd171cb9-cbe1-4ed8-9cc0-854e1ac6a403,2024-04-12,20,Gerald,30,Male,fatigue,respiratory infection,fluids,Yes
+b6073b79-fe90-4039-bdc9-61e390556693,2023-06-20,38,Otse,1,Female,sore throat,common cold,medication,No
+ab2f211d-d554-46e5-ae41-6c415a8b6bfb,2023-08-29,38,Kgwatlheng,58,Female,cough,flu,fluids,No
+47f6dca0-6651-43aa-b53b-e29fd7fa6a15,2023-08-30,30,Gerald,90,Female,headache,common cold,rest,No
+b5c3321a-01a5-4581-b4a6-2d917ad725e3,2024-02-06,33,Jubilee,58,Male,sore throat,common cold,fluids,No
+5814dce4-9513-470b-b861-70a951828f21,2023-10-02,34,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,74,Male,cough,respiratory infection,medication,No
+ab135ead-5a00-4f99-ab38-e457ae7da7d9,2024-01-11,43,Lesirane,22,Female,sore throat,respiratory infection,rest,No
+0c219943-8e8f-43b3-9f2b-68adfb6abe7a,2023-06-03,8,Lesirane,64,Female,cough,common cold,fluids,Yes
+b485a14a-c069-4958-9227-f84143938a0c,2024-05-11,36,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,94,Male,fever,flu,fluids,Yes
+91a4741a-a201-4624-800d-1ec9fdf81846,2023-11-17,42,Tonota,10,Male,fatigue,common cold,medication,Yes
+087a03c0-8464-4227-91fe-4939abed18b3,2023-07-16,30,Peleng East,82,Female,fever,flu,rest,Yes
+296a1307-d46a-4d30-bc6e-ded894bcef3d,2023-09-19,37,Moeti,85,Female,headache,flu,fluids,Yes
+cbfb2ac0-1896-4fe1-aba9-efd7372c8a2a,2023-09-29,15,Mathethe,45,Female,cough,common cold,fluids,Yes
+35d184f8-1c83-4c2e-bcdc-0fddcd170658,2024-03-25,23,Kang,68,Female,headache,flu,medication,Yes
+bd40ede7-6ff7-4126-9b00-662a5a743ff6,2023-06-15,43,Kanye Main Clinic,40,Female,sore throat,respiratory infection,fluids,Yes
+a22dbd8f-a2d2-40e2-9cce-a538e7ab5f06,2023-08-02,28,Jubilee,18,Male,headache,flu,rest,Yes
+e22b8522-e9df-4e71-bc39-a397eb5deec0,2023-12-19,40,Khakhea,79,Male,cough,respiratory infection,fluids,Yes
+c9f62922-31e8-457f-b2a0-4021d43402ec,2023-06-16,10,Letlhakeng,96,Female,headache,common cold,medication,No
+c2a848a4-15b4-4cad-a377-9e25926d063a,2024-01-19,34,Jubilee,36,Female,headache,flu,fluids,Yes
+7b973b10-5525-44f6-af70-84c2639553ad,2024-01-05,6,Lesirane,73,Female,fever,flu,fluids,No
+3232c86d-4488-4fe0-a893-b9aed11f2883,2023-07-31,27,Sese,38,Male,sore throat,respiratory infection,rest,No
+bf84e44e-9367-451f-a474-ec8ce809b5cc,2023-12-31,31,Kgwatlheng,80,Female,fever,respiratory infection,rest,Yes
+f69b8b0b-fd7d-41bb-a976-f31f305eb569,2023-11-04,24,Gaborone west,9,Female,sore throat,common cold,medication,No
+3b9126ec-ff12-4a5c-ad95-fe1e563c3bd9,2023-08-04,31,Boseja II,13,Female,headache,respiratory infection,rest,No
+6971ff8b-7a76-4bc9-9d28-b612e3df1e44,2024-03-15,22,Maun General Clinic,22,Female,fever,flu,fluids,Yes
+6fd22792-7c1f-4d0f-9f2a-39930ce18594,2023-10-22,39,Mafitlhakgosi,3,Female,fever,respiratory infection,rest,No
+717f504f-83f8-4c78-9ca6-426bc6f729ae,2023-06-04,9,Lesirane,78,Female,cough,flu,medication,No
+c411039f-3451-4025-8b2a-fdaadf944181,2024-05-06,23,Gerald,32,Female,cough,flu,medication,Yes
+c6fa85aa-7e33-405c-942a-08e630d57f2a,2023-07-14,8,Kgwatlheng,46,Male,fatigue,respiratory infection,rest,Yes
+ed2dd2d1-77fb-4f27-a161-69eca30ce25a,2023-07-14,23,Oodi,89,Female,cough,common cold,medication,No
+74e1c0a1-3f96-4416-abcc-f87fa31d660b,2024-01-10,36,Charleshill,54,Female,fatigue,flu,fluids,Yes
+8bf96a86-628b-4061-8302-e2fe5a01379e,2024-05-10,41,Mathethe,51,Male,fever,common cold,fluids,Yes
+466b33be-fc7d-49a8-bc80-c439fcaf7ae1,2023-11-08,6,Boipelego,38,Male,sore throat,flu,fluids,Yes
+ff799ae6-2456-4274-bb70-c772dcec2040,2024-01-28,28,Kachikau,72,Female,headache,common cold,medication,No
+cf7c90f1-672c-4d09-86aa-717f45d7099e,2023-05-24,4,Lesirane,92,Male,headache,respiratory infection,fluids,No
+04602387-c0a7-443e-b041-19229d5cf437,2023-05-27,17,Sebina,7,Female,cough,flu,rest,No
+8dbd4c87-eb76-479b-811e-033aae723684,2024-01-13,33,Tati Siding,0,Female,fever,common cold,rest,No
+ba62776d-6481-424f-b8fd-befd9dbc73f8,2023-08-03,16,Boipelego,14,Male,headache,respiratory infection,medication,No
+b98973a3-507f-403a-95d7-ff2cf1705a2a,2023-07-19,34,Mafitlhakgosi,55,Male,sore throat,common cold,rest,Yes
+f467fe21-7dd6-4375-aa15-5a800097b6ee,2024-04-21,6,Moshupa,50,Male,fever,common cold,medication,Yes
+e7c19448-fd44-4cec-aec1-07a92715c722,2023-06-15,10,Oodi,15,Male,headache,respiratory infection,rest,Yes
+5de1b895-9f86-4e73-8f3b-437ea5703ef1,2023-12-19,15,Kachikau,74,Female,fatigue,common cold,fluids,No
+0565ce5e-9ba4-4aee-a93e-87289c50b665,2024-01-15,32,Kachikau,87,Male,cough,flu,fluids,No
+c0d59aef-e278-4fc5-a317-da01b185476b,2024-01-05,26,Boseja II,97,Male,fatigue,common cold,fluids,Yes
+4488301e-9813-4dbd-8265-a4a552b9a31d,2024-01-06,33,Gerald,72,Male,sore throat,respiratory infection,medication,Yes
+11e47de9-c8ee-426b-8666-29a397c57b69,2024-04-06,31,Otse,9,Male,fever,flu,medication,Yes
+c11d7ff6-e0e3-4037-92d0-4dc6c9f444c6,2023-08-11,15,Takatokwane,84,Male,headache,flu,rest,Yes
+593d4a87-909d-4a45-9749-ab6bdd4ffa31,2023-11-04,4,Shoshong,32,Male,fatigue,flu,medication,Yes
+ac4034b0-2aa3-4d2c-bee9-d498f9b7144f,2023-12-29,29,Airstrip,100,Male,fever,common cold,rest,Yes
+def39b11-007a-4ac6-9372-ab3cd0c872be,2024-03-26,26,Letlhakeng,41,Male,sore throat,flu,medication,No
+9b4755a8-80f1-44e9-bd1d-5d963e3348cb,2024-02-29,12,Moshupa,78,Female,sore throat,respiratory infection,rest,No
+7ee6034e-b38f-4ad3-a69b-c36c7ce117c2,2024-02-14,20,Broadhurst 3 (BH3),19,Female,sore throat,flu,fluids,No
+39869664-3db4-4a10-bd20-df2fcf363baa,2023-09-18,31,Kgwatlheng,5,Female,cough,common cold,medication,Yes
+5a2245c0-0b18-4a97-8c49-94530c1040bd,2023-12-21,14,Letlhakeng,33,Female,headache,common cold,medication,No
+5e72bb2d-306f-478d-a2c2-db2f03cae123,2024-03-29,22,Jubilee,3,Female,fever,flu,rest,No
+870d4651-6601-41be-8d45-708b6bebef29,2023-12-03,29,Sese,58,Male,fatigue,respiratory infection,fluids,Yes
+76783510-8a5d-41c9-8916-f6c695a22a0d,2024-04-04,7,Maun General Clinic,28,Male,sore throat,flu,fluids,Yes
+542beba0-06e5-4409-b7a7-ef683c400c68,2023-12-25,14,Khakhea,94,Male,fatigue,common cold,fluids,No
+bc64695e-5b04-4c5b-93db-695a04628d1d,2024-03-07,8,Kgwatlheng,88,Female,headache,common cold,rest,No
+8cc91ef7-5229-484a-9c1f-78287d3d98c9,2024-01-03,43,Kang,13,Male,fatigue,common cold,medication,Yes
+75b974d8-dfde-4839-85e2-843e5c534cef,2024-02-05,21,Kgwatlheng,90,Female,headache,flu,medication,No
+d5f819b9-3703-4ad1-9362-bae0de078e87,2023-12-21,29,Nata,39,Male,fever,flu,rest,Yes
+9a133aea-eb08-4c01-b729-31dcb7954339,2024-01-23,29,Charleshill,51,Male,headache,flu,rest,Yes
+d606b484-2ba0-47f6-88c1-7bba892da642,2023-08-10,27,Phuthadikobo,66,Female,fatigue,common cold,rest,Yes
+f92a18d3-e497-499d-8ff3-47039c8865a0,2024-05-17,6,Phuthadikobo,20,Female,fatigue,common cold,fluids,Yes
+46073f09-ffc6-41c8-a7b4-cdd030dd6f9e,2023-11-04,4,Shoshong,81,Male,cough,common cold,rest,Yes
+8110c79f-5608-4391-b629-a80111085d07,2024-01-19,11,Tsopeng,44,Female,sore throat,common cold,medication,Yes
+f82542f9-3d7a-42bd-8a47-6416dca92443,2023-06-24,42,Takatokwane,81,Female,cough,common cold,rest,Yes
+32e786a3-057e-4d3f-b7ab-07cb9d1e2521,2024-05-21,43,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,4,Female,cough,respiratory infection,rest,No
+e771c054-9864-4c67-9741-a9f17e118cbc,2024-03-24,14,Shakawe,27,Female,sore throat,common cold,rest,No
+845857b8-cd55-4182-8f5d-bdeb702930e6,2024-01-17,22,Boseja II,2,Male,headache,common cold,fluids,Yes
+868e6e35-a460-4f7c-9368-8676b406e9b1,2024-01-24,42,Lesirane,69,Female,cough,common cold,medication,Yes
+09296a0e-794b-49e7-bffd-95b08197c0f9,2024-04-09,16,Jubilee,92,Female,fever,common cold,rest,Yes
+c806a244-5cb6-4bf9-9237-74e568947f05,2023-11-02,6,Shoshong,1,Female,sore throat,respiratory infection,medication,No
+a267cc79-bb1e-408f-ad3a-2259479aece9,2023-12-03,33,Takatokwane,29,Male,headache,flu,medication,No
+3223a7b8-1df6-4a14-a1e6-73a6513ccefc,2023-06-24,42,Boseja II,95,Male,fever,common cold,medication,No
+625f5b97-0e15-4f44-8302-64db675116ff,2023-08-15,8,Boipelego,50,Male,fatigue,common cold,medication,Yes
+f861d898-373b-444d-9a81-4fd62cd39cb7,2024-03-06,17,Gerald,43,Female,fever,respiratory infection,fluids,No
+7f10e608-b3c1-4918-9e9a-616dd3302a39,2023-09-09,24,Otse,3,Female,sore throat,respiratory infection,rest,No
+9fb0cfb5-39c3-45dd-9e52-08033ecd24a6,2023-09-10,2,Moeti,17,Male,headache,flu,fluids,No
+e4ff3733-ae73-42ec-85b1-a69f7f07d458,2023-10-05,26,Boseja II,34,Female,sore throat,flu,medication,No
+0c0fd2ad-d916-42c4-a4a1-bded240aea06,2023-06-27,16,Letlhakeng,49,Female,headache,flu,rest,No
+543df864-25f1-4ba6-801e-4377a61dc5bf,2023-09-14,21,Oodi,36,Female,fatigue,common cold,medication,Yes
+d09f7243-ad6d-4529-a4be-1e1f4eb0557e,2023-06-28,7,Mopipi,70,Male,fever,flu,medication,Yes
+6f334f79-c499-4028-a34f-f0dbdcf19c09,2024-03-23,34,Sese,67,Male,fatigue,respiratory infection,rest,No
+1702ccae-fd14-4f1e-bf32-a58ccdb5a752,2023-09-27,34,Moeti,66,Female,fever,respiratory infection,fluids,Yes
+1818d6fd-7049-42ed-98ab-6b818e201a8a,2023-11-01,29,Nata,9,Female,headache,common cold,medication,Yes
+9a059010-80c2-444e-b5c3-5829a954fd6e,2023-08-23,11,Boseja II,11,Male,fatigue,flu,medication,Yes
+56633dde-d969-4580-8a3c-02d9ff3758f6,2024-03-31,11,Kang,78,Male,fatigue,common cold,fluids,Yes
+7ff17a02-1143-4481-85b5-a7840d04fdde,2023-12-18,30,Tati Siding,61,Male,sore throat,common cold,medication,Yes
+6aae65d4-b497-465d-bb00-2f298308a346,2023-07-19,39,Tonota,86,Male,fatigue,respiratory infection,medication,Yes
+91d710f2-7f4a-4639-97e1-fae6f24ba92a,2023-06-02,6,Tsopeng,56,Male,headache,flu,rest,No
+c60a4877-5fce-4467-abbb-717add034188,2023-12-18,5,Sese,91,Male,headache,respiratory infection,fluids,No
+1746b431-d558-4d7e-bc21-ad47396bf5c0,2023-08-08,28,Khakhea,55,Male,sore throat,respiratory infection,medication,Yes
+e8bd1500-7c25-48da-af7c-3045af5a805a,2023-12-26,42,Ditsweletse,68,Female,cough,respiratory infection,medication,No
+2faeac0d-a3bd-46bd-91c5-79e9225f1e31,2024-01-30,16,Tonota,76,Female,fever,flu,fluids,No
+9a49c460-4675-4415-90d8-e144775c592a,2024-01-09,35,Mabutsane,49,Female,fever,respiratory infection,rest,Yes
+2e3eade8-bbc3-43e5-bcad-e3746ef1cbeb,2023-08-11,23,Phuthadikobo,32,Female,headache,common cold,rest,No
+84ae0367-8fc4-4e47-b172-64a33d532336,2024-04-15,11,Mabutsane,73,Male,fatigue,common cold,fluids,No
+0d3c1da6-a746-4f37-8c14-a127aabeb8c6,2023-08-15,6,Boipelego,13,Male,sore throat,common cold,rest,Yes
+9ba8c03e-07b4-4092-a0ed-cc848b2adea4,2024-03-10,27,Khakhea,96,Female,cough,common cold,medication,Yes
+487f7b46-79cc-422f-8f9b-26e9c76509c3,2024-02-14,28,Khakhea,72,Male,fatigue,common cold,fluids,No
+61233785-84a0-467b-a1ea-82675c6a83dc,2023-08-02,39,Mabutsane,86,Male,fever,respiratory infection,rest,No
+936a90ce-6219-4b2b-b87f-1f789f623b68,2023-05-23,26,Charleshill,10,Female,cough,respiratory infection,fluids,Yes
+58c6d686-0589-42bb-9a5c-fe7d5580a85a,2023-12-22,8,Shakawe,77,Female,fever,flu,fluids,No
+4c785d00-56e9-4aae-b416-3ccfe12daa85,2024-02-02,20,Lesirane,58,Female,fever,common cold,fluids,No
+a0e5ff02-d113-41ba-a8e3-649c1a90ea40,2024-03-20,42,Mabutsane,94,Male,headache,common cold,rest,No
+99b88e70-c0f4-454f-8b06-bc7601ae6186,2024-03-30,16,Letlhakeng,51,Female,cough,flu,rest,Yes
+dd4a1374-04ff-4dde-a875-2e97f6e045f4,2023-06-11,31,Charleshill,31,Female,headache,flu,medication,Yes
+138bf49d-6c19-4859-815a-f6df5bfe7662,2023-06-25,35,Shakawe,84,Male,headache,respiratory infection,medication,No
+1dc885a3-d724-4fa9-9177-19683d93d6b6,2023-09-06,28,Airstrip,60,Female,fatigue,common cold,fluids,No
+c647d389-daf3-4cfa-b03c-0401b4928dd2,2023-12-12,11,Sese,43,Female,sore throat,respiratory infection,rest,No
+808ce1be-d262-4972-8fe6-3fd04b44c8b9,2024-01-02,24,Kgwatlheng,34,Male,headache,respiratory infection,fluids,No
+fabe3fa3-e57c-47b7-b7df-f0776fe6fca0,2023-11-04,31,Khakhea,36,Male,fatigue,flu,rest,No
+e789a2c0-21c8-4b44-a4fd-2dd66eb628c2,2023-05-25,10,Kang,18,Male,fatigue,common cold,rest,No
+d69b2332-cc5d-4887-881c-69015f3091fe,2023-11-17,5,Sese,4,Female,cough,flu,fluids,Yes
+4bab60d2-b4c9-43aa-87f8-ce3135729267,2024-02-14,7,Maun General Clinic,78,Male,fatigue,respiratory infection,fluids,Yes
+cd1187f2-ca9c-49dc-b92b-29a8d1e9db12,2023-05-28,33,Mafitlhakgosi,64,Female,fatigue,respiratory infection,medication,Yes
+d72bb4e0-c4e8-4fdf-bbdf-92dc0de3b774,2023-09-28,21,Mopipi,16,Male,headache,respiratory infection,fluids,No
+11059f53-374d-4d40-a133-77018a5ba0cb,2024-01-19,23,Lerala,6,Male,fatigue,flu,rest,No
+6a4858a9-c43c-408c-9fe2-169ccd1d552b,2023-08-19,34,Peleng East,33,Female,sore throat,common cold,rest,No
+6e5af466-ee3b-4d01-b61e-56de15199aa7,2024-03-27,5,Tapologong,26,Female,fatigue,common cold,rest,Yes
+1272b1ed-6058-4dc6-b1d3-694af152d054,2024-04-23,12,Mabutsane,80,Female,fatigue,common cold,medication,Yes
+e14a20cd-a1c8-40ea-8307-a4614f2392ac,2023-05-26,11,Mathethe,83,Male,cough,flu,fluids,No
+7c7c3880-a36e-43fd-82f6-a814364ccc5e,2023-09-19,24,Maun General Clinic,58,Female,fever,respiratory infection,medication,No
+455fcd16-55a6-4abd-ae23-733dbbebce01,2023-06-07,22,Tonota,84,Male,fatigue,flu,fluids,No
+9f6576f3-30a0-4f5b-8f0a-0d473c75da23,2023-09-12,35,Tati Siding,46,Female,sore throat,common cold,fluids,No
+2bfe626b-39ee-4803-8ee5-68366a5824bd,2024-04-20,24,Mafitlhakgosi,8,Female,fatigue,flu,fluids,No
+43190b95-ec8e-4e41-82df-d6d7fd72dca7,2024-04-01,26,Gerald,81,Male,fatigue,flu,rest,No
+7863a5b0-c9d2-464c-aca7-4a3f5adab4de,2024-02-15,1,Boseja II,65,Female,cough,flu,fluids,Yes
+3ad7e2da-a3ec-4d38-8e6d-eac80207f3a3,2024-03-26,20,Kang,42,Female,fatigue,flu,rest,No
+e7a7da31-32ad-435e-808a-5387fdde98ce,2023-06-29,17,Mathethe,75,Male,cough,respiratory infection,fluids,Yes
+919c64a9-d8d7-4be3-8c52-1761d67d1001,2024-01-12,30,Boipelego,23,Male,fatigue,common cold,medication,No
+6afe6a0f-e137-4f7d-865f-46e7de9a4dda,2023-07-07,7,Mafitlhakgosi,64,Male,headache,respiratory infection,medication,No
+5fa214e7-2391-4ea1-9110-217f07220b14,2024-01-05,3,Kang,39,Female,fever,respiratory infection,fluids,Yes
+534f76d4-8fb6-425c-b6c2-5dd5d6cacbe6,2023-05-25,34,Botshabelo,73,Male,headache,common cold,rest,No
+4bbffd0f-9115-40a7-baeb-befd124ab557,2023-11-27,17,Kgwatlheng,76,Female,fever,flu,medication,Yes
+7f2b5264-1511-4490-91fb-31d49822cb71,2023-11-17,42,Peleng East,25,Female,fever,flu,rest,No
+b35af339-12ec-4e45-8f1a-d23fde714181,2023-09-03,8,Tapologong,15,Male,fever,respiratory infection,medication,No
+6259cfe2-2aa9-4f63-82f9-5c4e5098587e,2023-07-04,13,Moeti,73,Male,sore throat,common cold,fluids,No
+31035c70-9a42-4d96-97f1-79d3dfe0d5f9,2023-05-28,34,Moshupa,56,Female,sore throat,common cold,rest,No
+94afcb96-78b7-4e39-85bb-3f2138333210,2024-01-13,24,Takatokwane,24,Female,sore throat,respiratory infection,rest,Yes
+aadf3cb0-2ad9-4f88-b2e1-af6b74679230,2024-05-18,34,Shakawe,66,Female,sore throat,common cold,rest,Yes
+14949398-0454-42f3-8a5b-62bad7c08696,2023-09-02,40,Kang,84,Male,sore throat,common cold,fluids,No
+e543bd2c-5638-4cd8-9a99-6787ae612939,2023-11-28,15,Botshabelo,30,Male,fatigue,respiratory infection,medication,No
+75f5e63d-e33c-41c3-b76e-d6feb45653d9,2024-05-07,9,Letlhakeng,90,Male,fever,common cold,medication,No
+6b2ee326-71c3-4f9c-bc55-fe1a5c32cd5a,2023-06-22,41,Takatokwane,16,Female,fever,flu,medication,No
+1decabf4-ad2f-4dfd-a4fb-f1b612af46d5,2024-03-01,40,Moshupa,46,Male,headache,flu,rest,Yes
+f093b842-6ac3-4745-bc00-410b8f2c03f3,2023-10-26,38,Sesame,59,Male,headache,flu,fluids,Yes
+8f0f7cd7-ffeb-49ed-9360-860a86fddf81,2023-12-25,6,Shakawe,27,Male,fatigue,respiratory infection,rest,No
+1a6e8528-6832-40c5-b4d0-879a8cee17e2,2023-08-06,8,Mabutsane,83,Male,fever,respiratory infection,fluids,No
+7014e18c-122d-4ebc-808b-ff80a5f0a37f,2023-05-27,25,Lesirane,6,Female,sore throat,flu,fluids,No
+2edbb5f1-d0b7-4296-9153-71b02e6461e9,2023-07-05,32,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,68,Male,headache,respiratory infection,rest,No
+b0303835-831a-4316-9e12-cc6a0d4a3e30,2024-01-13,40,Lesirane,27,Female,fever,respiratory infection,rest,No
+d2b0f2c5-50a8-4f6f-bcf4-fd3e3e163973,2023-12-19,13,Old Naledi,16,Male,headache,flu,fluids,Yes
+ee09d432-0763-43f0-ade4-f17bfdca9055,2023-11-09,2,Broadhurst 3 (BH3),71,Male,headache,respiratory infection,medication,Yes
+52616835-fd95-483b-9594-5d938f862035,2023-09-22,14,Kanye Main Clinic,45,Male,fever,respiratory infection,medication,No
+18aef4dd-e480-4dc1-bc64-a9a1813f4ff8,2023-06-15,14,Takatokwane,31,Female,fatigue,flu,fluids,No
+c965d1aa-e117-4177-a842-43943610326a,2023-08-09,35,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,57,Male,cough,common cold,fluids,No
+16ced128-d7e8-4c90-b3df-833ba87ec6e3,2024-04-15,27,Broadhurst 3 (BH3),55,Female,sore throat,respiratory infection,medication,Yes
+96f3a566-f141-4f71-b674-c18d440fe971,2023-08-19,21,Jubilee,48,Female,fatigue,flu,rest,Yes
+6c705e71-8041-48de-a476-8f6a735a7f24,2024-04-14,17,Otse,69,Male,fever,respiratory infection,fluids,Yes
+27bd8d5b-72ee-4598-9ff7-d0251f0ba04d,2024-01-24,4,Moeti,68,Male,headache,flu,rest,No
+7cf58ba4-a88f-40fd-85e0-788e52bda478,2024-03-11,42,Takatokwane,72,Male,cough,respiratory infection,rest,Yes
+8d8fd1fa-4c88-45c9-8bb2-23bf819f40b4,2023-06-22,37,Lerala,18,Male,fever,flu,medication,No
+609724d5-344b-4884-88e4-c88af509b62d,2024-03-27,20,Airstrip,67,Female,cough,respiratory infection,medication,No
+d92c5b59-7a4b-4b82-a2d1-7abd2b7ebb75,2024-03-02,38,Maun General Clinic,90,Male,cough,flu,medication,No
+d60c8ec5-c975-4c2b-a3fb-b60b800ff05e,2023-10-23,18,Khakhea,63,Female,fever,respiratory infection,fluids,Yes
+3bc5fe1e-3375-4f5a-a823-bdac025a4a0f,2023-10-10,5,Peleng East,66,Male,sore throat,respiratory infection,fluids,Yes
+4f194da3-80e8-4128-9a6f-7a3f59f012a0,2024-04-04,14,Sese,77,Male,fatigue,flu,fluids,Yes
+e65d55c7-8edc-4b69-9169-0b1fe9a82256,2023-06-16,27,Moshupa,49,Male,fever,flu,rest,No
+edf37285-57be-454f-bf5e-8d4a30627934,2024-02-11,27,Mafitlhakgosi,86,Female,fatigue,respiratory infection,rest,No
+ee48e719-5914-4605-91ec-e92138917267,2023-09-29,5,Tonota,88,Female,headache,common cold,medication,No
+ab6089e9-ac18-4418-af99-fdf52c0d1781,2023-08-07,29,Jubilee,19,Male,fever,common cold,rest,Yes
+3fa49b08-4e81-4fd8-ae4c-cc08220cf81d,2023-08-31,41,Kgwatlheng,90,Male,fatigue,respiratory infection,rest,No
+7e6f22a4-db45-4841-9a1f-357d3c00a924,2024-02-23,3,Tati Siding,42,Female,headache,flu,fluids,Yes
+c742e1db-c68c-4081-8673-56eeb0350f4c,2023-10-08,29,Moeti,28,Female,headache,common cold,medication,Yes
+38d990e8-e846-4174-b46e-fdfb0453f3b1,2023-10-20,35,Lesirane,89,Male,fever,common cold,fluids,No
+e09c03c5-4a9e-4f41-a809-1fb6ee5f44ef,2024-03-16,28,Khakhea,71,Male,cough,flu,fluids,Yes
+4bbfd95b-7d2f-4b77-8aea-34ef81e22e72,2023-11-26,38,Mafitlhakgosi,72,Male,headache,respiratory infection,fluids,Yes
+372d2650-5d30-4db1-9dc9-5d096ebfb3a3,2023-10-29,38,Kanye Main Clinic,49,Female,headache,flu,fluids,Yes
+76d180cf-1e5e-47bb-83d1-fad6a1fda3ba,2023-08-29,3,Mathethe,14,Female,fatigue,respiratory infection,fluids,No
+c2aec7a7-7d76-4114-a7be-6cb195a00ffc,2023-06-21,21,Mopipi,88,Male,sore throat,common cold,medication,Yes
+da7fd4fb-a401-45a7-bb11-aa2625baed12,2023-06-27,41,Airstrip,46,Female,cough,common cold,rest,Yes
+d3756363-acb9-49f9-a759-f446304b386b,2023-11-14,27,Otse,6,Female,fever,flu,medication,Yes
+c0770413-18c9-4d2c-b270-d19be242332a,2024-03-20,39,Khakhea,81,Female,sore throat,respiratory infection,fluids,No
+0042263d-f205-4da5-8e50-93dc21480102,2024-01-29,22,Broadhurst 3 (BH3),75,Male,fever,common cold,medication,Yes
+17fea56a-f535-491e-a7cc-ddd87011b1c8,2024-04-24,10,Lerala,58,Male,fatigue,flu,rest,Yes
+445f43f4-e68c-4720-a379-24f9acec4952,2023-09-21,1,Jubilee,18,Male,sore throat,respiratory infection,rest,Yes
+7193f2ad-2b93-41ff-8cf1-ce53773ee9a4,2023-12-15,33,Letlhakeng,88,Female,headache,common cold,rest,Yes
+dc23d92d-cbb6-4f03-bf6e-0f432dbf4935,2023-08-27,2,Lesirane,9,Female,headache,flu,medication,No
+7175a885-2868-48d3-bea0-8b6fafe33593,2023-06-17,3,Airstrip,90,Male,sore throat,respiratory infection,rest,Yes
+1be998b4-b0bb-41dd-80ee-bea9664fc041,2023-09-14,43,Boseja II,76,Male,headache,respiratory infection,medication,No
+1e58111d-a939-4414-9136-1cd82bcd4255,2023-08-07,16,Khakhea,37,Male,headache,common cold,fluids,Yes
+ccf28e84-344a-4b55-b087-06a70a293305,2023-10-11,17,Boipelego,91,Female,sore throat,respiratory infection,rest,No
+73d67b57-934a-43e8-a8bd-76d1ff8ea211,2023-11-21,31,Khakhea,28,Female,headache,common cold,fluids,Yes
+52e66167-c738-492f-9881-223e3d1004b1,2023-12-12,14,Sesame,52,Male,fatigue,flu,medication,No
+0c270bed-3df0-41fa-bf6f-14948e570eab,2023-07-20,9,Maun General Clinic,0,Male,fatigue,common cold,fluids,No
+eb6895bf-4ce1-4e8f-b736-421adfd73ec9,2023-12-07,11,Bokaa,79,Female,fever,flu,rest,Yes
+c6d815c9-3374-4e7e-a8b9-007dfc74b9e5,2023-07-01,37,Ditsweletse,47,Female,fever,common cold,fluids,Yes
+4e3a4f2a-9dd5-4c56-9654-6aa647d3738f,2023-11-17,13,Old Naledi,11,Male,sore throat,respiratory infection,medication,Yes
+b047b009-2f00-423d-8f44-03e6ae6c6a27,2023-10-30,2,Mathethe,88,Female,fatigue,common cold,medication,Yes
+1e6763fe-4dda-46e7-a139-01ccb958854a,2023-12-16,15,Moshupa,71,Male,cough,common cold,rest,Yes
+1a210c2e-ca9a-452f-8578-204a93f726ee,2024-05-17,10,Tsopeng,26,Male,cough,common cold,rest,No
+b0610e66-5069-4a0c-b878-d72394f568a4,2024-04-12,14,Sese,54,Male,headache,common cold,rest,No
+1fb2fef8-9161-4f28-96d7-846582b4ac1f,2024-04-25,29,Old Naledi,29,Female,sore throat,respiratory infection,medication,Yes
+407f4972-a420-43e0-8501-ed344ed23c4e,2023-08-26,19,Shakawe,95,Male,sore throat,respiratory infection,medication,Yes
+0cb8b4de-6ff2-4bf4-aa41-af41035f479c,2024-02-18,39,Lerala,14,Male,fatigue,flu,rest,No
+4d5814ba-6a6c-4a50-9a7d-461f70ed7723,2023-07-17,13,Maun General Clinic,82,Male,sore throat,flu,fluids,No
+c2a4fc2a-7c52-48f7-8415-57d6e74ff7d7,2024-02-04,11,Broadhurst 3 (BH3),29,Male,fatigue,common cold,rest,No
+47a85c7c-168f-4b82-874d-3f01883930a6,2023-10-20,21,Kang,10,Female,fever,flu,medication,No
+5c80c6f5-46cd-45da-9f70-b84fca3a3de0,2024-02-16,34,Moeti,1,Female,fever,respiratory infection,medication,Yes
+12358fac-25d1-464a-9ea7-6ce784bf99ac,2024-01-28,15,Boipelego,34,Male,fatigue,common cold,rest,Yes
+a822f7b4-76be-46d7-99f3-b7fa8fd7ba03,2024-05-01,11,Moeti,1,Female,fever,common cold,fluids,Yes
+c14078b4-0bd5-42e0-826c-85b795b5814a,2024-02-06,30,Moeti,91,Female,sore throat,respiratory infection,fluids,Yes
+38a113e9-ee2a-47db-8f21-3c9abb86a932,2024-03-08,31,Bokaa,75,Male,sore throat,respiratory infection,fluids,No
+3b78bee6-837d-4d1f-a56b-431e955844f0,2024-02-14,24,Kachikau,20,Male,cough,flu,fluids,No
+ebbfdb73-bb6c-49a2-a4f3-009c8b63a5d4,2023-06-01,27,Boipelego,69,Male,headache,respiratory infection,medication,No
+2332984e-9725-425a-b79d-36888a3ada3b,2024-02-17,6,Boseja II,10,Male,sore throat,flu,rest,No
+e4065d5e-5790-45db-bfc6-d0947d6ae98e,2023-11-21,19,Kang,8,Male,cough,respiratory infection,medication,Yes
+1b5e4ad9-1dc4-44e4-a6ff-5274617b3b5e,2023-12-18,14,Old Naledi,80,Male,cough,respiratory infection,rest,Yes
+0086d6ac-733e-4912-887a-8ae0f2daa7f2,2024-03-22,16,Gaborone west,34,Female,headache,flu,fluids,No
+d4ada03c-8343-4b0d-a984-2d77acb0439a,2024-04-10,8,Jubilee,15,Male,fever,common cold,rest,No
+8749e93c-2310-47ae-9704-e6e0ea943766,2023-10-29,20,Jubilee,22,Female,fatigue,respiratory infection,fluids,No
+9e7ee89a-9891-4cef-8778-619879b41dc8,2024-03-26,32,Moeti,90,Male,fever,flu,rest,No
+71d7b7df-4ce0-4a5a-a220-03b02c2eafb6,2023-12-11,12,Moshupa,11,Female,fatigue,flu,fluids,No
+4cb09001-125c-4825-8588-b992a2ee9e01,2023-11-23,12,Broadhurst 3 (BH3),21,Female,sore throat,common cold,rest,No
+80bb5505-81f5-4e66-be5a-3033bbc461e2,2023-09-21,1,Old Naledi,23,Male,fatigue,common cold,fluids,Yes
+f7cb3b21-84eb-48a8-bd09-4c31614c9b60,2024-03-10,2,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,33,Female,sore throat,respiratory infection,fluids,Yes
+772b1e0f-3b65-4e79-a3d8-e3dca26f4df5,2023-06-14,29,Mabutsane,100,Male,cough,common cold,fluids,No
+b45b6958-69d3-4335-9ab2-43dff2db93ee,2023-05-29,14,Mopipi,61,Female,cough,flu,medication,No
+c76dade3-b184-4451-9767-ea1cc340bf64,2023-08-09,34,Takatokwane,18,Male,sore throat,respiratory infection,medication,No
+7a0b638b-9247-4d67-bed2-524d7acdfecd,2024-04-16,34,Airstrip,8,Female,sore throat,common cold,fluids,No
+087337ca-637a-4b95-9c64-f7732efb48be,2023-12-09,8,Tonota,70,Male,fatigue,flu,fluids,Yes
+73b94615-6152-4b6c-9abe-273edadbfdf3,2023-12-08,17,Gerald,97,Male,fatigue,flu,fluids,Yes
+23607217-3962-45d6-a0cc-c94344c7468e,2023-11-19,7,Letlhakeng,11,Female,fatigue,common cold,rest,Yes
+0603990e-ea43-4722-8d88-07e6b8768771,2023-12-14,34,Letlhakeng,31,Male,cough,common cold,fluids,Yes
+5752b144-e97c-45da-b603-5d7d1998973f,2023-09-06,38,Ditsweletse,81,Female,headache,flu,rest,Yes
+060be9b6-e9a5-4967-97c2-b031f04abb88,2024-05-06,20,Tonota,68,Male,fever,flu,fluids,No
+4c629af7-3378-41e0-b986-cb917a6d245d,2024-03-01,16,Jubilee,72,Male,cough,respiratory infection,medication,Yes
+ae732d73-ef5b-4ea8-a90c-07e3090452a7,2024-04-21,20,Kang,25,Male,cough,common cold,rest,No
+f08fbed1-9c98-48e6-acf8-004d4ff54e04,2023-06-25,16,Old Naledi,86,Male,fever,flu,rest,Yes
+978e2bee-8527-41fa-bc9a-3687a440df4b,2023-08-07,43,Takatokwane,53,Female,fever,common cold,fluids,No
+0dd1a4ac-144c-4c36-8b2e-d1195f354169,2023-07-29,8,Charleshill,0,Female,sore throat,respiratory infection,medication,No
+1da6cac6-e90c-4f75-b6dd-d4894997dbe5,2024-04-24,20,Mabutsane,73,Male,sore throat,flu,rest,Yes
+fe343e6d-ceca-4e2e-9a3e-896d77abcaf9,2024-02-07,10,Boseja II,44,Female,fever,flu,rest,Yes
+b10ec8c5-7503-41f6-b6f1-7a526251ad4f,2023-07-09,29,Old Naledi,50,Female,fatigue,flu,rest,Yes
+7c5d5f51-e5be-4980-98d1-97efd8e99cad,2023-09-04,3,Broadhurst 3 (BH3),31,Female,cough,respiratory infection,rest,Yes
+3aab9b7c-0d50-437f-ae12-dd878cd26f39,2023-08-30,13,Tati Siding,23,Female,headache,flu,rest,Yes
+6c64b230-35d2-43ca-863d-d0688b1891fa,2023-07-06,19,Lesirane,82,Female,sore throat,respiratory infection,rest,No
+5cf78461-475d-490b-a24f-59e05b69a24b,2023-09-06,14,Botshabelo,64,Female,headache,flu,medication,No
+a4825ea5-106b-4698-9f65-477e91dc1974,2024-03-15,33,Kgwatlheng,30,Female,fatigue,respiratory infection,fluids,Yes
+0605d79f-e8be-4074-8050-45ea163a8a00,2024-04-08,29,Jubilee,31,Female,fatigue,flu,rest,Yes
+87348242-fe97-45c1-99f9-c01c57b8f21f,2024-01-15,15,Tapologong,44,Male,cough,common cold,medication,No
+3ea7a2a8-48f1-4afe-b2c2-042491292eba,2023-09-13,41,Tati Siding,8,Female,fever,common cold,rest,Yes
+118d3065-c84b-4f0a-9e93-c8e0d0541a53,2024-05-15,26,Tapologong,25,Female,headache,common cold,medication,No
+b927d4bf-b596-4a39-ba74-8408b20d1406,2024-04-06,10,Bokaa,1,Male,headache,respiratory infection,medication,Yes
+0888387d-751c-4446-bc3c-e7028cdf6a0a,2024-03-17,43,Phuthadikobo,46,Male,fatigue,flu,rest,Yes
+8fc87fff-8ae2-4d4f-b993-b5b9f1918954,2023-06-06,41,Airstrip,76,Male,headache,flu,fluids,Yes
+edc6fe36-b7e0-43dc-99c7-7b7602d7f844,2023-11-16,39,Nata,37,Male,fatigue,flu,fluids,Yes
+86ad419c-9908-4436-b952-dc714b83aa48,2023-08-24,33,Peleng East,85,Male,sore throat,respiratory infection,medication,Yes
+0cffc0ff-d202-4471-8c32-b790621c7c96,2023-11-15,37,Khakhea,58,Male,sore throat,respiratory infection,rest,No
+2abc4ce3-a9a4-4420-b6aa-0cec4592d3af,2023-08-18,4,Shoshong,83,Female,sore throat,respiratory infection,rest,Yes
+7e3c75e2-7a5b-433d-89a9-7bf2c6d24212,2024-02-16,5,Sebina,62,Female,cough,flu,rest,Yes
+3f308493-4043-493a-a527-1771500b2b16,2024-03-03,30,Airstrip,77,Male,headache,flu,rest,Yes
+1448537f-2bef-4da1-8782-f00d31dfd2ba,2023-12-08,15,Boipelego,100,Male,headache,common cold,medication,Yes
+7c32b516-7edb-4354-bd6d-68c16ea663e9,2023-10-17,1,Charleshill,13,Female,headache,respiratory infection,rest,Yes
+62aa62f0-94a8-48f9-aa1d-a0052287e6bd,2023-08-17,11,Shakawe,24,Male,sore throat,flu,medication,Yes
+15e8ba15-fcd3-4b6f-af89-44b7fb8e426d,2023-09-06,28,Kanye Main Clinic,52,Male,sore throat,common cold,rest,No
+a2c20478-cdeb-49dd-a8ea-af39cf552312,2023-10-08,30,Phuthadikobo,47,Female,cough,common cold,fluids,No
+be49c42c-c61b-4c62-b8b0-5406bd32e1b7,2023-06-02,16,Boseja II,35,Female,headache,respiratory infection,medication,Yes
+295e7b90-062f-426c-b772-b94802ae34cd,2024-01-06,36,Phuthadikobo,47,Female,fever,flu,rest,No
+5996d877-04e0-49e5-84ef-736f588e2756,2023-06-01,35,Tati Siding,45,Male,headache,common cold,medication,No
+a8aca368-bd3a-4de4-9555-11e8ff914b98,2023-11-02,33,Nata,52,Male,sore throat,flu,fluids,No
+52aa1871-e1c2-41f9-880b-cb49fa712ca0,2023-11-24,11,Gaborone west,95,Male,fever,respiratory infection,medication,Yes
+4ffd4f1d-b149-4090-a360-5e8b7b8fc36a,2024-02-20,12,Charleshill,85,Male,sore throat,common cold,medication,Yes
+2a626b61-1666-4c1b-8ce6-2b0750215796,2023-07-29,29,Khakhea,46,Female,fever,flu,rest,Yes
+c7c1dcb4-2162-4ae7-b538-0c5ce07e1238,2024-01-17,24,Sebina,4,Female,headache,flu,fluids,Yes
+2188f966-bb0b-4eb7-a706-4af44bd1a05c,2023-09-06,21,Gerald,68,Female,fatigue,common cold,fluids,Yes
+313ce563-e6ef-4523-ab2e-ac138d000b4f,2023-09-19,7,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,83,Female,fever,common cold,medication,Yes
+cd0a0913-2b85-4149-8464-9a607bf5a9c8,2023-12-13,42,Khakhea,6,Male,fatigue,common cold,medication,No
+eefeed54-0eec-4797-88d5-4a14cb491ec7,2023-05-31,28,Kang,8,Female,fatigue,common cold,rest,Yes
+370f59e5-24a2-47de-8853-6b462a91ead7,2023-05-22,28,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,57,Female,fatigue,flu,rest,No
+8a3e95e8-7f77-48f3-a8b0-b4eb95815197,2024-01-04,37,Mafitlhakgosi,100,Male,sore throat,common cold,rest,No
+e316278b-4e69-4fd8-8642-35ba281a1bda,2024-05-13,34,Tati Siding,31,Female,cough,flu,rest,No
+9e94f3da-99f7-4033-9109-de853e87b1d9,2023-10-13,24,Lerala,8,Female,cough,flu,medication,Yes
+58277384-d734-4cb6-b54c-929bd417b30f,2023-10-13,28,Moshupa,0,Male,fatigue,respiratory infection,rest,No
+400368fb-5b93-420f-ac25-4dbb964e3872,2024-03-11,35,Moeti,98,Female,fever,respiratory infection,fluids,Yes
+7b800be9-bf5d-4741-9f97-e1f707d3f94b,2024-05-05,12,Otse,11,Male,headache,common cold,rest,No
+f3d54f9b-12d8-4de7-8b78-a4b046f66eb5,2023-09-06,42,Lerala,23,Male,fatigue,flu,rest,Yes
+f2019def-78e4-4ee1-8e1c-2fe72d2f5835,2023-08-15,12,Mopipi,9,Female,fatigue,respiratory infection,fluids,Yes
+57f49ea9-d1d7-4e4d-930d-9b63015e00b4,2024-02-07,36,Block 9-Julia Molefhe Extension 2 Nkoyaphiri,59,Male,fever,respiratory infection,rest,Yes
+80c983a2-a63d-4cb0-902f-403da94812c1,2023-06-03,8,Lesirane,89,Female,sore throat,respiratory infection,rest,No
+ffad30fc-197d-4186-be51-3a852e85ed70,2023-08-30,3,Lerala,65,Female,cough,common cold,fluids,No
+fa8f5e5c-7424-4fae-91ea-96495c1a6347,2023-12-09,32,Moshupa,41,Male,fever,respiratory infection,rest,No
+9db54ceb-6585-42a6-91e9-8dd0bd07cdb1,2024-02-11,32,Ditsweletse,100,Female,headache,common cold,rest,Yes
+63050660-867f-4c68-918a-055f80a29746,2023-07-09,42,Lesirane,78,Male,fatigue,common cold,medication,No
+bce3085c-d52c-4cf3-8095-d051eb0a8985,2023-11-18,39,Shakawe,16,Female,fatigue,common cold,rest,No
+01562374-b039-443f-9c36-a29b035b53c5,2023-07-12,21,Shoshong,30,Male,sore throat,flu,medication,No
+74ba17d3-8bc1-4ae3-ac74-23dd2cb156d2,2023-11-09,4,Tati Siding,96,Male,sore throat,flu,medication,Yes
+7a880c0d-5c42-4abf-b6b0-38eb88fddc74,2023-10-15,15,Old Naledi,62,Male,fever,common cold,rest,No
